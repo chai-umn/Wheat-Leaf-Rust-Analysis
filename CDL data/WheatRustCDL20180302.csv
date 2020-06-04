@@ -1,0 +1,3490 @@
+Year,WheatType,State,Acre1000,YieldBu,Prod1000Bu,StemPer,LeafPer,StripePer
+1918,All wheat,Colorado,1225,17.2,21025,0.5,0,0
+1918,All wheat,Illinois,2900,20,58050,0,0,0
+1918,All wheat,Indiana,2350,22,51707,0,0,0
+1918,All wheat,Iowa,1060,19,20142,0,0,0
+1918,All wheat,Kansas,7250,13.5,97710,0,0,0
+1918,All wheat,Michigan,760,14.2,10315,0.5,0,0
+1918,All wheat,Minnesota,3450,20,68860,0.1,0,0
+1918,All wheat,Missouri,3100,17.2,53268,0,0,0
+1918,All wheat,Montana,2386,12.6,29961,0,0,0
+1918,All wheat,Nebraska,3826,11.3,43198,0,0,0
+1918,All wheat,North Dakota,7770,13.6,105672,0.5,0,0
+1918,All wheat,Ohio,2550,18.5,47213,0.1,0,0
+1918,All wheat,Oklahoma,3200,11.5,36800,0,0,0
+1918,All wheat,Pennsylvania,1340,16,21426,0.3,0,0
+1918,All wheat,South Dakota,3280,17.8,58500,0.7,0,0
+1918,All wheat,Texas,1000,7.5,7500,0,0,0
+1918,All wheat,Virginia,1020,12,12240,0,0,0
+1918,All wheat,Washington,2315,12.5,28975,0,0,0
+1918,All wheat,West Virginia,275,12,3300,0,0,0
+1918,All wheat,Wisconsin,424,22.3,9465,0.5,0,0
+1918,All wheat,Wyoming,198,18.8,3732,0,0,0
+1919,All wheat,Colorado,1329,13.8,18300,1,0.1,0
+1919,All wheat,Illinois,4103,17.2,70496,1,1,0
+1919,All wheat,Indiana,2799,16.1,45122,1,1,0
+1919,All wheat,Iowa,1438,14.3,20501,8,1.5,0
+1919,All wheat,Kansas,11624,13.2,153311,10,1.5,0
+1919,All wheat,Michigan,1056,19.3,20401,8,1,0
+1919,All wheat,Minnesota,3878,9.5,36790,20,1,0
+1919,All wheat,Missouri,4577,14.3,65346,4,2,0
+1919,All wheat,Montana,1698,5,8493,0,0,0
+1919,All wheat,Nebraska,4427,13.2,58304,10,1.5,0
+1919,All wheat,North Dakota,9098,6.7,61256,20,1,0
+1919,All wheat,Ohio,2992,19.9,58135,1,1,0
+1919,All wheat,Oklahoma,4718,14,66052,4,4,0
+1919,All wheat,Pennsylvania,1425,16.5,23448,0,1,0
+1919,All wheat,South Dakota,3896,8.1,31473,10,0.5,0
+1919,All wheat,Texas,2415,15.5,37432,3,4,0
+1919,All wheat,Virginia,991,11.8,11694,0,3,0
+1919,All wheat,Washington,2495,16.8,41888,0,0,0
+1919,All wheat,West Virginia,298,13,3874,12,3,0
+1919,All wheat,Wisconsin,530,13.9,7385,15,1,0
+1919,All wheat,Wyoming,184,8,1479,0,0,0
+1920,All wheat,Colorado,1410,15.6,21967,1,0,0
+1920,All wheat,Illinois,2990,15.4,45900,0.5,0.5,0
+1920,All wheat,Indiana,2108,12,25326,0.1,0.1,0
+1920,All wheat,Iowa,613,17.4,10684,7,1,0
+1920,All wheat,Kansas,9294,15.6,144933,0,0,0
+1920,All wheat,Michigan,1055,15.3,16140,8,0,0
+1920,All wheat,Minnesota,2630,9.9,26120,30,0,0
+1920,All wheat,Missouri,3065,13,39845,0.5,1,0
+1920,All wheat,Montana,3608,12.4,44766,0,0,0
+1920,All wheat,Nebraska,3593,16.8,60480,12,1,0
+1920,All wheat,North Dakota,9793,8.8,86214,20,1.5,0
+1920,All wheat,Ohio,2393,13,31216,0,0,0
+1920,All wheat,Oklahoma,3727,15,55905,0,2,0
+1920,All wheat,Pennsylvania,1323,16,21148,0,0,0
+1920,All wheat,South Dakota,2938,9.2,27098,20,1,0
+1920,All wheat,Texas,1570,13,20410,1,1,0
+1920,All wheat,Virginia,820,13,10660,0,2,0
+1920,All wheat,Washington,2325,17.2,40070,0,0,0
+1920,All wheat,West Virginia,212,12.5,2650,3,0,0
+1920,All wheat,Wisconsin,351,15.4,3395,30,0,0
+1920,All wheat,Wyoming,201,16.5,3318,0,0,0
+1921,All wheat,Colorado,1751,14.5,25374,0,0,0
+1921,All wheat,Illinois,2909,16.2,47180,0.5,0.4,0
+1921,All wheat,Indiana,2123,12,25488,1,7,0
+1921,All wheat,Iowa,563,17.9,10053,10,0,0
+1921,All wheat,Kansas,10554,12.7,133964,0,1,0
+1921,All wheat,Michigan,925,15.9,14680,5,0,0
+1921,All wheat,Minnesota,2348,9.9,23225,7,0,0
+1921,All wheat,Missouri,3249,10.8,35096,0,0,0
+1921,All wheat,Montana,3435,12.2,42034,2.5,1,0
+1921,All wheat,Nebraska,3967,15.1,59814,0,0,0
+1921,All wheat,North Dakota,10734,8.2,87733,10,3,0
+1921,All wheat,Ohio,2127,12.5,26606,6,4,0
+1921,All wheat,Oklahoma,4100,13,53300,0,10,0
+1921,All wheat,Pennsylvania,1250,17,21238,0,0,0
+1921,All wheat,South Dakota,2870,9.1,26194,10,5,0
+1921,All wheat,Texas,2072,10,20720,0,0,0
+1921,All wheat,Virginia,773,10.5,8116,1,5,0
+1921,All wheat,Washington,2152,23.2,49979,0,0,0
+1921,All wheat,West Virginia,211,12,2532,0,0,2
+1921,All wheat,Wisconsin,225,13.7,3075,10,0,0
+1921,All wheat,Wyoming,195,13.5,2624,0,0,0
+1922,All wheat,Colorado,1878,12,22587,0,0,0
+1922,All wheat,Illinois,3196,17.4,55764,0.5,10,0
+1922,All wheat,Indiana,1996,14.5,28944,0.7,10,0
+1922,All wheat,Iowa,739,22.5,16612,1,0,0
+1922,All wheat,Kansas,9756,12.8,124809,0.03,1,0
+1922,All wheat,Michigan,1023,15,15354,2,2,0
+1922,All wheat,Minnesota,2101,13,27330,5,0.5,0
+1922,All wheat,Missouri,3021,12.5,37770,0,0,0
+1922,All wheat,Montana,3358,15.6,52533,0,0,0
+1922,All wheat,Nebraska,4177,13.8,57773,0.5,0,0
+1922,All wheat,North Dakota,9414,13.8,130339,10,1,0
+1922,All wheat,Ohio,2106,15,31602,2,5,0
+1922,All wheat,Oklahoma,3772,8.5,32062,0,5,0
+1922,All wheat,Pennsylvania,1274,18,22917,0,4,0
+1922,All wheat,South Dakota,3022,13.7,41330,3,0,0
+1922,All wheat,Texas,1243,8,9994,10,1,0
+1922,All wheat,Virginia,716,13,9308,0,5,0
+1922,All wheat,Washington,2058,13.6,27974,0,0,0
+1922,All wheat,West Virginia,179,12.6,2250,0,0,3
+1922,All wheat,Wisconsin,186,15.7,2924,5.1,1,0
+1922,All wheat,Wyoming,179,12.6,2250,0,0,0
+1923,All wheat,Colorado,1538,11.8,18136,10,1,0
+1923,All wheat,Illinois,3429,18,61808,1.5,3,0
+1923,All wheat,Indiana,2135,17,36307,0,2,0
+1923,All wheat,Iowa,737,18.6,13689,1,1.5,0
+1923,All wheat,Kansas,8299,10.1,83804,1,1,0
+1923,All wheat,Michigan,910,17.5,15917,2,0,0
+1923,All wheat,Minnesota,1871,12.8,23864,15,0,0
+1923,All wheat,Missouri,2810,13.3,37371,0,1,0
+1923,All wheat,Montana,3274,15,49107,18,0,0
+1923,All wheat,Nebraska,3252,9.9,32168,4,1,0
+1923,All wheat,North Dakota,8411,8.2,68655,12,1,0
+1923,All wheat,Ohio,2062,19,39188,2,4,0
+1923,All wheat,Oklahoma,3847,11,42317,0,0,0
+1923,All wheat,Pennsylvania,1210,18,21768,0,1.5,0
+1923,All wheat,South Dakota,2883,9.5,27329,10,1,0
+1923,All wheat,Texas,1554,10.5,16317,2,1,0
+1923,All wheat,Virginia,682,14,9548,0.2,1,0
+1923,All wheat,Washington,1998,25.3,50479,0,0,0
+1923,All wheat,West Virginia,148,12.5,1850,0,1,0
+1923,All wheat,Wisconsin,133,16.7,2221,1,0,0
+1923,All wheat,Wyoming,173,11.8,2038,0,0,0
+1924,All wheat,Colorado,1360,13,17264,0,0,0
+1924,All wheat,Illinois,2363,16.1,37968,0.75,2.4,0
+1924,All wheat,Indiana,1730,16.5,28543,0,0,0
+1924,All wheat,Iowa,455,21.9,9983,0,0,0
+1924,All wheat,Kansas,9817,16,157022,0,0,0
+1924,All wheat,Michigan,793,23.8,18856,0,0.5,0
+1924,All wheat,Minnesota,1710,21.9,37375,1,0,0
+1924,All wheat,Missouri,1688,13.3,22449,0,0,0
+1924,All wheat,Montana,3130,16.1,50422,0,0,0
+1924,All wheat,Nebraska,3033,18.4,55686,0,0,0
+1924,All wheat,North Dakota,8674,15.3,132715,3,0,0
+1924,All wheat,Ohio,1857,18.5,34372,1,0,0
+1924,All wheat,Oklahoma,3684,15.5,57102,3,0,0
+1924,All wheat,Pennsylvania,1139,16,18224,0.2,1,0
+1924,All wheat,South Dakota,2405,14.7,35235,1,0,0
+1924,All wheat,Texas,1355,16,21680,1,1,0
+1924,All wheat,Virginia,599,13.4,8027,0.3,1,0
+1924,All wheat,Washington,1765,14.1,24935,0,0,0
+1924,All wheat,West Virginia,144,12.4,1784,0.5,0,0
+1924,All wheat,Wisconsin,116,24,2786,3,1,0
+1924,All wheat,Wyoming,144,12.4,1784,0.5,0,0
+1925,All wheat,Colorado,1487,11.5,17122,0,0,0
+1925,All wheat,Illinois,2284,16.1,36814,0,1.5,0
+1925,All wheat,Indiana,1816,14.5,26344,0,0,0
+1925,All wheat,Iowa,396,16.3,6441,0.1,5,0
+1925,All wheat,Kansas,8755,9.2,80539,0,0,0
+1925,All wheat,Michigan,801,17,13627,0.5,0,0
+1925,All wheat,Minnesota,2232,13.4,29798,11,0,0
+1925,All wheat,Missouri,2711,12.1,32693,0,0,0
+1925,All wheat,Montana,3249,10.8,34998,0,0,0
+1925,All wheat,Nebraska,2711,12.1,32693,0,0,0
+1925,All wheat,North Dakota,9204,12.3,113531,5,0,0
+1925,All wheat,Ohio,1599,15,24025,0.1,0.1,0
+1925,All wheat,Oklahoma,2711,12.1,32693,0,0,0
+1925,All wheat,Pennsylvania,1106,19.5,21563,0.2,0.3,0
+1925,All wheat,South Dakota,2701,11.8,31918,7.5,0,0
+1925,All wheat,Texas,962,6.5,6253,1,0.5,0
+1925,All wheat,Virginia,569,14.2,8080,0.3,0,0
+1925,All wheat,Washington,1957,17.5,34310,0,0,0
+1925,All wheat,West Virginia,109,13.5,1472,0,0,0
+1925,All wheat,Wisconsin,113,18.4,2074,3.5,1,0
+1925,All wheat,Wyoming,178,13.4,2392,0,0,0
+1926,All wheat,Colorado,1685,12.4,20890,0,0,0
+1926,All wheat,Illinois,2263,19,43047,1,1,0
+1926,All wheat,Indiana,1764,20.5,36147,0.5,5,0
+1926,All wheat,Iowa,387,21.2,8222,1,6,0
+1926,All wheat,Kansas,10409,14.8,153991,0,0,0
+1926,All wheat,Michigan,898,18.5,16598,3.5,2,0
+1926,All wheat,Minnesota,1872,12.6,23589,5,0,0
+1926,All wheat,Missouri,1408,16,22528,0,0,0
+1926,All wheat,Montana,3590,12.5,44773,0.1,0,0
+1926,All wheat,Nebraska,3146,13.1,41290,0,0,0
+1926,All wheat,North Dakota,9083,8.6,77733,1.75,0,0
+1926,All wheat,Ohio,1730,22.5,38937,0.5,0,0
+1926,All wheat,Oklahoma,4332,17,73644,0.75,0,0
+1926,All wheat,Pennsylvania,1131,19.5,22048,0.1,0.5,0
+1926,All wheat,South Dakota,2306,6,13894,1.2,0,0
+1926,All wheat,Texas,2117,18.2,38529,0.75,1,0
+1926,All wheat,Virginia,620,16.5,10230,0.1,0,0
+1926,All wheat,Washington,1988,19.1,38035,0,0,0
+1926,All wheat,West Virginia,235,15,3522,0,0,0
+1926,All wheat,Wisconsin,122,18.5,2259,3,1,0
+1926,All wheat,Wyoming,235,15,3522,0,0,0
+1927,All wheat,Colorado,1668,13.4,22299,0,0,0
+1927,All wheat,Illinois,2458,13.9,34091,0.8,2.5,0
+1927,All wheat,Indiana,1872,15.5,29020,0,13,0
+1927,All wheat,Iowa,432,18.1,8180,0.6,15,0
+1927,All wheat,Kansas,10202,11.2,114216,0.05,8,0
+1927,All wheat,Michigan,801,21.5,17201,1,1,0
+1927,All wheat,Minnesota,1786,11.7,20976,30,3,0
+1927,All wheat,Missouri,1562,10,15628,0,0,0
+1927,All wheat,Montana,4020,20.3,81713,0.1,0,0
+1927,All wheat,Nebraska,3733,19.3,72188,0.1,2,0
+1927,All wheat,North Dakota,10336,12.9,133537,10,2,0
+1927,All wheat,Ohio,1579,18,28422,0,0.5,0
+1927,All wheat,Oklahoma,3812,9.2,35070,0,0,0
+1927,All wheat,Pennsylvania,1023,17.5,17886,0.5,6,0
+1927,All wheat,South Dakota,3189,14.9,47589,10.2,3,0
+1927,All wheat,Texas,2180,9.7,21146,0.5,3,0
+1927,All wheat,Virginia,620,13,8060,0.1,1.5,0
+1927,All wheat,Washington,2137,24.6,52660,0,0,0
+1927,All wheat,West Virginia,112,13,1456,1,1,0
+1927,All wheat,Wisconsin,134,20.1,2696,1.5,0,0
+1927,All wheat,Wyoming,285,15.9,4530,0,0,0
+1928,All wheat,Colorado,1481,14,20797,0,0,0
+1928,All wheat,Illinois,1462,15.9,23264,0,0.8,0
+1928,All wheat,Indiana,961,10.5,10129,0,1,0
+1928,All wheat,Iowa,463,18.8,8709,0,3,0
+1928,All wheat,Kansas,10639,16.3,173185,0,4,0
+1928,All wheat,Michigan,785,16.5,12959,0,1.5,0
+1928,All wheat,Minnesota,1544,14,21634,2,0.5,0
+1928,All wheat,Missouri,1521,13,19745,0,0,0
+1928,All wheat,Montana,4395,18,79146,0.1,1,0
+1928,All wheat,Nebraska,3757,18,67446,0,0,0
+1928,All wheat,North Dakota,10832,14.4,155482,0.5,0,0
+1928,All wheat,Ohio,856,11.7,9984,0.25,0.5,0
+1928,All wheat,Oklahoma,4612,14,64582,0,0,0
+1928,All wheat,Pennsylvania,1002,14.5,14524,0,4.5,0
+1928,All wheat,South Dakota,3648,10.4,37895,0,0,0
+1928,All wheat,Texas,2393,10.8,25844,1,0.5,0
+1928,All wheat,Virginia,608,14.5,8816,0.5,3,0
+1928,All wheat,Washington,2223,21.4,47674,0,0,0
+1928,All wheat,West Virginia,101,13.5,1346,0,0,0
+1928,All wheat,Wisconsin,97,18.6,1800,0.5,0,0
+1928,All wheat,Wyoming,342,14.8,5063,2,0,0
+1929,All wheat,Colorado,1539,11.6,17900,0,0,0
+1929,All wheat,Illinois,2093,14.7,30831,0.5,0.5,0
+1929,All wheat,Indiana,1568,16.5,25916,0.5,4,0
+1929,All wheat,Iowa,426,18.8,8000,0.3,8,0
+1929,All wheat,Kansas,12550,12.4,155563,1,3,0
+1929,All wheat,Michigan,790,17.4,13760,0,1,0
+1929,All wheat,Minnesota,1434,14.9,21406,15,0.5,0
+1929,All wheat,Missouri,1534,9.9,15250,0,1,0
+1929,All wheat,Montana,4419,9.3,41290,0,0,0
+1929,All wheat,Nebraska,3700,15,55403,0,0,0
+1929,All wheat,North Dakota,10440,9.6,99950,1,0,0
+1929,All wheat,Ohio,1564,19.5,30503,1.5,0.5,0
+1929,All wheat,Oklahoma,4576,11.2,51251,0,0,0
+1929,All wheat,Pennsylvania,987,17.7,17473,0.5,15,0
+1929,All wheat,South Dakota,3583,9.7,34799,3,0,0
+1929,All wheat,Texas,3042,14.8,45022,0.5,0.5,0
+1929,All wheat,Virginia,657,13.1,8607,0.5,3,0
+1929,All wheat,Washington,2375,18.6,44199,0,0,0
+1929,All wheat,West Virginia,104,13.1,1362,0,0,0
+1929,All wheat,Wisconsin,96,19.4,1866,4.5,1.5,0
+1929,All wheat,Wyoming,341,12.9,4394,0,0,0
+1930,All wheat,Colorado,1659,13.3,22034,0,0,0
+1930,All wheat,Illinois,2025,18.2,36891,0,1.5,0
+1930,All wheat,Indiana,1587,18,28584,0,0,0
+1930,All wheat,Iowa,435,20.5,8919,0,0,0
+1930,All wheat,Kansas,13132,14.2,186277,1.5,3,0
+1930,All wheat,Michigan,724,22,16575,1,0,0
+1930,All wheat,Minnesota,1368,17.1,23456,3.7,0,0
+1930,All wheat,Missouri,1336,14.5,19342,0,0.5,0
+1930,All wheat,Montana,4217,8.4,35313,0,0.1,0
+1930,All wheat,Nebraska,3974,18.8,74848,1,0.5,0
+1930,All wheat,North Dakota,9896,10.8,107328,1.5,0,0
+1930,All wheat,Ohio,1661,17.5,29095,0.5,0.5,0
+1930,All wheat,Oklahoma,3935,9.5,37382,0,0,0
+1930,All wheat,Pennsylvania,997,22,21923,0,0,0
+1930,All wheat,South Dakota,3682,11.6,42871,3,0,0
+1930,All wheat,Texas,3457,11.1,38373,1,0.1,0
+1930,All wheat,Virginia,591,15.5,9160,0.5,2,0
+1930,All wheat,Washington,2338,16.1,37548,0,0,0
+1930,All wheat,West Virginia,121,17.5,2118,0,0,0
+1930,All wheat,Wisconsin,99,20.8,2063,0.7,0.1,0
+1930,All wheat,Wyoming,326,11.7,3808,0,0,0
+1931,All wheat,Colorado,1420,11.7,16613,0,0,0
+1931,All wheat,Illinois,1420,11.7,16613,0,0,0
+1931,All wheat,Indiana,1729,25.9,44802,0.5,12,0
+1931,All wheat,Iowa,357,20.5,7321,0,0,0
+1931,All wheat,Kansas,13623,18.5,251885,0.8,2,0
+1931,All wheat,Michigan,734,25.8,18965,0,0.1,0
+1931,All wheat,Minnesota,1207,14.7,17776,1,0,0
+1931,All wheat,Missouri,1596,20,31913,0,0.2,0
+1931,All wheat,Montana,2182,6.6,14478,0,0,0
+1931,All wheat,Nebraska,3420,16.6,56943,0,0,0
+1931,All wheat,North Dakota,6295,6.5,41042,0,0,0
+1931,All wheat,Ohio,1861,28.9,53825,2,1.5,0
+1931,All wheat,Oklahoma,4407,17,74919,0,5,0
+1931,All wheat,Pennsylvania,930,22,20447,0,20,0
+1931,All wheat,South Dakota,2943,6,17610,0,0,0
+1931,All wheat,Texas,4386,15.5,67983,2,1,0
+1931,All wheat,Virginia,609,22,13398,1,5,0
+1931,All wheat,Washington,2315,18,41699,0,0,0
+1931,All wheat,West Virginia,131,19,2489,0,5,0
+1931,All wheat,Wisconsin,88,17.4,1532,0,0.1,0
+1931,All wheat,Wyoming,217,9.4,2032,0,0,0
+1932,All wheat,Colorado,704,10.2,7172,0,0,0
+1932,All wheat,Illinois,1669,15.6,25983,0,10,0
+1932,All wheat,Indiana,1470,16.5,24231,0,10,0
+1932,All wheat,Iowa,273,15.9,4350,0,0.2,0
+1932,All wheat,Kansas,10365,11.6,120178,0.5,1.5,0
+1932,All wheat,Michigan,734,23.8,17484,0.3,0.5,0
+1932,All wheat,Minnesota,1441,14.3,20558,1.5,1,0
+1932,All wheat,Missouri,1404,11.5,16143,0,0,0
+1932,All wheat,Montana,4021,13.6,54593,0,0.1,0
+1932,All wheat,Nebraska,2265,12.3,27838,0.8,0,0
+1932,All wheat,North Dakota,10639,10.4,110396,2,0,0
+1932,All wheat,Ohio,1748,20,34911,0,0.5,0
+1932,All wheat,Oklahoma,3966,12,47592,0,2,0
+1932,All wheat,Pennsylvania,929,15,13929,0,25,0
+1932,All wheat,South Dakota,3854,13.5,51839,0,0,0
+1932,All wheat,Texas,3509,8.5,29826,2,1,0
+1932,All wheat,Virginia,585,10.8,6318,1,4,0
+1932,All wheat,Washington,2308,18.6,42868,0,0,0
+1932,All wheat,West Virginia,122,11.5,1403,10,0,0
+1932,All wheat,Wisconsin,110,19.2,2109,0,0.1,0
+1932,All wheat,Wyoming,255,11.2,2862,0,0,0
+1933,All wheat,Colorado,583,10.1,5881,0,0,0
+1933,All wheat,Illinois,1874,16.4,30746,0,5,0
+1933,All wheat,Indiana,1577,15,23641,0,5,0
+1933,All wheat,Iowa,251,17.1,4303,0,0,0
+1933,All wheat,Kansas,7361,9.1,66931,0,0,0
+1933,All wheat,Michigan,885,16.4,14528,0,0,0
+1933,All wheat,Minnesota,1588,10.2,16266,0,0,0
+1933,All wheat,Missouri,1362,12.5,17019,0,0.4,0
+1933,All wheat,Montana,3512,7.6,26810,0,0,0
+1933,All wheat,Nebraska,2388,12.1,28814,0,0,0
+1933,All wheat,North Dakota,10098,7.1,71314,0,0,0
+1933,All wheat,Ohio,2089,18,37586,0,0.5,0
+1933,All wheat,Oklahoma,3093,10.2,31549,0,0,0
+1933,All wheat,Pennsylvania,937,18,16833,0,9,0
+1933,All wheat,South Dakota,1150,4.3,4904,0,0,0
+1933,All wheat,Texas,2105,7.1,14146,2,2,0
+1933,All wheat,Virginia,567,13.5,7654,1,4.5,0
+1933,All wheat,Washington,2163,20.2,43638,0,0,0
+1933,All wheat,West Virginia,131,14.5,1900,0,5,0
+1933,All wheat,Wisconsin,104,15.5,1616,0,0,0
+1933,All wheat,Wyoming,219,9.3,2046,0,0,0
+1934,All wheat,Colorado,704,8.8,6192,0,0,0
+1934,All wheat,Illinois,2080,17.6,36522,0,2,0
+1934,All wheat,Indiana,1845,17.3,31891,0,0,0
+1934,All wheat,Iowa,298,12.2,3632,0,0,0
+1934,All wheat,Kansas,8610,9.8,84323,0,0,0
+1934,All wheat,Michigan,855,14.2,12126,0,0,0
+1934,All wheat,Minnesota,1224,10.7,13104,5,0,0
+1934,All wheat,Missouri,1643,15.1,24776,0,0,0
+1934,All wheat,Montana,2481,11.1,27624,0,0,0
+1934,All wheat,Nebraska,2251,7.8,17543,0,0,0
+1934,All wheat,North Dakota,3340,6.1,20908,2,0,0
+1934,All wheat,Ohio,3543,10.5,37202,0,0.5,0
+1934,All wheat,Oklahoma,3543,10.5,37202,0,0,0
+1934,All wheat,Pennsylvania,946,16.4,15499,0,10,0
+1934,All wheat,South Dakota,158,4.6,732,0,0,0
+1934,All wheat,Texas,3094,8.5,26299,1,5,0
+1934,All wheat,Virginia,605,13.1,7926,0,0,0
+1934,All wheat,Washington,1934,19.2,37158,0,0,0
+1934,All wheat,West Virginia,145,12.8,1856,0,5,0
+1934,All wheat,Wisconsin,104,14.2,1475,0,0,0
+1934,All wheat,Wyoming,106,9.9,1050,0,0,0
+1935,All wheat,Colorado,553,12.5,6940,6,0,0
+1935,All wheat,Illinois,2074,14.5,30060,1,12.5,0
+1935,All wheat,Indiana,1906,15.5,29534,0,15,0
+1935,All wheat,Iowa,401,15.8,6318,6.5,10,0
+1935,All wheat,Kansas,6888,9.3,64055,12,5,0
+1935,All wheat,Michigan,874,21.9,19108,0.5,0,0
+1935,All wheat,Minnesota,1774,10.6,18716,51.6,5,0
+1935,All wheat,Missouri,2145,12.5,26795,4,5,0
+1935,All wheat,Montana,3434,9.9,34157,0.6,0,0
+1935,All wheat,Nebraska,3045,12.6,38512,15,0,0
+1935,All wheat,North Dakota,7823,7,54714,56.5,0,0
+1935,All wheat,Ohio,2131,22,46872,1.5,1.5,0
+1935,All wheat,Oklahoma,3366,10,33660,0,0,0
+1935,All wheat,Pennsylvania,1004,21,21045,0,12,0
+1935,All wheat,South Dakota,3153,8.1,25540,29,5,0
+1935,All wheat,Texas,1639,7,11473,10,2,0
+1935,All wheat,Virginia,629,13.5,8492,3,3.5,0
+1935,All wheat,Washington,2006,22.5,45194,0,0,0
+1935,All wheat,West Virginia,154,16.5,2541,0,0.5,0
+1935,All wheat,Wisconsin,139,16.2,2254,1.5,15,0
+1935,All wheat,Wyoming,186,10.8,2017,10,0,0
+1936,All wheat,Colorado,853,12.7,10811,1,0,0
+1936,All wheat,Illinois,2080,17.5,36400,0,0.5,0
+1936,All wheat,Indiana,1775,17.5,31042,0,0,0
+1936,All wheat,Iowa,407,20.7,8407,0.5,1,0
+1936,All wheat,Kansas,10458,11.5,120234,0.5,0.2,0
+1936,All wheat,Michigan,821,20.3,16705,0,0.1,0
+1936,All wheat,Minnesota,1760,9.9,17348,0,0,0
+1936,All wheat,Missouri,2175,15,32619,0,0,0
+1936,All wheat,Montana,2239,5.3,11866,0,0,0
+1936,All wheat,Nebraska,3325,14.2,47281,0,0,0
+1936,All wheat,North Dakota,3699,5.2,19235,0,0,0
+1936,All wheat,Ohio,2175,18.5,40240,0,0.1,0
+1936,All wheat,Oklahoma,3534,8,28272,0,1.5,0
+1936,All wheat,Pennsylvania,1033,19,19615,1.5,13,0
+1936,All wheat,South Dakota,826,5.1,4177,0,0,0
+1936,All wheat,Texas,2458,7.7,18927,0,2,0
+1936,All wheat,Virginia,629,12.5,7862,2,2.5,0
+1936,All wheat,Washington,2180,21.5,46968,0,0,0
+1936,All wheat,West Virginia,157,13.5,2120,1,0.5,0
+1936,All wheat,Wisconsin,106,13.9,1469,0,5,0
+1936,All wheat,Wyoming,128,10,1277,0,0,0
+1937,All wheat,Colorado,1102,13.6,14990,0,0,0
+1937,All wheat,Illinois,2575,17.4,44922,11,5,0
+1937,All wheat,Indiana,2129,16,34046,12,10,0
+1937,All wheat,Iowa,817,17.9,14649,19,6,0
+1937,All wheat,Kansas,13172,12,158052,6.6,0.4,0
+1937,All wheat,Michigan,1009,18.5,18647,2.5,5,0
+1937,All wheat,Minnesota,2115,16.6,35066,10,1,0
+1937,All wheat,Missouri,3264,13.3,43409,30,0,0
+1937,All wheat,Montana,2624,7.8,20401,0,0,0
+1937,All wheat,Nebraska,3567,13.2,47031,6,0,0
+1937,All wheat,North Dakota,6725,8.2,54984,25,5,0
+1937,All wheat,Ohio,2430,19,46116,2,5,0
+1937,All wheat,Oklahoma,4736,14.2,67251,1,1,0
+1937,All wheat,Pennsylvania,1063,22,23353,3,12,0
+1937,All wheat,South Dakota,2747,5.6,15498,12,2,0
+1937,All wheat,Texas,3933,10.6,41690,0,1,0
+1937,All wheat,Virginia,648,15,9720,2,0.5,0
+1937,All wheat,Washington,2344,21.2,49698,0,0,0
+1937,All wheat,West Virginia,155,16,2480,2,0,0
+1937,All wheat,Wisconsin,131,15.6,2043,19.8,2,0
+1937,All wheat,Wyoming,202,11.5,2324,0,0,0
+1938,All wheat,Colorado,1273,15.1,19166,0.4,2,0
+1938,All wheat,Illinois,2212,18.5,40908,1.7,15,0
+1938,All wheat,Indiana,1769,16,28286,0,3,0
+1938,All wheat,Iowa,583,15.9,9284,1,28,0
+1938,All wheat,Kansas,14494,10.5,152163,3,12,0
+1938,All wheat,Michigan,910,21.4,19488,1,0.1,0
+1938,All wheat,Minnesota,2554,14.9,38017,0,8,0
+1938,All wheat,Missouri,2499,13,32487,5,20,0
+1938,All wheat,Montana,4249,15.3,64837,5,0,0
+1938,All wheat,Nebraska,4691,11.8,55570,5,20,0
+1938,All wheat,North Dakota,8082,9,72719,6,2,0
+1938,All wheat,Ohio,2379,19.5,46384,0,2.5,0
+1938,All wheat,Oklahoma,5607,11.2,61677,0,27,0
+1938,All wheat,Pennsylvania,1019,21,21381,2.5,10,0
+1938,All wheat,South Dakota,3095,9.1,28227,3.4,0,0
+1938,All wheat,Texas,3894,9,35046,0.6,5,0
+1938,All wheat,Virginia,590,14,8260,5,5,0
+1938,All wheat,Washington,2257,24,54118,0.3,0.1,0
+1938,All wheat,West Virginia,135,15,2025,1,0,0
+1938,All wheat,Wisconsin,120,16.7,2007,7.8,0,0
+1938,All wheat,Wyoming,257,13.3,3428,0,0.5,0
+1939,All wheat,Colorado,1060,11.4,12064,0,0,0
+1939,All wheat,Illinois,1948,20.4,39804,0,10,0
+1939,All wheat,Indiana,1512,17.5,26445,0,5,0
+1939,All wheat,Iowa,392,17.7,6930,0,3,0
+1939,All wheat,Kansas,9574,12,114858,0.2,1.5,0
+1939,All wheat,Michigan,747,21.5,16036,0,0.1,0
+1939,All wheat,Minnesota,1548,13.6,21016,0,2,0
+1939,All wheat,Missouri,1918,16.7,32031,0,0,0
+1939,All wheat,Montana,3401,13.6,46112,0,0,0
+1939,All wheat,Nebraska,3186,11.1,35242,0,0,0
+1939,All wheat,North Dakota,7236,10.5,75753,0,0,0
+1939,All wheat,Ohio,1904,20,38080,0,0.5,0
+1939,All wheat,Oklahoma,4277,14.1,60306,0,5,0
+1939,All wheat,Pennsylvania,893,20.5,18292,0,10,0
+1939,All wheat,South Dakota,2170,8.4,18158,0,0,0
+1939,All wheat,Texas,2819,10.3,29036,0,1,0
+1939,All wheat,Virginia,513,14.7,7541,2,2,0
+1939,All wheat,Washington,1993,22.4,44731,0,0,0
+1939,All wheat,West Virginia,124,14.5,1798,1,0,0
+1939,All wheat,Wisconsin,88,14,1232,0,1.9,0
+1939,All wheat,Wyoming,195,11.1,2159,0,0,0
+1940,All wheat,Colorado,1028,12,12354,0,0,0
+1940,All wheat,Illinois,1745,22.5,39285,5,10,0
+1940,All wheat,Indiana,1433,19.5,27934,5,0,0
+1940,All wheat,Iowa,312,24.8,7733,2,0,0
+1940,All wheat,Kansas,8739,14.5,126533,7,0,0
+1940,All wheat,Michigan,779,23.5,18290,1,0,0
+1940,All wheat,Minnesota,1588,19.8,31406,0,0,0
+1940,All wheat,Missouri,1713,19,32547,3,0,0
+1940,All wheat,Montana,3917,13.2,51676,2.5,0,0
+1940,All wheat,Nebraska,2643,13.1,34725,1.3,0,0
+1940,All wheat,North Dakota,8025,11.6,92745,0,0,0
+1940,All wheat,Ohio,1921,22,42262,1,1,0
+1940,All wheat,Oklahoma,4020,14.5,58290,2.9,0,0
+1940,All wheat,Pennsylvania,884,20,17675,0,0,0
+1940,All wheat,South Dakota,2693,9.8,26261,0,0,0
+1940,All wheat,Texas,3157,10.3,32517,1.7,0,0
+1940,All wheat,Virginia,527,15.5,8168,3.5,0,0
+1940,All wheat,Washington,2136,20.7,44180,0,0,0
+1940,All wheat,West Virginia,118,15,1770,1,0,0
+1940,All wheat,Wisconsin,83,19.3,1599,0.5,0,0
+1940,All wheat,Wyoming,214,12,2568,0,0,0
+1941,All wheat,Colorado,1368,18.3,25036,0.1,0,0
+1941,All wheat,Illinois,1716,20,34320,2,4,0
+1941,All wheat,Indiana,1476,23.5,34665,0,0,0
+1941,All wheat,Iowa,181,12.9,2341,1,0,0
+1941,All wheat,Kansas,11799,14.7,173332,0,5,0
+1941,All wheat,Michigan,741,22,16286,0.3,0,0
+1941,All wheat,Minnesota,1471,13.7,20104,0,2,0
+1941,All wheat,Missouri,1336,13.5,18036,1.5,0,0
+1941,All wheat,Montana,3703,18.4,68239,0,0,0
+1941,All wheat,Nebraska,2354,15.4,36155,0,0,0
+1941,All wheat,North Dakota,8155,17.3,140722,0,0,0
+1941,All wheat,Ohio,1902,25,47553,0,0,0
+1941,All wheat,Oklahoma,4502,10.7,48171,1,0,0
+1941,All wheat,Pennsylvania,866,19.5,16878,0,0,0
+1941,All wheat,South Dakota,2864,12.3,35358,1,0,0
+1941,All wheat,Texas,2936,10.4,30534,2,0,0
+1941,All wheat,Virginia,511,15,7665,0.75,0,0
+1941,All wheat,Washington,2098,29.1,61142,0,0,0
+1941,All wheat,West Virginia,105,16,1680,1,0,0
+1941,All wheat,Wisconsin,79,16.8,1324,0.5,3,0
+1941,All wheat,Wyoming,236,20.7,4894,0.5,0,0
+1942,All wheat,Colorado,1237,22.2,27406,0,0.9,0
+1942,All wheat,Illinois,981,13.1,12818,0,0,0
+1942,All wheat,Indiana,1123,12.5,14052,0,7,0
+1942,All wheat,Iowa,178,23.6,4192,0,0,0
+1942,All wheat,Kansas,10374,19.3,202101,0,0,0
+1942,All wheat,Michigan,681,22.5,15322,0,0,0
+1942,All wheat,Minnesota,1112,20.8,23170,0,0,0
+1942,All wheat,Missouri,695,13,9035,1,0,0
+1942,All wheat,Montana,3267,21.4,69836,0,0,0
+1942,All wheat,Nebraska,2947,23.7,69908,0,0,0
+1942,All wheat,North Dakota,7321,19.6,143616,0,0,0
+1942,All wheat,Ohio,1655,21,34756,0,1,0
+1942,All wheat,Oklahoma,3737,16,59792,0,0,0
+1942,All wheat,Pennsylvania,803,19,15248,0,0,0
+1942,All wheat,South Dakota,2630,16.4,43174,0,0,0
+1942,All wheat,Texas,3230,16.5,53295,0,0,0
+1942,All wheat,Virginia,460,16,7360,10,1,0
+1942,All wheat,Washington,1777,31,55148,0,0,0
+1942,All wheat,West Virginia,94,16,1504,5,0,0
+1942,All wheat,Wisconsin,78,21,1638,0,0.5,0
+1942,All wheat,Wyoming,226,20.1,4544,0,0,0
+1943,All wheat,Colorado,1410,22.4,31616,0,0,0
+1943,All wheat,Illinois,1028,16.5,16986,1,0,0
+1943,All wheat,Indiana,955,16,15274,0,0,0
+1943,All wheat,Iowa,129,19.3,2494,3,0,0
+1943,All wheat,Kansas,10159,14.2,144241,0,0,0
+1943,All wheat,Michigan,673,17,11417,1,3,0
+1943,All wheat,Minnesota,1102,16.2,17896,0,0,0
+1943,All wheat,Missouri,931,13,12103,0,0,0
+1943,All wheat,Montana,3626,22.1,80028,0,0,0
+1943,All wheat,Nebraska,2948,20.8,61244,0,0,0
+1943,All wheat,North Dakota,8326,18.2,151387,0,0,0
+1943,All wheat,Ohio,1523,16.5,25129,2,1,0
+1943,All wheat,Oklahoma,3588,9.5,34086,0,0,0
+1943,All wheat,Pennsylvania,784,17,13329,0,0,0
+1943,All wheat,South Dakota,2889,10.5,30366,0,0,0
+1943,All wheat,Texas,3746,11,41206,0,0,0
+1943,All wheat,Virginia,437,13,5681,10,0,0
+1943,All wheat,Washington,1970,26.2,51652,0,0,0
+1943,All wheat,West Virginia,78,13.5,1053,12,7,0
+1943,All wheat,Wisconsin,69,18.8,1296,1.5,5,0
+1943,All wheat,Wyoming,242,19.3,4662,1,0,0
+1944,All wheat,Colorado,1256,14.2,17794,13,0,0
+1944,All wheat,Illinois,1247,19.5,24320,1.5,0,0
+1944,All wheat,Indiana,1266,20.2,25568,0,1,0
+1944,All wheat,Iowa,120,15.9,1912,3,0,0
+1944,All wheat,Kansas,11377,16.5,187700,4,0,0
+1944,All wheat,Michigan,987,24,23670,0,0,0
+1944,All wheat,Minnesota,1214,16.5,20090,0,0,0
+1944,All wheat,Missouri,1207,16.3,19674,0,0,0
+1944,All wheat,Montana,4019,18.8,75497,0,0,0
+1944,All wheat,Nebraska,2675,12.6,33762,20,0,0
+1944,All wheat,North Dakota,9856,15.9,156321,0,0,0
+1944,All wheat,Ohio,1918,22.7,43539,0,0,0
+1944,All wheat,Oklahoma,5095,16.7,85086,2,0,0
+1944,All wheat,Pennsylvania,914,21.4,19560,0,0,0
+1944,All wheat,South Dakota,3070,12.1,37278,8,0,0
+1944,All wheat,Texas,4458,18.5,82473,1,0,0
+1944,All wheat,Virginia,516,19.2,9907,2.5,4,0
+1944,All wheat,Washington,2338,26.8,62673,0,0,0
+1944,All wheat,West Virginia,87,18.6,1618,3,4,0
+1944,All wheat,Wisconsin,67,19.5,1308,1,1,0
+1944,All wheat,Wyoming,215,13.1,2811,12,0,0
+1945,All wheat,Colorado,1560,22.3,34768,0,0,0
+1945,All wheat,Illinois,1339,18.5,24817,1,13,0
+1945,All wheat,Indiana,1555,22.5,34980,0,12,0
+1945,All wheat,Iowa,140,19,2660,0,0,0
+1945,All wheat,Kansas,13416,15.5,207939,0,8,0
+1945,All wheat,Michigan,1026,27,27688,0.5,0,0
+1945,All wheat,Minnesota,1100,19.3,21246,0,0,0
+1945,All wheat,Missouri,1304,14,18256,0,10,0
+1945,All wheat,Montana,3777,15.1,57145,0,0,0
+1945,All wheat,Nebraska,3596,22.9,82358,0,0,0
+1945,All wheat,North Dakota,9855,15.7,154568,0,0,0
+1945,All wheat,Ohio,2129,27,57483,1,1,0
+1945,All wheat,Oklahoma,5910,12.5,73875,0,15,0
+1945,All wheat,Pennsylvania,932,21.5,20038,0.8,17,0
+1945,All wheat,South Dakota,3201,15.5,49656,0,0,0
+1945,All wheat,Texas,5350,9,48150,0,0,0
+1945,All wheat,Virginia,485,15.5,7518,5,8,0
+1945,All wheat,Washington,2524,24.4,61512,0,0,0
+1945,All wheat,West Virginia,87,18.5,1610,5,1,0
+1945,All wheat,Wisconsin,60,26.3,1576,0,2,0
+1945,All wheat,Wyoming,244,18.2,4431,0.3,0,0
+1946,All wheat,Colorado,2004,18.9,37776,0,0,0
+1946,All wheat,Illinois,1207,16,19361,0.2,17,0
+1946,All wheat,Indiana,1366,21.5,29369,0,0,0
+1946,All wheat,Iowa,185,23.4,4355,0,0,0
+1946,All wheat,Kansas,13147,16.2,212977,0,2,0
+1946,All wheat,Michigan,864,26.5,22896,0,0,0
+1946,All wheat,Minnesota,1391,19.5,27080,0,0,0
+1946,All wheat,Missouri,1213,15,18195,0,0,0
+1946,All wheat,Montana,4133,15.2,62888,0,0,0
+1946,All wheat,Nebraska,3954,22.9,90677,0,0,0
+1946,All wheat,North Dakota,10192,13.7,139824,0,0,0
+1946,All wheat,Ohio,1831,26.5,48522,0,0,0
+1946,All wheat,Oklahoma,6087,14.5,88262,0,0,0
+1946,All wheat,Pennsylvania,885,22.5,19912,3.5,10,0
+1946,All wheat,South Dakota,3588,14.8,53197,0,0,0
+1946,All wheat,Texas,5992,10.5,62916,0,0,0
+1946,All wheat,Virginia,432,18.5,7992,5,0,0
+1946,All wheat,Washington,2642,29.5,77965,0,0,0
+1946,All wheat,West Virginia,77,19,1463,5,0,0
+1946,All wheat,Wisconsin,93,25.2,2340,0,0,0
+1946,All wheat,Wyoming,281,24.3,6832,0,0,0
+1947,All wheat,Colorado,2523,23.4,59052,0,0,0
+1947,All wheat,Illinois,1347,21,28311,0,9.9,0
+1947,All wheat,Indiana,1571,23,36133,0,0,0
+1947,All wheat,Iowa,201,17.9,3607,0,0,0
+1947,All wheat,Kansas,14855,19.3,286702,0,0,0
+1947,All wheat,Michigan,1192,25,29800,0,0,0
+1947,All wheat,Minnesota,1169,17.7,20633,0,4,0
+1947,All wheat,Missouri,1321,18.5,24438,0,0,0
+1947,All wheat,Montana,4427,14.8,65346,0,0,0
+1947,All wheat,Nebraska,4434,20.9,92757,2.5,0,0
+1947,All wheat,North Dakota,10263,14.3,146383,0,0,0
+1947,All wheat,Ohio,2179,22.5,49028,0,0,0
+1947,All wheat,Oklahoma,6696,15.5,103788,0,0,0
+1947,All wheat,Pennsylvania,929,24,22296,0.33,8,0
+1947,All wheat,South Dakota,3703,14.5,53268,1,0,0
+1947,All wheat,Texas,7310,17,124270,0,0,0
+1947,All wheat,Virginia,458,17.5,8015,3,0,0
+1947,All wheat,Washington,2719,23.8,64750,0,0,0
+1947,All wheat,West Virginia,82,19.5,1599,3,0,0
+1947,All wheat,Wisconsin,114,25.7,2926,0,0,0
+1947,All wheat,Wyoming,326,20.2,6592,0.5,0,0
+1948,All wheat,Colorado,3074,21,64605,0,0,0
+1948,All wheat,Illinois,1710,22.5,38497,4,17,0
+1948,All wheat,Indiana,1775,21.5,38162,3,1,0
+1948,All wheat,Iowa,318,23.3,7393,0,1,0
+1948,All wheat,Kansas,13221,17.5,231368,0,0,0
+1948,All wheat,Michigan,1395,26,36270,0.5,0,0
+1948,All wheat,Minnesota,1051,17.5,18352,0,0,0
+1948,All wheat,Missouri,1598,21,33558,0,0,0
+1948,All wheat,Montana,4875,19.2,93718,0,0,0
+1948,All wheat,Nebraska,4275,20.4,87111,0,0,0
+1948,All wheat,North Dakota,9771,14.4,140234,0,0,0
+1948,All wheat,Ohio,2353,24.5,57648,0.5,1,0
+1948,All wheat,Oklahoma,6696,14.5,97092,0.5,0,0
+1948,All wheat,Pennsylvania,966,19,18354,7,0,0
+1948,All wheat,South Dakota,3843,13.1,50342,0,0,0
+1948,All wheat,Texas,5629,10.5,59104,0,0,0
+1948,All wheat,Virginia,449,18.5,8306,2,6,0
+1948,All wheat,Washington,2766,28.7,77268,0,1,0
+1948,All wheat,West Virginia,82,18.5,1517,3,0,0
+1948,All wheat,Wisconsin,123,23.6,2906,0,0,0
+1948,All wheat,Wyoming,342,19.4,6650,0,0,0
+1949,All wheat,Colorado,2838,16.3,46164,0,0,0
+1949,All wheat,Illinois,1913,23,43995,0,10,0
+1949,All wheat,Indiana,1722,22,37884,0,0,0
+1949,All wheat,Iowa,384,18.8,7212,0,4,0
+1949,All wheat,Kansas,14279,11,157069,0,10,0
+1949,All wheat,Michigan,1297,26.5,34370,0,0,0
+1949,All wheat,Minnesota,1285,15.1,19380,0,2,0
+1949,All wheat,Missouri,1678,17.5,29365,0,0,0
+1949,All wheat,Montana,5316,11.5,61189,0,0,0
+1949,All wheat,Nebraska,4165,14,58213,0,0,0
+1949,All wheat,North Dakota,10552,10.6,112357,0,0,0
+1949,All wheat,Ohio,2353,25,58825,0,2,0
+1949,All wheat,Oklahoma,6629,12.8,84851,1,0,0
+1949,All wheat,Pennsylvania,908,23,20884,0,12,0
+1949,All wheat,South Dakota,4079,8,32653,0,0,0
+1949,All wheat,Texas,6415,14,89838,4.8,11.1,0
+1949,All wheat,Virginia,400,18.5,7400,2,4,0
+1949,All wheat,Washington,2758,21.8,60146,0,0,0
+1949,All wheat,West Virginia,68,19,1292,2,0,0
+1949,All wheat,Wisconsin,112,22.5,2520,0,0,0
+1949,All wheat,Wyoming,369,18.7,6885,0,0,0
+1950,All wheat,Colorado,2314,16,36909,0,0,0
+1950,All wheat,Illinois,1417,19.5,27632,1.5,12,0
+1950,All wheat,Indiana,1533,21,32193,0,0,0
+1950,All wheat,Iowa,250,21.8,5454,0.5,2,0
+1950,All wheat,Kansas,12280,14.5,178060,0,0,0
+1950,All wheat,Michigan,1141,26,29666,0.3,0,0
+1950,All wheat,Minnesota,927,16.7,15512,0,0,0
+1950,All wheat,Missouri,1359,17.5,23782,0,0.5,0
+1950,All wheat,Montana,4953,18.5,91434,0,0,0
+1950,All wheat,Nebraska,4051,21.8,88482,0,0,0
+1950,All wheat,North Dakota,8942,13.9,123986,8.2,0,0
+1950,All wheat,Ohio,2118,22,46596,0,0,0
+1950,All wheat,Oklahoma,4707,9,46363,0,0,0
+1950,All wheat,Pennsylvania,863,22,18986,0,12,0
+1950,All wheat,South Dakota,3359,10,33488,1,0,0
+1950,All wheat,Texas,2374,8,18992,0,0,0
+1950,All wheat,Virginia,376,18,6768,2,0,0
+1950,All wheat,Washington,2621,26.6,69692,0,0,0
+1950,All wheat,West Virginia,66,18.5,1221,2,0,0
+1950,All wheat,Wisconsin,88,24.2,2132,0,0,0
+1950,All wheat,Wyoming,348,18.3,6378,0,0,0
+1951,All wheat,Colorado,2659,14,37334,0,0,0
+1951,All wheat,Illinois,1757,19,33383,0,0,0
+1951,All wheat,Indiana,1426,16.5,23529,0,0,0
+1951,All wheat,Iowa,145,10.3,1489,0,0,0
+1951,All wheat,Kansas,9701,13,126113,0,2,0
+1951,All wheat,Michigan,1232,25,30800,0,0,0
+1951,All wheat,Minnesota,1076,18.6,20022,0,0,0
+1951,All wheat,Missouri,1315,17,22406,0,0,0
+1951,All wheat,Montana,5910,16.1,95033,0,0,0
+1951,All wheat,Nebraska,4005,14.5,58073,0,0,0
+1951,All wheat,North Dakota,10485,13.9,145732,0,0,0
+1951,All wheat,Ohio,1906,18,34308,0,0,0
+1951,All wheat,Oklahoma,4905,9.5,38902,0,0,0
+1951,All wheat,Pennsylvania,837,22.5,18832,0,5,0
+1951,All wheat,South Dakota,3893,14.9,58044,0,0,0
+1951,All wheat,Texas,1994,9,17946,0,0,0
+1951,All wheat,Virginia,368,21,7728,1,0,0
+1951,All wheat,Washington,2774,27.5,76224,0,0,0
+1951,All wheat,West Virginia,58,18.5,1073,1,0,0
+1951,All wheat,Wisconsin,81,23.4,1895,0,0,0
+1951,All wheat,Wyoming,375,18,6750,0,0,0
+1952,All wheat,Colorado,3305,17.6,58162,0,0,0
+1952,All wheat,Illinois,1845,23,42435,0.5,8,0
+1952,All wheat,Indiana,1540,24,36960,0.5,2,0
+1952,All wheat,Iowa,155,21.5,3329,0.5,0,0
+1952,All wheat,Kansas,14649,21,307629,0,1,0
+1952,All wheat,Michigan,1429,25.5,36440,0,0,0
+1952,All wheat,Minnesota,1155,14.7,16998,2.3,0,0
+1952,All wheat,Missouri,1252,22,27544,0.5,0,0
+1952,All wheat,Montana,5772,14.6,84133,0,0,0
+1952,All wheat,Nebraska,4390,22.4,98367,0,0,0
+1952,All wheat,North Dakota,9854,10.2,100359,5.6,0,0
+1952,All wheat,Ohio,2249,24.5,55100,0,0,0
+1952,All wheat,Oklahoma,5840,18.5,108040,0,10,0
+1952,All wheat,Pennsylvania,845,22.5,19012,0.5,0,0
+1952,All wheat,South Dakota,3898,8.2,32049,5.3,0,0
+1952,All wheat,Texas,3011,12,36132,0,0,0
+1952,All wheat,Virginia,383,21.5,8234,3,0,0
+1952,All wheat,Washington,2889,27.9,80541,0,0,0
+1952,All wheat,West Virginia,56,21,1176,2,0,0
+1952,All wheat,Wisconsin,78,24.7,1929,1,0,0
+1952,All wheat,Wyoming,405,16.3,6602,0,0,0
+1953,All wheat,Colorado,2813,15.6,43875,0.6,0,0
+1953,All wheat,Illinois,2122,28,59416,0.3,0,0
+1953,All wheat,Indiana,1648,28,46144,1,0,0
+1953,All wheat,Iowa,137,20.4,2791,6,1,0
+1953,All wheat,Kansas,11573,12.5,144662,1.5,0,0
+1953,All wheat,Michigan,1515,29,43935,0,0,0
+1953,All wheat,Minnesota,997,16.2,16171,13.4,0,0
+1953,All wheat,Missouri,1578,26,41028,2,0,0
+1953,All wheat,Montana,5969,19.1,114232,3,0,0
+1953,All wheat,Nebraska,3856,22.3,85980,2,0,0
+1953,All wheat,North Dakota,9843,9.9,97304,37.7,0,0
+1953,All wheat,Ohio,2384,28.5,67944,1,0,0
+1953,All wheat,Oklahoma,5898,12,70776,1,0,0
+1953,All wheat,Pennsylvania,862,24,20688,0.2,5,0
+1953,All wheat,South Dakota,3561,9.2,32717,35.2,0,0
+1953,All wheat,Texas,2710,9,24390,0,0,0
+1953,All wheat,Virginia,368,21,7728,2,0,0
+1953,All wheat,Washington,2939,28.6,84150,0,0,0
+1953,All wheat,West Virginia,59,21.5,1268,2,0,0
+1953,All wheat,Wisconsin,74,23.1,1712,2.9,0,0
+1953,All wheat,Wyoming,413,16.5,6823,3.2,0,0
+1954,All wheat,Colorado,1740,10.7,18608,0,0,0
+1954,All wheat,Illinois,1592,30,47760,0.04,0,0
+1954,All wheat,Indiana,1318,30.5,40199,0.5,5,0
+1954,All wheat,Iowa,110,19.4,2135,15,0,0
+1954,All wheat,Kansas,10069,17.5,176208,3,2.5,0
+1954,All wheat,Michigan,1030,29,29870,0,0,0
+1954,All wheat,Minnesota,726,14.3,10399,18,0,0
+1954,All wheat,Missouri,1373,30,41190,1,0,0
+1954,All wheat,Montana,4713,17.6,82865,2,0,0
+1954,All wheat,Nebraska,3060,19.5,59670,5,0,0
+1954,All wheat,North Dakota,7702,9,69155,42.9,0,0
+1954,All wheat,Ohio,1740,27,46980,2,0,0
+1954,All wheat,Oklahoma,4718,15,70770,2,0,0
+1954,All wheat,Pennsylvania,690,28,19320,0.2,1,0
+1954,All wheat,South Dakota,2705,10,27105,21,0,0
+1954,All wheat,Texas,3279,10,32790,0,4,0
+1954,All wheat,Virginia,283,25,7075,3,0,0
+1954,All wheat,Washington,2234,32.2,72011,0,0,0
+1954,All wheat,West Virginia,46,25,1150,2.5,0,0
+1954,All wheat,Wisconsin,64,25.3,1617,1.2,0,0
+1954,All wheat,Wyoming,252,11.7,2946,0,0,0
+1955,All wheat,Colorado,1299,13.6,17712,0,0,0
+1955,All wheat,Illinois,1576,33,52008,0.8,0,0
+1955,All wheat,Indiana,1186,29,34394,0.5,3,0
+1955,All wheat,Iowa,115,33.2,3822,0,0,0
+1955,All wheat,Kansas,8559,15,128385,1,2.5,0
+1955,All wheat,Michigan,948,29.5,27966,0,0,0
+1955,All wheat,Minnesota,634,19.2,12186,2.4,0,0
+1955,All wheat,Missouri,1551,32,49632,0,0,0
+1955,All wheat,Montana,4628,23.6,109350,0,0,0
+1955,All wheat,Nebraska,3121,25,78025,0,2.5,0
+1955,All wheat,North Dakota,7212,15,109336,8,0,0
+1955,All wheat,Ohio,1496,29,43384,1,2,0
+1955,All wheat,Oklahoma,3020,8,24160,0,4,0
+1955,All wheat,Pennsylvania,614,27,16578,0,8,0
+1955,All wheat,South Dakota,2400,11.4,27360,5.2,0,0
+1955,All wheat,Texas,1508,9.5,14326,0,0,0
+1955,All wheat,Virginia,255,25.5,6502,1,0,0
+1955,All wheat,Washington,1998,27.9,55832,0,0,0
+1955,All wheat,West Virginia,40,23,920,1,0,0
+1955,All wheat,Wisconsin,51,25.5,1298,0.5,0,0
+1955,All wheat,Wyoming,277,18.8,5200,0,0,0
+1956,All wheat,Colorado,1578,11.2,17652,0,0,0
+1956,All wheat,Illinois,1623,37.5,60862,1,0,0
+1956,All wheat,Indiana,1186,30.5,36173,0.5,0,0
+1956,All wheat,Iowa,131,19.8,2592,0,0,0
+1956,All wheat,Kansas,9244,15.5,143282,0,0,0
+1956,All wheat,Michigan,1043,30,31290,0.5,0,0
+1956,All wheat,Minnesota,727,23.7,17218,0,0,0
+1956,All wheat,Missouri,1660,30,49800,0,0,0
+1956,All wheat,Montana,4780,18.2,86983,0,0,0
+1956,All wheat,Nebraska,3531,19.5,64506,0,0,0
+1956,All wheat,North Dakota,6889,17.2,118824,0.3,0,0
+1956,All wheat,Ohio,1496,26,38896,1,2,0
+1956,All wheat,Oklahoma,4198,16.5,69267,0,0,0
+1956,All wheat,Pennsylvania,577,27.5,15868,0,7,0
+1956,All wheat,South Dakota,1711,9.7,16537,0,0,0
+1956,All wheat,Texas,2111,12.5,26388,0,0,0
+1956,All wheat,Virginia,268,27,7236,2.5,0,0
+1956,All wheat,Washington,2028,29.5,58826,0,0,0
+1956,All wheat,West Virginia,37,24,888,1.5,0,0
+1956,All wheat,Wisconsin,54,26.7,1440,0,0,0
+1956,All wheat,Wyoming,283,18.2,5145,0,0,0
+1957,All wheat,Colorado,1488,24.5,36522,0.5,0,0
+1957,All wheat,Illinois,1737,21,36477,0,0,0
+1957,All wheat,Indiana,1281,25.5,32666,0,3,0
+1957,All wheat,Iowa,156,27.6,4312,0,5,0
+1957,All wheat,Kansas,5269,19,100111,3,10,0
+1957,All wheat,Michigan,991,29,28739,0,0,0
+1957,All wheat,Minnesota,699,22.6,15780,0,0.9,0
+1957,All wheat,Missouri,1643,23,37789,0,10,0
+1957,All wheat,Montana,4235,19.8,83815,0,0,0
+1957,All wheat,Nebraska,2911,27,78597,2,0,0
+1957,All wheat,North Dakota,6353,18.8,119227,0,0,0
+1957,All wheat,Ohio,1436,22,31592,1,2,0
+1957,All wheat,Oklahoma,3442,12.5,43025,1,0,0
+1957,All wheat,Pennsylvania,548,27,14796,0,5,0
+1957,All wheat,South Dakota,1978,20.2,40037,1,0,0
+1957,All wheat,Texas,2322,14.5,33669,1,3.9,0
+1957,All wheat,Virginia,249,19,4731,1,0,0
+1957,All wheat,Washington,1897,37.4,71016,0,0,0
+1957,All wheat,West Virginia,29,21,609,1,0,0
+1957,All wheat,Wisconsin,51,25.5,1300,0,1.1,0
+1957,All wheat,Wyoming,288,22.1,6376,0,0,0
+1958,All wheat,Colorado,2648,25.4,67205,0,0,0
+1958,All wheat,Illinois,1694,31.5,53361,0,0,0
+1958,All wheat,Indiana,1281,32,40992,0,0,0
+1958,All wheat,Iowa,167,31.7,5288,0,0,0
+1958,All wheat,Kansas,10433,23.5,297340,0,0.5,0
+1958,All wheat,Michigan,1090,38,41420,0,0,0
+1958,All wheat,Minnesota,806,31.4,25345,0,0,0
+1958,All wheat,Missouri,1446,28,40488,0,0,0
+1958,All wheat,Montana,4360,23.4,101882,0,0,0
+1958,All wheat,Nebraska,3435,33,113355,0,0,0
+1958,All wheat,North Dakota,6374,23.1,147372,0,0,0
+1958,All wheat,Ohio,1436,31,44516,0,1,0
+1958,All wheat,Oklahoma,4440,26,115440,0,6,0
+1958,All wheat,Oregon,821,34.3,28147,2.2,0,0
+1958,All wheat,Pennsylvania,564,30,16920,0,7,0
+1958,All wheat,South Dakota,2332,23.9,55722,0,0,0
+1958,All wheat,Texas,3228,21.5,69402,0,2.7,0
+1958,All wheat,Virginia,237,26,6162,1,1,0
+1958,All wheat,Washington,2005,34.9,69975,0.3,0,0
+1958,All wheat,West Virginia,27,26,702,1,1,0
+1958,All wheat,Wisconsin,58,35.7,2071,0,0,0
+1958,All wheat,Wyoming,300,27.1,8120,0,0,0
+1959,All wheat,Colorado,2475,22,54562,0,0,0
+1959,All wheat,Illinois,1660,26,43160,0.4,0,0
+1959,All wheat,Indiana,1217,26,31642,0,0,0
+1959,All wheat,Iowa,165,20.1,3317,1,3,0
+1959,All wheat,Kansas,10329,20.5,211744,0,10,0
+1959,All wheat,Michigan,1112,32,35584,1,0,0
+1959,All wheat,Minnesota,970,22.9,22252,0,1,0
+1959,All wheat,Missouri,1518,25,37950,1.5,3,0
+1959,All wheat,Montana,3966,19.7,77974,0,0,0
+1959,All wheat,Nebraska,3092,22,68024,5.4,2,0
+1959,All wheat,North Dakota,6503,15,97636,0,0,0
+1959,All wheat,Ohio,1264,24.5,30968,0.5,1,0
+1959,All wheat,Oklahoma,4529,20,90580,0,10,0
+1959,All wheat,Oregon,814,35,28464,0,0,0
+1959,All wheat,Pennsylvania,530,26.5,14045,0,6,0
+1959,All wheat,South Dakota,1972,9.2,18204,0,0,0
+1959,All wheat,Texas,3228,17,54876,0,0,0
+1959,All wheat,Virginia,270,23.5,6345,1,1,0
+1959,All wheat,Washington,2000,38.4,76807,0,0,10
+1959,All wheat,West Virginia,25,23,575,1,1,0
+1959,All wheat,Wisconsin,62,30.8,1907,0,0,0
+1959,All wheat,Wyoming,261,21.1,5517,0,0,0
+1960,All wheat,Colorado,2452,27,66121,0,1,0
+1960,All wheat,Illinois,1627,29,47183,0,0.5,0
+1960,All wheat,Indiana,1280,33,42240,0,0,0
+1960,All wheat,Iowa,121,24.7,2985,0,0,0
+1960,All wheat,Kansas,10380,28,290640,2,1,0
+1960,All wheat,Michigan,1144,31,35464,0,0.5,0
+1960,All wheat,Minnesota,967,27.4,26543,0,0,0
+1960,All wheat,Missouri,1321,28.5,37648,1.5,0,0
+1960,All wheat,Montana,4118,19.3,79517,0,0,0
+1960,All wheat,Nebraska,3011,28.5,85712,5,0.5,0
+1960,All wheat,North Dakota,6440,19.8,127500,0,0,0
+1960,All wheat,Ohio,1500,35,52500,0,0,0
+1960,All wheat,Oklahoma,4756,25.5,121278,0,1,0
+1960,All wheat,Oregon,802,33.1,26542,0,0,0
+1960,All wheat,Pennsylvania,535,29.5,15782,0,6,0
+1960,All wheat,South Dakota,2373,19.5,46156,0.4,0,0
+1960,All wheat,Texas,3899,22.5,87728,0,0,0
+1960,All wheat,Virginia,256,26,6656,1,0,0
+1960,All wheat,Washington,1949,33.4,65102,0,0,25
+1960,All wheat,West Virginia,27,28,756,1,0,0
+1960,All wheat,Wisconsin,55,30,1650,0,0,0
+1960,All wheat,Wyoming,246,22.5,5541,0,0,0
+1961,All wheat,Colorado,2459,23,56557,1.5,1,0
+1961,All wheat,Illinois,1703,36,61308,1.5,2.5,0
+1961,All wheat,Indiana,1290,35,45150,0,0,0
+1961,All wheat,Iowa,115,26.2,3008,5,7,0
+1961,All wheat,Kansas,10329,26.5,273718,7,1,0
+1961,All wheat,Michigan,1111,36,39996,0.3,0,0
+1961,All wheat,Minnesota,1022,24,24560,0,0,0
+1961,All wheat,Missouri,1413,30.5,43096,0.5,0,0
+1961,All wheat,Montana,3679,14.7,54048,0,0,0
+1961,All wheat,Nebraska,3220,24.5,78807,15,0,0
+1961,All wheat,North Dakota,5756,11.9,68438,0,0,0
+1961,All wheat,Ohio,1457,31,45167,0.7,0.5,0
+1961,All wheat,Oklahoma,4618,24,110832,2,4,0
+1961,All wheat,Oregon,796,25.9,20602,0,0,0
+1961,All wheat,Pennsylvania,524,30,15720,0.25,5,0
+1961,All wheat,South Dakota,2260,14.4,32545,1.6,2,0
+1961,All wheat,Texas,3690,23,84870,0,0.25,0
+1961,All wheat,Virginia,248,27.5,6820,1,0,0
+1961,All wheat,Washington,1974,28,55272,0,0,30
+1961,All wheat,West Virginia,25,24,600,1,0,0
+1961,All wheat,Wisconsin,58,34.5,2018,0.6,0,0
+1961,All wheat,Wyoming,229,20.5,4705,1,0.5,0
+1962,All wheat,Colorado,1899,19.1,36207,1,0.5,0
+1962,All wheat,Illinois,1522,32.5,49465,3,4,0
+1962,All wheat,Indiana,1096,35.5,38908,0,0,0
+1962,All wheat,Iowa,88,25.3,2223,17,8,0
+1962,All wheat,Kansas,8986,23.5,211171,4,0,0
+1962,All wheat,Michigan,922,32.5,29965,0.5,0,0
+1962,All wheat,Minnesota,731,24.6,17982,0.02,6.7,0
+1962,All wheat,Missouri,976,27,26352,0,0,0
+1962,All wheat,Montana,3465,22.6,78297,5,0,0
+1962,All wheat,Nebraska,2760,19.5,53820,30,0,0
+1962,All wheat,North Dakota,5519,28.7,158395,0.7,3.2,0
+1962,All wheat,Ohio,1207,32,38688,0,0,0
+1962,All wheat,Oklahoma,3787,19,71953,0,0,0
+1962,All wheat,Oregon,687,36.8,25264,0,0,0
+1962,All wheat,Pennsylvania,451,28,12628,0,2.5,0
+1962,All wheat,South Dakota,1721,17.3,29773,26.3,7.6,0
+1962,All wheat,Texas,2731,16,43696,0,2,0
+1962,All wheat,Virginia,179,23,4117,1,0,0
+1962,All wheat,Washington,1697,39.4,66862,0,0,0
+1962,All wheat,West Virginia,18,24,432,1,0,0
+1962,All wheat,Wisconsin,48,35.2,1690,0.2,0,0
+1962,All wheat,Wyoming,213,21.4,4558,6,4,0
+1963,All wheat,Colorado,1697,13.1,22261,0,0,0
+1963,All wheat,Illinois,1737,40,69480,0,1,0
+1963,All wheat,Indiana,1330,41,54530,0,0,0
+1963,All wheat,Iowa,105,27.6,2928,0,3,0
+1963,All wheat,Kansas,8627,21.5,185480,0,0,0
+1963,All wheat,Michigan,1060,38,40280,0,0,0
+1963,All wheat,Minnesota,877,24.7,21697,0,0,0
+1963,All wheat,Missouri,1191,33,39303,0,3,0
+1963,All wheat,Montana,3817,23.5,89869,0.5,0,0
+1963,All wheat,Nebraska,2953,21.5,63490,0,0,0
+1963,All wheat,North Dakota,5644,22.3,125608,2.6,3,0
+1963,All wheat,Ohio,1415,38,53770,0,0,0
+1963,All wheat,Oklahoma,3591,21,75411,0,1.5,0
+1963,All wheat,Oregon,789,35.5,27998,0,0,5
+1963,All wheat,Pennsylvania,487,30.5,14854,0,2,0
+1963,All wheat,South Dakota,2013,14.6,29368,0.3,8,0
+1963,All wheat,Texas,2321,18.5,42938,0,0,0
+1963,All wheat,Virginia,179,22.5,4028,0,0,0
+1963,All wheat,Washington,1903,37.4,71234,0,0,4
+1963,All wheat,West Virginia,19,26,494,0,0,0
+1963,All wheat,Wisconsin,56,37.1,2076,0.3,0,0
+1963,All wheat,Wyoming,241,21.1,5091,0,0,0
+1964,All wheat,Colorado,1777,15.6,27664,0,0,0
+1964,All wheat,Illinois,1928,36,69408,0.6,1.5,0
+1964,All wheat,Indiana,1410,36.5,51465,1,0,0
+1964,All wheat,Iowa,94,27.8,2612,3,3,0
+1964,All wheat,Kansas,9576,22.5,215460,0,0.6,0
+1964,All wheat,Michigan,1007,39,39273,0,0,0
+1964,All wheat,Minnesota,925,23,21280,0,1.8,0
+1964,All wheat,Missouri,1429,32.5,46442,0.5,7,0
+1964,All wheat,Montana,3724,24.4,90821,0,0,0
+1964,All wheat,Nebraska,2953,25,73825,0.5,0,0
+1964,All wheat,North Dakota,6241,24.2,150842,0,1.9,0
+1964,All wheat,Ohio,1373,33,45309,0,0,0
+1964,All wheat,Oklahoma,4201,23,96623,2,1,0
+1964,All wheat,Oregon,791,34.6,27385,0,0,0
+1964,All wheat,Pennsylvania,477,31,14787,0,2,0
+1964,All wheat,South Dakota,2139,17.6,37563,2.7,6,0
+1964,All wheat,Texas,3017,20.5,61848,0,0,0
+1964,All wheat,Virginia,215,29,6235,0,0,0
+1964,All wheat,Washington,2019,40.7,82206,0,0,0
+1964,All wheat,West Virginia,20,27,540,0,0,0
+1964,All wheat,Wisconsin,58,34.7,2013,0,0,0
+1964,All wheat,Wyoming,224,23.7,5304,0,0,0
+1965,All wheat,Colorado,1329,15.7,20809,0,0,0
+1965,All wheat,Illinois,1603,35.5,56906,0,0,0
+1965,All wheat,Indiana,1156,34,39304,0,0,0
+1965,All wheat,Iowa,41,19,779,0,0,0
+1965,All wheat,Kansas,10151,24,243624,2,2,0
+1965,All wheat,Michigan,836,33,27588,0,0,0
+1965,All wheat,Minnesota,797,27.8,22124,0,9,0
+1965,All wheat,Missouri,1186,27.5,32615,0,0,0
+1965,All wheat,Montana,3998,25.6,102475,4.9,0,0
+1965,All wheat,Nebraska,2805,20,56100,15,5,0
+1965,All wheat,North Dakota,6786,26.5,179706,0.1,6.8,0
+1965,All wheat,Ohio,1195,32,38240,0,0,0
+1965,All wheat,Oklahoma,4747,28,132916,0,1,0
+1965,All wheat,Oregon,810,37.4,30303,0,0,0
+1965,All wheat,Pennsylvania,420,34,14280,0,0,0
+1965,All wheat,South Dakota,2034,18,36624,14.4,13.5,0
+1965,All wheat,Texas,3228,22.5,72630,0,4,0
+1965,All wheat,Virginia,183,30,5490,0,0,0
+1965,All wheat,Washington,2268,40,90796,0,0,0
+1965,All wheat,West Virginia,19,29,551,0,0,0
+1965,All wheat,Wisconsin,38,32.4,1230,0.2,0.5,0
+1965,All wheat,Wyoming,208,12.8,2664,8,2,0
+1966,All wheat,Colorado,2371,18.1,42808,0,8,0
+1966,All wheat,Idaho,944,38.5,38278,0,0,0
+1966,All wheat,Illinois,1424,41,58384,0,0,0
+1966,All wheat,Indiana,958,44,42152,0,0,0
+1966,All wheat,Iowa,52,33,1716,0,0,0
+1966,All wheat,Kansas,10260,19.5,200070,0,0,0
+1966,All wheat,Kentucky,170,34,5780,0,0,0
+1966,All wheat,Michigan,762,40,30480,0,0,0
+1966,All wheat,Minnesota,799,22.9,18318,0,1.8,0
+1966,All wheat,Missouri,1210,34,41140,0,0,0
+1966,All wheat,Montana,3802,26.6,101212,0,0.3,0
+1966,All wheat,Nebraska,2945,35,103075,0,0,0
+1966,All wheat,North Dakota,6737,23.4,157586,0,2.6,0
+1966,All wheat,Ohio,1183,39,46137,0,0,0
+1966,All wheat,Oklahoma,4700,21,98700,0,1,0
+1966,All wheat,Oregon,785,33.8,26510,0,1,0
+1966,All wheat,Pennsylvania,400,36,14400,0,0,0
+1966,All wheat,South Dakota,2153,18.2,39296,0,1.3,0
+1966,All wheat,Texas,3229,22.5,72652,0.01,1.5,0
+1966,All wheat,Virginia,145,31,4495,0,0,0
+1966,All wheat,Washington,2266,39.8,90243,0,1,0
+1966,All wheat,West Virginia,17,28.5,484,0,0,0
+1966,All wheat,Wisconsin,44,35.7,1570,0.1,0.6,0
+1966,All wheat,Wyoming,239,19.8,4744,0,0,0
+1967,All wheat,Colorado,1945,19.5,38029,1,1,0
+1967,All wheat,Idaho,1285,44.3,56905,0,0,0
+1967,All wheat,Illinois,1964,39,76596,0,0,0
+1967,All wheat,Indiana,1308,37,48396,0,0,0
+1967,All wheat,Iowa,65,26,1690,0.5,0,0
+1967,All wheat,Kansas,11081,20,221620,0,0,0
+1967,All wheat,Kentucky,231,34,7854,0,0,0
+1967,All wheat,Michigan,1120,36,40320,0,0,0
+1967,All wheat,Minnesota,1052,32.1,33795,0,0.3,0
+1967,All wheat,Missouri,1682,32,53824,0,0,0
+1967,All wheat,Montana,4734,25.2,119136,0.3,0.2,1.8
+1967,All wheat,Nebraska,3325,26.5,88112,0,0,0
+1967,All wheat,North Dakota,7962,22.2,176855,0,1.5,0
+1967,All wheat,Ohio,1514,34,51476,0,0,0
+1967,All wheat,Oklahoma,5217,17,88689,0,3,0
+1967,All wheat,Oregon,1058,30.2,31988,0,0,8
+1967,All wheat,Pennsylvania,480,36,17280,0,0,0
+1967,All wheat,South Dakota,2637,28,73892,0,3.1,0
+1967,All wheat,Texas,3326,16,53216,0.07,1.5,0
+1967,All wheat,Virginia,194,35,6790,0,0,0
+1967,All wheat,Washington,2922,40.5,118464,0,0,8
+1967,All wheat,West Virginia,20,33,660,0,0,0
+1967,All wheat,Wisconsin,63,37.4,2358,0.1,0.2,0
+1967,All wheat,Wyoming,310,25.2,8564,2,0,0
+1968,All wheat,Colorado,1933,20,38745,0.5,5,0
+1968,All wheat,Idaho,1236,45.6,56364,0,0,0.5
+1968,All wheat,Illinois,1476,36,53136,0,0,0
+1968,All wheat,Indiana,1014,35,35490,0,5,0
+1968,All wheat,Iowa,49,38,1862,0,1,0
+1968,All wheat,Kansas,9751,26,253526,0,8,0
+1968,All wheat,Kentucky,208,30,6240,0,0,0
+1968,All wheat,Michigan,885,36,31860,0,0,0
+1968,All wheat,Minnesota,1018,32.9,33532,0,2.8,0
+1968,All wheat,Missouri,1278,33,42174,0,3,0
+1968,All wheat,Montana,4550,27.7,125869,0,0,0
+1968,All wheat,Nebraska,3159,32,101088,0,2,0
+1968,All wheat,North Dakota,7903,27.1,213867,0,1.8,0
+1968,All wheat,Ohio,1226,37,45362,0,0,0
+1968,All wheat,Oklahoma,5321,23,122383,0,2.5,0
+1968,All wheat,Oregon,982,30.7,30162,0,0,0.5
+1968,All wheat,Pennsylvania,394,32,12608,0,0,0
+1968,All wheat,South Dakota,2418,27.2,65729,0,7.2,0
+1968,All wheat,Texas,3825,22,84150,2,5,0
+1968,All wheat,Virginia,169,34,5746,0,0,0
+1968,All wheat,Washington,2766,39.4,108975,0,0,1
+1968,All wheat,West Virginia,16,28.5,456,0,0,0
+1968,All wheat,Wisconsin,60,35.7,2144,0,0.2,0
+1968,All wheat,Wyoming,290,29.2,8466,0,2,0
+1969,All wheat,California,355,34,12080,0.1,0,0
+1969,All wheat,Colorado,2145,21,45045,0.5,4.9,0
+1969,All wheat,Idaho,1051,45.6,47982,0,0.5,0
+1969,All wheat,Illinois,1301,37,48137,0,0,0
+1969,All wheat,Indiana,899,39,35061,0,3,0
+1969,All wheat,Iowa,43,32,1376,0,0,0
+1969,All wheat,Kansas,9849,31,305319,0,0,0
+1969,All wheat,Kentucky,183,34,6222,0,0,0
+1969,All wheat,Michigan,628,40,25120,0,0,0
+1969,All wheat,Minnesota,838,29.4,24607,0,0.2,0
+1969,All wheat,Missouri,1035,32,33120,0,0,0
+1969,All wheat,Montana,3645,26.6,96794,0,0,0
+1969,All wheat,Nebraska,2717,31.5,85586,0,1,0
+1969,All wheat,North Dakota,6782,30,203561,0,0.01,0
+1969,All wheat,Ohio,1067,37,39479,0,0,0
+1969,All wheat,Oklahoma,4150,28.5,118275,0,1.5,0
+1969,All wheat,Oregon,788,38.1,30030,0,0.8,2.4
+1969,All wheat,Pennsylvania,327,35.5,11608,0,0,0
+1969,All wheat,South Dakota,1963,21.9,42915,0,0.7,0
+1969,All wheat,Texas,2869,24,68856,0,0.5,0
+1969,All wheat,Virginia,157,43,6751,0,0,0
+1969,All wheat,Washington,2462,38.7,95242,0,0.8,0
+1969,All wheat,West Virginia,14,30,420,0,0,0
+1969,All wheat,Wisconsin,44,34.4,1514,0,0.2,0
+1969,All wheat,Wyoming,242,20.2,4884,0,0,0
+1970,All wheat,California,535,41.4,22175,0,0,0
+1970,All wheat,Colorado,2420,28.5,68944,0,1,0
+1970,All wheat,Idaho,929,46,42734,0,0,0
+1970,All wheat,Illinois,993,36,35748,0,0,0
+1970,All wheat,Indiana,744,38.5,29799,0,1,0
+1970,All wheat,Iowa,40,35,1400,0,1,0
+1970,All wheat,Kansas,9061,33,299013,0,1,0
+1970,All wheat,Kentucky,170,36,6120,0,0,0
+1970,All wheat,Michigan,565,39,212035,0,0,0
+1970,All wheat,Minnesota,830,27.6,22882,0,1.9,0
+1970,All wheat,Missouri,932,33.5,31222,0,0,0
+1970,All wheat,Montana,3383,25.2,85167,0,0,0
+1970,All wheat,Nebraska,2558,38,97204,0,2,0
+1970,All wheat,North Dakota,6486,23.6,152826,0,0.7,0
+1970,All wheat,Ohio,971,37,35927,0,0,0
+1970,All wheat,Oklahoma,3777,26,98202,0,3,0
+1970,All wheat,Oregon,708,42.7,30216,0,0,6.7
+1970,All wheat,Pennsylvania,298,33,9834,0,0,0
+1970,All wheat,South Dakota,1811,21.7,39282,0,2.4,0
+1970,All wheat,Texas,2267,24,54408,0,0.5,0
+1970,All wheat,Virginia,165,44,7260,0,0,0
+1970,All wheat,Washington,2258,44.6,100731,0,0,0
+1970,All wheat,West Virginia,14,33,462,2,0,0
+1970,All wheat,Wisconsin,40,35.6,1422,0,0.09,0
+1970,All wheat,Wyoming,221,28.3,6259,0,0,0
+1971,All wheat,Arkansas,306,31.5,9639,0,5,0
+1971,All wheat,California,555,36,19965,0,0,0
+1971,All wheat,Colorado,2541,27.9,70920,0,2,0
+1971,All wheat,Idaho,987,51.3,50623,0,0,0
+1971,All wheat,Illinois,983,44,43252,0.5,1,0
+1971,All wheat,Indiana,735,45,33075,1,1,0
+1971,All wheat,Iowa,36,37,1332,1,0,0
+1971,All wheat,Kansas,9061,34.5,312605,0,2,0
+1971,All wheat,Kentucky,190,40,7600,0,0,0
+1971,All wheat,Michigan,570,36,20520,0,0,0
+1971,All wheat,Minnesota,1508,37.8,57014,0,1,0
+1971,All wheat,Missouri,848,40.5,34344,0,0,0
+1971,All wheat,Montana,4314,26,112011,0,0,0
+1971,All wheat,Nebraska,2558,42,107436,0,3,0
+1971,All wheat,North Dakota,8982,31.8,285231,0,0.9,0
+1971,All wheat,Ohio,981,43.5,42674,0,0,0
+1971,All wheat,Oklahoma,3475,20,69500,0,0.5,0
+1971,All wheat,Oregon,768,44.5,34200,0,0,1.4
+1971,All wheat,Pennsylvania,286,36,10296,0,0,0
+1971,All wheat,South Dakota,2288,30.1,68768,0,1.6,0
+1971,All wheat,Tennessee,250,35,8750,0,1,0
+1971,All wheat,Texas,1496,21,31416,0,0,0
+1971,All wheat,Virginia,190,44,8360,0.3,0,0
+1971,All wheat,Washington,2489,47.8,118921,0,0,0
+1971,All wheat,West Virginia,13,33,429,2,0,0
+1971,All wheat,Wisconsin,45,37.4,1685,0,0.08,0
+1971,All wheat,Wyoming,230,32.1,7382,0,0,0
+1972,All wheat,Arkansas,296,37,10952,0,7.5,0
+1972,All wheat,California,487,47.8,23304,0,0,0
+1972,All wheat,Colorado,2541,27.9,70920,0.5,4.8,0
+1972,All wheat,Georgia,140,20,2800,0,50,0
+1972,All wheat,Idaho,958,46.2,44226,0,0,0
+1972,All wheat,Illinois,1200,45,54000,0,0,0
+1972,All wheat,Indiana,826,48,39648,0,0.5,0
+1972,All wheat,Iowa,33,37.5,1238,0,0,0
+1972,All wheat,Kansas,9400,33.5,314900,0,1,0
+1972,All wheat,Kentucky,216,32.5,7020,0,1,0
+1972,All wheat,Michigan,535,40,21400,0,0,0
+1972,All wheat,Minnesota,1498,32.9,49292,0,0.5,0
+1972,All wheat,Missouri,925,39,36075,0,1,0
+1972,All wheat,Montana,3704,26.7,98831,0,0.2,0
+1972,All wheat,Nebraska,2556,37,94572,0.5,1,0
+1972,All wheat,North Carolina,225,31,6975,0,2,0
+1972,All wheat,North Dakota,7507,28.9,216818,0,0.7,0
+1972,All wheat,Ohio,1029,45,46305,0,0,0
+1972,All wheat,Oklahoma,3900,23,89700,0,3,0
+1972,All wheat,Oregon,879,41.9,36848,0,0,0
+1972,All wheat,Pennsylvania,269,32,8608,0,0,0
+1972,All wheat,South Carolina,136,20,2720,0,16,0
+1972,All wheat,South Dakota,1878,28.6,53619,0,7.7,0
+1972,All wheat,Tennessee,240,32,7680,0,1,0
+1972,All wheat,Texas,2000,22,44000,0,1,0
+1972,All wheat,Virginia,218,37,8066,0,0,0
+1972,All wheat,Washington,2602,46.9,122083,0,0,0
+1972,All wheat,West Virginia,14,35,490,4,1,0
+1972,All wheat,Wisconsin,29,31.1,901,0.06,0.15,0
+1972,All wheat,Wyoming,232,34.7,8060,0,0,0
+1973,All wheat,Arkansas,217,28,6076,0,8,0
+1973,All wheat,California,572,54,30880,0,0,0
+1973,All wheat,Colorado,2432,24.5,59568,0,4.9,0
+1973,All wheat,Georgia,120,27,3240,0,6,0
+1973,All wheat,Idaho,1075,45,48395,0,0,0
+1973,All wheat,Illinois,1260,30,37800,0,0,0
+1973,All wheat,Indiana,703,35,24605,0,0,0
+1973,All wheat,Iowa,27,31,837,0,0,0
+1973,All wheat,Kansas,10400,37,384800,0,8,0
+1973,All wheat,Kentucky,164,33,5412,0,5,0
+1973,All wheat,Michigan,568,35,19880,0,5,0
+1973,All wheat,Minnesota,2010,38.9,78152,0,0,0
+1973,All wheat,Missouri,850,30,25500,0,0,0
+1973,All wheat,Montana,4052,23.9,96714,0,0.1,0
+1973,All wheat,Nebraska,2680,35,93800,0,3,0
+1973,All wheat,North Carolina,160,35,5660,0,2.5,0
+1973,All wheat,North Dakota,8913,28.3,252476,0,0.4,0
+1973,All wheat,Ohio,720,32,23040,0,0,0
+1973,All wheat,Oklahoma,5260,30,157800,0.1,10,0
+1973,All wheat,Oregon,1012,34.8,35276,0,0,0
+1973,All wheat,Pennsylvania,264,28,7392,0,0,0
+1973,All wheat,South Carolina,101,25,2525,0,15,0
+1973,All wheat,South Dakota,2268,25.7,58270,0,0,0
+1973,All wheat,Tennessee,144,31,4464,0,7.5,0
+1973,All wheat,Texas,3400,29,98600,0,1,0
+1973,All wheat,Virginia,175,37,6475,0,0,0
+1973,All wheat,Washington,2720,32.8,89200,0,0,0
+1973,All wheat,West Virginia,12,31,372,5,0,0
+1973,All wheat,Wisconsin,27,33,890,0.06,0.4,0
+1973,All wheat,Wyoming,240,23.1,5542,0,0,0
+1974,All wheat,Alabama,130,23,2990,5,2,0
+1974,All wheat,Arkansas,400,26,10400,0,7,0
+1974,All wheat,California,750,52,38994,0,0,8
+1974,All wheat,Colorado,2654,25.5,67809,0,5,0
+1974,All wheat,Florida,30,20,600,20,0,0
+1974,All wheat,Georgia,160,23,3680,8,3,0
+1974,All wheat,Idaho,1440,43,61860,0,3.9,0
+1974,All wheat,Illinois,1790,30,53700,0,0,0
+1974,All wheat,Indiana,1390,36,50040,0,0,0
+1974,All wheat,Iowa,41,30,1230,0,2,0
+1974,All wheat,Kansas,11600,27.5,319000,0.5,15,0
+1974,All wheat,Kentucky,390,31.5,12285,0,0,0
+1974,All wheat,Michigan,940,40,37600,0,2,0
+1974,All wheat,Minnesota,2794,28.9,80862,0,0.5,0
+1974,All wheat,Mississippi,162,24,3888,1,5,0
+1974,All wheat,Missouri,1310,29,37990,0,1,0
+1974,All wheat,Montana,4857,24.7,120108,0,0,2.3
+1974,All wheat,Nebraska,4900,34,98600,0.05,6,0
+1974,All wheat,North Carolina,290,35,10150,0,5,0
+1974,All wheat,North Dakota,10036,20.4,205062,0,0.8,0
+1974,All wheat,Ohio,1540,42,64680,0,0,0
+1974,All wheat,Oklahoma,6400,21,134400,0,10,0
+1974,All wheat,Oregon,1230,42.9,52770,0,0.5,0.9
+1974,All wheat,Pennsylvania,350,36,12600,0.2,0.25,0
+1974,All wheat,South Carolina,158,25,3950,8,12,0
+1974,All wheat,South Dakota,3145,18.4,57770,0,0,0
+1974,All wheat,Tennessee,325,29,9425,0,8,0
+1974,All wheat,Texas,3300,16,52800,0,10,0
+1974,All wheat,Virginia,275,37,10175,0,1,0
+1974,All wheat,Washington,3130,34,122200,0,2,2
+1974,All wheat,West Virginia,17,33,561,5,0,0
+1974,All wheat,Wisconsin,78,36,2853,0,0.1,0
+1974,All wheat,Wyoming,263,24.7,6502,0,0,0
+1975,All wheat,Alabama,135,24,3240,0,5,0
+1975,All wheat,Arkansas,520,30,15600,0,2,0
+1975,All wheat,California,1001,62.2,62227,0,0,0
+1975,All wheat,Colorado,2260,22.5,50950,0,2,0
+1975,All wheat,Florida,20,26,520,0,5,0
+1975,All wheat,Georgia,135,27,3645,0,1,0
+1975,All wheat,Idaho,1350,44.5,60050,0,0,0
+1975,All wheat,Illinois,1730,39,67470,0,0,0
+1975,All wheat,Indiana,1500,43,64500,0,0,0
+1975,All wheat,Iowa,75,34,2550,0,1,0
+1975,All wheat,Kansas,12100,29,350900,0,8,0
+1975,All wheat,Kentucky,352,34,11968,0,0.5,0
+1975,All wheat,Michigan,1020,38,38760,0,0,0
+1975,All wheat,Minnesota,2844,30.9,87839,0,0,0
+1975,All wheat,Mississippi,185,24,4440,0,5,0
+1975,All wheat,Missouri,1470,33,48510,0,2,0
+1975,All wheat,Montana,4975,31.3,155925,0,1,0
+1975,All wheat,Nebraska,3070,32,98240,0,3.5,0
+1975,All wheat,North Carolina,300,31,9300,0,2,0
+1975,All wheat,North Dakota,10213,25.9,264392,0,0.8,0
+1975,All wheat,Ohio,1770,42,74340,0,0,0
+1975,All wheat,Oklahoma,6700,24,160800,0,10,0
+1975,All wheat,Oregon,1215,46.4,56370,0,0,0.9
+1975,All wheat,Pennsylvania,345,33,11385,0,1,0
+1975,All wheat,South Carolina,155,27,4185,0,2,0
+1975,All wheat,South Dakota,3003,21.1,63294,0,0.3,0
+1975,All wheat,Tennessee,310,31,9610,0,0.5,0
+1975,All wheat,Texas,5700,23,131100,0,3,0
+1975,All wheat,Virginia,292,31,9052,0,1,0
+1975,All wheat,Washington,3060,47.4,145140,0,1.4,3
+1975,All wheat,West Virginia,17,32,544,5,1,0
+1975,All wheat,Wisconsin,93,30.3,2820,0,0.1,0
+1975,All wheat,Wyoming,273,24.9,6802,0,0,0
+1976,Winter,Alabama,125,27,3375,0,2,0
+1976,Winter,Arkansas,710,39,27690,0,4,0
+1976,Winter,California,860,62,53320,0,0,0
+1976,Durum,California,80,80,6400,0,0,0
+1976,Winter,Colorado,2200,21.5,47300,0,0,0
+1976,Spring,Colorado,23,30,690,0,0,0
+1976,Winter,Florida,22,30,660,0,5,0
+1976,Winter,Georgia,115,31,3565,0,2,0
+1976,Winter,Idaho,890,44,39160,0,5,10
+1976,Spring,Idaho,540,54,29160,0,5,10
+1976,Winter,Illinois,1850,39,72150,0,1,0
+1976,Winter,Indiana,1600,36,57600,0,0,0
+1976,Winter,Iowa,85,35,2975,0,0,0
+1976,Winter,Kansas,11300,30,339000,0,0,0
+1976,Winter,Kentucky,330,31,10230,0,2,0
+1976,Winter,Michigan,990,38,37620,0,0,0
+1976,Winter,Minnesota,163,26,4238,0,0,0
+1976,Spring,Minnesota,3800,32.5,123500,0,0,0
+1976,Durum,Minnesota,93,29.5,2744,0,0,0
+1976,Winter,Mississippi,180,29,5220,0,3,0
+1976,Winter,Missouri,1650,33,54450,0,0,0
+1976,Winter,Montana,3080,32,98560,0,0,0
+1976,Spring,Montana,2040,29.5,60180,0,0,0
+1976,Durum,Montana,295,29,8555,0,0,0
+1976,Winter,Nebraska,2950,32,94400,0,0,0
+1976,Winter,North Carolina,240,29,6960,0,3,0
+1976,Winter,North Dakota,135,28,3780,0,0,0
+1976,Spring,North Dakota,7900,24.5,193550,0,0,0
+1976,Durum,North Dakota,3620,25,90500,0,0,0
+1976,Winter,Ohio,1650,40,66000,0,0,0
+1976,Winter,Oklahoma,6300,24,151200,0,2,0
+1976,Winter,Oregon,1220,46,56120,0,3,10
+1976,Spring,Oregon,113,37,4181,0,0,5
+1976,Winter,Pennsylvania,315,30,9450,0,1.5,0
+1976,Winter,South Carolina,145,25,3625,0,1,0
+1976,Winter,South Dakota,970,18,17460,0,0,0
+1976,Spring,South Dakota,1860,11,20460,0,0,0
+1976,Durum,South Dakota,160,10,1600,0,0,0
+1976,Winter,Tennessee,335,37,12395,0,3,0
+1976,Winter,Texas,4700,22,103400,0,1,0
+1976,Winter,Virginia,240,32,7680,0,0,0
+1976,Winter,Washington,2885,46,132710,0,5,17
+1976,Spring,Washington,315,36,11340,0,5,10
+1976,Winter,West Virginia,14,32,448,0,0,0
+1976,Winter,Wisconsin,64,37,2368,0,0.2,0
+1976,Spring,Wisconsin,29,30,870,0,0.1,0
+1976,Winter,Wyoming,240,25,6000,0,0,0
+1976,Spring,Wyoming,35,25,875,0,0,0
+1977,Winter,Alabama,90,28,2520,0,0,0
+1977,Winter,Arkansas,660,39,25740,0,1,0
+1977,Winter,California,650,64,41600,0,0,0
+1977,Durum,California,28,75,2100,0,0,0
+1977,Winter,Colorado,2550,22,56100,0,0,0
+1977,Spring,Colorado,25,40,1000,0,0,0
+1977,Winter,Florida,13,29,377,0,0,0
+1977,Winter,Georgia,100,33,3300,0,0,0
+1977,Winter,Idaho,830,39,32370,0,0,0
+1977,Spring,Idaho,360,51,18360,0,0,0
+1977,Winter,Illinois,1590,43,68370,0,0,0
+1977,Winter,Indiana,1240,45,55800,0,0,0
+1977,Winter,Iowa,85,37,3145,0,0,0
+1977,Winter,Kansas,12100,28.5,344850,0,1,0
+1977,Winter,Kentucky,274,37,10138,0,0,0
+1977,Winter,Michigan,825,40,33000,0,0,0
+1977,Winter,Minnesota,105,33,3465,0,0,0
+1977,Spring,Minnesota,3140,40,125600,0,0,0
+1977,Durum,Minnesota,82,34.5,2829,0,0,0
+1977,Winter,Mississippi,105,34,3570,0,0,0
+1977,Winter,Missouri,1550,39,60450,0,0,0
+1977,Winter,Montana,2800,29,81200,0,0,0
+1977,Spring,Montana,2040,22,44880,0,0,0
+1977,Durum,Montana,220,22,4840,0,0,0
+1977,Winter,Nebraska,2950,35,103250,0,2,0
+1977,Winter,North Carolina,200,30,6000,0,0,0
+1977,Winter,North Dakota,104,23,2392,0,0,0
+1977,Spring,North Dakota,6680,25,167000,0,0,0
+1977,Durum,North Dakota,2470,24.5,60515,0,0,0
+1977,Winter,Ohio,1540,47,72380,0,0,0
+1977,Winter,Oklahoma,6500,27,175500,0,3,0
+1977,Winter,Oregon,1130,38,42940,0,0,5
+1977,Spring,Oregon,70,34,2380,0,0,0
+1977,Winter,Pennsylvania,270,33,8910,0,0,0
+1977,Winter,South Carolina,95,29,2755,0,0,0
+1977,Winter,South Dakota,680,25,17000,0,0,0
+1977,Spring,South Dakota,2200,23.5,51700,0,0.5,0
+1977,Durum,South Dakota,136,24,3264,0,0,0
+1977,Winter,Tennessee,280,36,10080,0,0,0
+1977,Winter,Texas,4700,25,117500,0,0.76,0.05
+1977,Winter,Virginia,205,31,6355,0,1,0
+1977,Winter,Washington,2800,34,95200,0,0.5,1
+1977,Spring,Washington,185,33,6105,0,0,0
+1977,Winter,West Virginia,10,31,310,0,5,0
+1977,Winter,Wisconsin,60,43,2580,0,0.1,0
+1977,Spring,Wisconsin,15,33,495,0,0.1,0
+1977,Winter,Wyoming,260,20,5200,0,0,0
+1977,Spring,Wyoming,21,20,420,0,0,0
+1978,Winter,Alabama,65,26,1690,0,2,0
+1978,Winter,Arkansas,300,37,11100,0,4,0
+1978,Winter,California,600,62,37200,0,0,0
+1978,Durum,California,115,75,8625,0,0,0
+1978,Winter,Colorado,2400,23,55200,0,0,0
+1978,Spring,Colorado,44,47,2068,0,0,0
+1978,Winter,Florida,12,36,432,0,1,0
+1978,Winter,Georgia,120,32,3840,0,0,0
+1978,Winter,Idaho,815,54,44010,0,3,0
+1978,Spring,Idaho,480,64,30720,0,1,4
+1978,Winter,Illinois,930,38,35340,0,3.5,0
+1978,Winter,Indiana,815,39,31785,0,1,0
+1978,Winter,Iowa,55,31,1750,0,0,0
+1978,Winter,Kansas,10200,30,306000,0,1.5,0
+1978,Winter,Kentucky,195,35,6825,0,2.5,0
+1978,Winter,Michigan,450,40,18000,0,2,0
+1978,Winter,Minnesota,58,29,1682,0,0,0
+1978,Spring,Minnesota,2620,33.5,87770,0,0,0
+1978,Durum,Minnesota,98,38.5,3773,0,0,0
+1978,Winter,Mississippi,65,31,2015,0,2,0
+1978,Winter,Missouri,840,34,28560,0,0,0
+1978,Winter,Montana,2700,31,83700,0,0,0
+1978,Spring,Montana,1850,29,53650,0,0,0
+1978,Durum,Montana,290,30,8700,0,0,0
+1978,Winter,Nebraska,2550,32,81600,0,0,0
+1978,Winter,North Carolina,180,33,5940,0,0,0
+1978,Winter,North Dakota,135,29,3915,0,1,0
+1978,Spring,North Dakota,6210,29,180090,0,0,0
+1978,Durum,North Dakota,3240,31.5,102060,0,0,0
+1978,Winter,Ohio,1125,39,43875,0,0,0
+1978,Winter,Oklahoma,5400,27,145800,0,7,0
+1978,Winter,Oregon,1100,43,47300,0,2,5
+1978,Spring,Oregon,125,37,4625,0,2,10
+1978,Winter,Pennsylvania,245,33,8085,0,0,0
+1978,Winter,South Carolina,78,33,2574,0,0,0
+1978,Winter,South Dakota,700,26,18200,0,1,0
+1978,Spring,South Dakota,2200,20,44000,0,0,0
+1978,Durum,South Dakota,190,20,3800,0,0,0
+1978,Winter,Tennessee,220,35,7700,0,5,0
+1978,Winter,Texas,2700,20,54000,0,1.3,0
+1978,Winter,Virginia,155,35,5425,0,0,0
+1978,Winter,Washington,2600,47,122200,0,8,5
+1978,Spring,Washington,310,38,11780,0,8,10
+1978,Winter,West Virginia,9,33,297,0,0,0
+1978,Winter,Wisconsin,33,36,1188,0,0.2,0
+1978,Spring,Wisconsin,12,31,372,0,0,0
+1978,Winter,Wyoming,275,26,7150,0,0,0
+1978,Spring,Wyoming,19,24,456,0,0,0
+1979,Winter,Alabama,95,26,2470,0,2,0
+1979,Winter,Arkansas,420,35,14700,0,2,0
+1979,Winter,California,780,70,54600,0,0,0
+1979,Durum,California,45,80,3600,0,0,0
+1979,Winter,Colorado,2600,26,67600,0,0,0
+1979,Spring,Colorado,41,63,2583,0,0,0
+1979,Winter,Georgia,160,35,5600,0,0,0
+1979,Winter,Idaho,850,42,35700,0,0,0
+1979,Spring,Idaho,620,62,38440,0,0,0
+1979,Winter,Illinois,1300,43,55900,0,1,0
+1979,Winter,Indiana,945,47,44415,0,1,0
+1979,Winter,Iowa,72,37,2664,0,0,0
+1979,Winter,Kansas,10800,38,410400,0,2,0
+1979,Winter,Kentucky,290,38,11020,0,0,0
+1979,Winter,Louisiana,27,28,756,0,0,0
+1979,Winter,Michigan,785,43,33755,0,0,0
+1979,Winter,Minnesota,51,35,1785,0,0,0
+1979,Spring,Minnesota,2450,35,85750,0,0,0
+1979,Durum,Minnesota,77,37,2849,0,0,0
+1979,Winter,Mississippi,115,32,3680,0,0,0
+1979,Winter,Missouri,1600,44,70400,0,0,0
+1979,Winter,Montana,2250,25.5,57375,0,0,0
+1979,Spring,Montana,2550,20.5,52275,0,0,0
+1979,Durum,Montana,325,21,6825,0,0,0
+1979,Winter,Nebraska,2550,34,86700,0,0,0
+1979,Winter,North Carolina,210,36,7560,0,1,0
+1979,Winter,North Dakota,120,22,2640,0,0,0
+1979,Spring,North Dakota,6230,26.5,165095,0,0,0
+1979,Durum,North Dakota,3250,26,84500,0,0,0
+1979,Winter,Ohio,1320,48,63360,0,0,0
+1979,Winter,Oklahoma,5700,38,216600,0,7,0
+1979,Winter,Oregon,1000,48,48000,0,0.2,0.2
+1979,Spring,Oregon,245,38,9310,0,0.2,0.2
+1979,Winter,Pennsylvania,262,31,8122,0,0,0
+1979,Winter,South Carolina,109,33,3597,0,0,0
+1979,Winter,South Dakota,550,19,10450,0,0,0
+1979,Spring,South Dakota,2090,22,45980,0,0,0
+1979,Durum,South Dakota,165,22,3630,0,0,0
+1979,Winter,Tennessee,295,34,10030,0,0,0
+1979,Winter,Texas,4600,30,138000,0,4,0
+1979,Winter,Virginia,180,35,6300,0,0.5,0
+1979,Winter,Washington,2200,43,94600,0,0.2,0.2
+1979,Spring,Washington,780,30,23400,0,0.2,0.2
+1979,Winter,West Virginia,10,34,340,0,1,0
+1979,Winter,Wisconsin,38,43,1634,0,0.5,0
+1979,Spring,Wisconsin,16,33,528,0,0.1,0
+1979,Winter,Wyoming,267,22,5874,0,0,0
+1979,Spring,Wyoming,20,24,480,0,0,0
+1980,Winter,Alabama,235,24.5,5758,0,4,0
+1980,Winter,Arkansas,820,38,31160,0,5,0
+1980,Winter,California,1050,74,77700,0,5,0
+1980,Durum,California,100,78,7800,0,0,0
+1980,Winter,Colorado,3350,32,107200,0,0,0
+1980,Spring,Colorado,45,60,2700,0,0,0
+1980,Winter,Georgia,600,33,19800,0,0,0
+1980,Winter,Idaho,910,57,51870,0,5,5
+1980,Spring,Idaho,640,69,44160,0,5,20
+1980,Winter,Illinois,1570,48,75360,0,0.5,0
+1980,Winter,Indiana,1100,49,53900,0,0.5,0
+1980,Winter,Iowa,92,38,3496,0,0,0
+1980,Winter,Kansas,12000,35,420000,0,0,0
+1980,Winter,Kentucky,350,39.5,13825,0,1,0
+1980,Winter,Louisiana,67,28,1876,0,5,0
+1980,Winter,Michigan,800,44,35200,0,1,0
+1980,Winter,Minnesota,69,34,2346,0,0,0
+1980,Spring,Minnesota,2980,32.5,96850,0,0,0
+1980,Durum,Minnesota,120,28,3360,0,0,0
+1980,Winter,Mississippi,250,31,7750,0,4,0
+1980,Winter,Missouri,2070,43,89010,0,0,0
+1980,Winter,Montana,2150,25.5,54825,0,0,0
+1980,Spring,Montana,2550,22.5,57375,0,0,0
+1980,Durum,Montana,400,19,7600,0,0,0
+1980,Winter,Nebraska,2950,38,112100,0,0,0
+1980,Winter,North Carolina,300,35,10500,0,1,0
+1980,Winter,North Dakota,70,15,1050,0,0,0
+1980,Spring,North Dakota,5700,18.5,105450,0,0,0
+1980,Durum,North Dakota,3850,19,73150,0,0,0
+1980,Winter,Ohio,1370,49,67130,0,1.5,0
+1980,Winter,Oklahoma,6500,30,195000,0,3,0
+1980,Winter,Oregon,1200,60,72000,0,5,3
+1980,Spring,Oregon,150,36,5400,0,2,20
+1980,Winter,Pennsylvania,250,37,9250,0,0,0
+1980,Winter,South Carolina,192,36,6912,0,0,0
+1980,Winter,South Dakota,950,22,20900,0,0,0
+1980,Spring,South Dakota,2080,18,37440,0,0,0
+1980,Durum,South Dakota,215,19,4085,0,0,0
+1980,Winter,Tennessee,350,38,13300,0,0,0
+1980,Winter,Texas,5200,25,130000,0,2.5,0
+1980,Winter,Virginia,286,37,10582,0,0,0
+1980,Winter,Washington,2750,52,143000,0,10,5
+1980,Spring,Washington,410,42,17220,0,10,15
+1980,Winter,West Virginia,9,38,342,0,0,0
+1980,Winter,Wisconsin,88,41.5,3652,0,0.3,0
+1980,Spring,Wisconsin,23,31,713,0,0,0
+1980,Winter,Wyoming,295,28,8260,0,0,0
+1980,Spring,Wyoming,14,18,252,0,0,0
+1981,Winter,Alabama,565,44,24860,0,2,0
+1981,Winter,Arkansas,1650,41,67650,0,6,0
+1981,Winter,California,1200,77,92400,0,1,0
+1981,Durum,California,165,89,14685,0,0,0
+1981,Winter,Colorado,3050,27.5,83875,0,0,0
+1981,Spring,Colorado,51,69,3519,0,0,0
+1981,Winter,Georgia,1070,43,46010,0,1,0
+1981,Winter,Idaho,960,58,55680,0,4,5
+1981,Spring,Idaho,550,62,34100,0,5,10
+1981,Winter,Illinois,1850,50,92500,0,1,0
+1981,Winter,Indiana,1350,46,62100,0,1,0
+1981,Winter,Iowa,115,39,4485,0,0,0
+1981,Winter,Kansas,12200,25,305000,0,1.5,0
+1981,Winter,Kentucky,680,42,28560,0,1,0
+1981,Winter,Louisiana,275,42,115500,0,4,0
+1981,Winter,Michigan,830,50,41500,0,1,0
+1981,Winter,Minnesota,125,37,4625,0,1,0
+1981,Spring,Minnesota,3350,40,134000,0,0,0
+1981,Durum,Minnesota,135,40,5400,0,0,0
+1981,Winter,Mississippi,600,40,24000,0,1,0
+1981,Winter,Missouri,2750,42,11550,0,2,0
+1981,Winter,Montana,2550,35,89250,0,0,1
+1981,Spring,Montana,2790,26,72540,0,0,1
+1981,Durum,Montana,480,23,11040,0,0,0
+1981,Winter,Nebraska,2950,36,106200,0,0.5,0
+1981,Winter,North Carolina,410,39,15990,0,1,0
+1981,Winter,North Dakota,130,27,3510,0,0,0
+1981,Spring,North Dakota,7050,28,197400,0,0,0
+1981,Durum,North Dakota,4510,29,130790,0,0,0
+1981,Winter,Ohio,1650,44,72600,0,0,0
+1981,Winter,Oklahoma,6400,27,172800,0,0,0
+1981,Winter,Oregon,1150,61,70150,0,7.5,7.5
+1981,Spring,Oregon,110,38,4180,0,7.5,15
+1981,Winter,Pennsylvania,270,36,9720,0,0,0
+1981,Winter,South Carolina,410,35,14350,0,1,0
+1981,Winter,South Dakota,1170,26,30420,0,0,0
+1981,Spring,South Dakota,2400,22,52800,0,0,0
+1981,Durum,South Dakota,250,23,5750,0,0,0
+1981,Winter,Tennessee,850,44,37400,0,4,0
+1981,Winter,Texas,6550,28,183400,0,1,0
+1981,Winter,Virginia,390,44,17160,0,0,0
+1981,Winter,Washington,2830,57,161310,0,10,10
+1981,Spring,Washington,220,32,7040,0,10,10
+1981,Winter,West Virginia,10,36,360,0,0,0
+1981,Winter,Wisconsin,93,50,4650,0.2,0.5,0
+1981,Spring,Wisconsin,28,31,868,0,0.1,0
+1981,Winter,Wyoming,275,30,8250,0,0,0
+1981,Spring,Wyoming,9,20,180,0,0,0
+1982,Winter,Alabama,825,32,26400,0,10,0
+1982,Winter,Arkansas,1760,39,68640,0,10,0
+1982,Winter,California,1000,70,70000,0,0,0
+1982,Durum,California,125,93,11625,0,0,0
+1982,Winter,Colorado,3000,28,84000,0,0,0
+1982,Spring,Colorado,48,73,3504,0,0,0
+1982,Winter,Georgia,1480,33,48840,0,3,0
+1982,Winter,Idaho,920,57,52440,0,0,0
+1982,Spring,Idaho,580,72,41760,0,1,0
+1982,Winter,Illinois,1500,45,67500,0,4,0
+1982,Winter,Indiana,1080,43,46440,0,5,0
+1982,Winter,Iowa,100,30,3000,0,0,0
+1982,Winter,Kansas,13200,35,462000,0,3,0
+1982,Winter,Kentucky,675,39,26325,0,5,0
+1982,Winter,Louisiana,500,38,19000,0,15,0
+1982,Winter,Michigan,600,41,24600,0,1,0
+1982,Winter,Minnesota,86,34.5,2967,0,1,0
+1982,Spring,Minnesota,3020,40,120800,0,0,0
+1982,Durum,Minnesota,78,39,3042,0,0,0
+1982,Winter,Mississippi,1050,38,39900,0,10,0
+1982,Winter,Missouri,2230,34,75820,0,2,0
+1982,Winter,Montana,2120,38,80560,0,1,0
+1982,Spring,Montana,2900,32,92800,0,0.5,0
+1982,Durum,Montana,340,30,10200,0,0,0
+1982,Winter,Nebraska,2900,35,101500,0,2,0
+1982,Winter,North Carolina,600,36,21600,0,4,0
+1982,Winter,North Dakota,140,34,4760,0,1,0
+1982,Spring,North Dakota,6900,31,213900,0,0,0
+1982,Durum,North Dakota,3450,32.5,112125,0,0,0
+1982,Winter,Ohio,1250,44,55000,0,2,0
+1982,Winter,Oklahoma,6900,33,227700,0,1,0
+1982,Winter,Oregon,1100,55,60500,0,1,0
+1982,Spring,Oregon,100,40,4000,0,1,0
+1982,Winter,Pennsylvania,228,36,8208,0,1,0
+1982,Winter,South Carolina,550,36,19800,0,6,0
+1982,Winter,South Dakota,1100,34,37400,0,6,0
+1982,Spring,South Dakota,2350,25,58750,0,1,0
+1982,Durum,South Dakota,145,24,3480,0,0,0
+1982,Winter,Tennessee,935,36,33660,0,10,0
+1982,Winter,Texas,6000,24,144000,0,5,0
+1982,Winter,Virginia,370,38,14060,0,2,0
+1982,Winter,Washington,2560,49,125440,0,2,2
+1982,Spring,Washington,280,48,13440,0,1.5,1.5
+1982,Winter,West Virginia,9,36,324,0,1,0
+1982,Winter,Wisconsin,94,50,4700,0,1,0
+1982,Spring,Wisconsin,28,32,896,0,0,0
+1982,Winter,Wyoming,285,28,7980,0,0,0
+1982,Spring,Wyoming,24,27,648,0,0,0
+1983,Winter,Alabama,460,33,15180,0,2,0
+1983,Winter,Arkansas,15000,39,58500,0,3,0
+1983,Winter,California,650,64,41600,0,5,1
+1983,Durum,California,70,90,6300,0,0,0
+1983,Winter,Colorado,3000,39,117000,0,0,0
+1983,Spring,Colorado,63,81,5103,0,0,0
+1983,Winter,Georgia,980,33,33320,0,3,0
+1983,Winter,Idaho,830,67,55610,0,5,2
+1983,Spring,Idaho,475,76,36100,0,2,2
+1983,Winter,Illinois,1400,47,65800,0,6,0
+1983,Winter,Indiana,970,51,49470,0,2,0
+1983,Winter,Iowa,50,38,1900,0,0,0
+1983,Winter,Kansas,10800,41.5,448200,0.1,2.5,0
+1983,Winter,Kentucky,560,32,17920,0,1,0
+1983,Winter,Michigan,730,49,35770,0,0,0
+1983,Winter,Minnesota,75,35,2625,0,0,0
+1983,Spring,Minnesota,2030,37,75110,0,0,0
+1983,Durum,Minnesota,35,35,1225,0,0,0
+1983,Winter,Mississippi,600,34,20400,0,3,0
+1983,Winter,Missouri,1850,38,70300,0,2,0
+1983,Winter,Montana,2260,35,79100,0,0,1
+1983,Spring,Montana,1990,27,53730,0,0,1
+1983,Durum,Montana,205,20,4100,0,0,0
+1983,Winter,Nebraska,2300,43,98900,0.1,1,0
+1983,Winter,North Carolina,480,34,16320,0,3,0
+1983,Winter,North Dakota,170,31,5270,0,0,0
+1983,Spring,North Dakota,5000,27,135000,0,0,0
+1983,Durum,North Dakota,2050,26.5,54325,0,0,0
+1983,Winter,Ohio,1150,51,58650,0,4,0
+1983,Winter,Oklahoma,4300,35,150500,0,1,0
+1983,Winter,Oregon,1000,62,62000,0.5,5,5
+1983,Spring,Oregon,85,42,3570,0,5,2
+1983,Winter,Pennsylvania,220,39,8580,0,1,0
+1983,Winter,South Carolina,375,28,10500,0,4,0
+1983,Winter,South Dakota,1250,41,51250,0,5,0
+1983,Spring,South Dakota,1400,26,36400,0,1,0
+1983,Durum,South Dakota,77,27,2079,0,0,0
+1983,Winter,Tennessee,640,33,21120,0,2,0
+1983,Winter,Texas,4600,35,161000,0,0,0
+1983,Winter,Virginia,340,42,14280,0,4,0
+1983,Winter,Washington,2450,65,159250,1,15,10
+1983,Spring,Washington,190,53,10070,0.5,15,8
+1983,Winter,West Virginia,9,42,378,0,1,0
+1983,Winter,Wisconsin,105,49,5145,0,0,0
+1983,Spring,Wisconsin,23,29,667,0,0,0
+1983,Winter,Wyoming,228,33,7524,0,0,0
+1983,Spring,Wyoming,21,34,714,0,0,0
+1984,Winter,Alabama,380,39,14820,0,1,0
+1984,Winter,Arkansas,1400,44,61600,0,3.5,0
+1984,Winter,California,690,76,52440,0,5,1
+1984,Durum,California,94,100,9400,0,0,0
+1984,Winter,Colorado,3200,34.5,110400,0,0,0
+1984,Spring,Colorado,70,70,4900,0,0,0
+1984,Winter,Georgia,890,35,31150,0,1,0
+1984,Winter,Idaho,900,63,56700,0,1,1
+1984,Spring,Idaho,380,65,24700,0,1,1
+1984,Winter,Illinois,1600,44,70400,0,1,0
+1984,Winter,Indiana,1050,46,48300,0,0.5,0
+1984,Winter,Iowa,100,35,3500,0,0,0
+1984,Winter,Kansas,11200,38.5,431200,0,1.5,0
+1984,Winter,Kentucky,500,38,19000,0,1,0
+1984,Winter,Louisiana,320,41,13120,0,4,0
+1984,Winter,Michigan,800,57,45600,0,1,0
+1984,Winter,Minnesota,360,43,15480,0,1,0
+1984,Spring,Minnesota,2160,48,103680,0,1,0
+1984,Durum,Minnesota,33,47,1551,0,0,0
+1984,Winter,Mississippi,660,38,25080,0,3,0
+1984,Winter,Missouri,2050,41,84050,0,1,0
+1984,Winter,Montana,2480,27,66960,0,0,0
+1984,Spring,Montana,1950,17.5,34125,0,1,1
+1984,Durum,Montana,210,17,3570,0,0,0
+1984,Winter,Nebraska,2250,36,81000,0,1,0
+1984,Winter,New York,170,46,7820,0,5,0
+1984,Winter,North Carolina,620,43,26660,0,1,0
+1984,Winter,North Dakota,550,40,22000,0,0.5,0
+1984,Spring,North Dakota,5400,34,183600,0,0,0
+1984,Durum,North Dakota,2710,29,78590,0,0,0
+1984,Winter,Ohio,1100,44,48400,0.5,1,0
+1984,Winter,Oklahoma,5300,36,190800,0,0,0
+1984,Winter,Oregon,1050,63,66150,2,2.5,3.5
+1984,Spring,Oregon,65,43,2795,0,1,1
+1984,Winter,Pennsylvania,220,38,8360,0,1,0
+1984,Winter,South Carolina,380,38,14440,0,1,0
+1984,Winter,South Dakota,1700,36,61200,0,1,0
+1984,Spring,South Dakota,1870,33,61710,0,1,0
+1984,Durum,South Dakota,92,34,3128,0,0,0
+1984,Winter,Tennessee,535,40,21400,0,1,0
+1984,Winter,Texas,5000,30,150000,0,1,0
+1984,Winter,Virginia,275,45,12375,0,0,0
+1984,Winter,Washington,2400,62,148800,3,4,6
+1984,Spring,Washington,210,55,11550,1,3,1
+1984,Winter,West Virginia,10,40,400,2,0,0
+1984,Winter,Wisconsin,160,59,9440,0,1,0
+1984,Spring,Wisconsin,17,34,578,0,0,0
+1984,Winter,Wyoming,260,28,7280,0,0,0
+1984,Spring,Wyoming,22,36,792,0,0,0
+1985,Winter,Alabama,400,32,12800,0,2,0
+1985,Durum,Arizona,46,84,3864,0,0,0
+1985,Winter,Arkansas,570,32,18240,0.1,12,0.1
+1985,Winter,California,750,82,61500,0,0,0
+1985,Durum,California,80,92,7360,0,0,0
+1985,Winter,Colorado,3450,39,134550,0,0,0
+1985,Spring,Colorado,72,66,4752,0,1,0
+1985,Winter,Florida,130,33,4290,0,2,0
+1985,Winter,Georgia,825,31,25575,0,1,0
+1985,Winter,Idaho,870,53,46110,0,0,0
+1985,Spring,Idaho,480,54,25920,0,0,0
+1985,Winter,Illinois,750,49,36750,0,2,0
+1985,Winter,Indiana,700,53,37100,0,5,0
+1985,Winter,Iowa,112,48,5376,0,0,0
+1985,Winter,Kansas,11400,38,433200,0.1,5,0
+1985,Winter,Kentucky,310,34,10540,0,15,0
+1985,Winter,Louisiana,210,34,7140,1,10,0
+1985,Winter,Michigan,750,60,45000,0,0,0
+1985,Winter,Minnesota,280,37,10360,0,2,0
+1985,Spring,Minnesota,2370,55,130350,0,0,0
+1985,Durum,Minnesota,33,52,1716,0,0,0
+1985,Winter,Mississippi,300,31,9300,0,3,0
+1985,Winter,Missouri,1280,39,49920,0,2,0
+1985,Winter,Montana,1400,16,22400,0,0,0
+1985,Spring,Montana,2400,11,26400,0,0,0
+1985,Durum,Montana,160,9,1440,0,0,0
+1985,Winter,Nebraska,2300,39,89700,0,9,0
+1985,Winter,New Mexico,570,36,20520,0,2,0
+1985,Winter,New York,145,58,8410,0,5,0
+1985,Winter,North Carolina,760,29,22040,0,0.5,0
+1985,Winter,North Dakota,450,35,15750,0,1.5,0
+1985,Spring,North Dakota,5730,37,212010,0,0,0
+1985,Durum,North Dakota,2690,35.5,95495,0,0,0
+1985,Winter,Ohio,950,62,58900,0,5,0
+1985,Winter,Oklahoma,5500,30,165000,0,12,0
+1985,Winter,Oregon,960,54,51840,0,0,0
+1985,Spring,Oregon,105,40,4200,0,0,0
+1985,Winter,Pennsylvania,210,48,10080,0,2,0
+1985,Winter,South Carolina,430,29,12470,0,0.5,0
+1985,Winter,South Dakota,1520,29,44080,0,1,0
+1985,Spring,South Dakota,2150,30,64500,0,1,0
+1985,Durum,South Dakota,85,31,2635,0,0,0
+1985,Winter,Tennessee,250,32,8000,0.1,12,0
+1985,Winter,Texas,5850,32,187200,0,28,0
+1985,Winter,Virginia,285,37,10545,0,0.5,0
+1985,Winter,Washington,2400,48,115200,0,0,0
+1985,Spring,Washington,290,45,13050,0,0,0
+1985,Winter,West Virginia,8,43,344,0,0.5,0
+1985,Winter,Wisconsin,140,55,7700,0,0,0
+1985,Spring,Wisconsin,17,40,680,0,0,0
+1985,Winter,Wyoming,230,22,5060,0,0,0
+1985,Spring,Wyoming,18,26,468,0,0,0
+1986,Winter,Alabama,220,26,5720,1,2.5,0
+1986,Durum,Arizona,48,87,4176,0,0,0
+1986,Winter,Arkansas,780,41,31980,0.5,2,0
+1986,Winter,California,600,75,45000,0,0,0
+1986,Durum,California,75,87,6525,0,0,0
+1986,Winter,Colorado,2900,32,92800,1,3,0
+1986,Spring,Colorado,55,66,3630,0,1,0
+1986,Winter,Florida,100,31,3100,0,4,0
+1986,Winter,Georgia,550,28,15400,0,0,0
+1986,Winter,Idaho,850,61,51850,0,0,0
+1986,Spring,Idaho,460,57,29900,0,0,0
+1986,Winter,Illinois,820,44,36080,6,10,0
+1986,Winter,Indiana,700,43,30100,5,2,0
+1986,Winter,Iowa,60,28,1680,0,0,0
+1986,Winter,Kansas,10200,33,336600,2,8,0
+1986,Winter,Kentucky,270,33,8910,0,1,0
+1986,Winter,Louisiana,210,35,7350,3,9,0
+1986,Winter,Michigan,680,45,30600,0,1,0
+1986,Winter,Minnesota,130,33,4290,0,5,0
+1986,Spring,Minnesota,2650,37,98050,0,1,0
+1986,Durum,Minnesota,34,38,1292,0,0,0
+1986,Winter,Mississippi,200,31,6200,1,4,0
+1986,Winter,Missouri,570,33,18810,2,5,0
+1986,Winter,Montana,2000,32,64000,1,5,0.5
+1986,Spring,Montana,2600,27,70200,1,3,0.5
+1986,Durum,Montana,160,25,3350,0,1,0
+1986,Winter,Nebraska,2000,38,76000,1,8,0
+1986,Winter,New Mexico,460,22,10120,0,1,0
+1986,Winter,New York,155,52,7595,0,1,0
+1986,Winter,North Carolina,460,31,14260,0,0,0
+1986,Winter,North Dakota,480,29,13920,3,10,0
+1986,Spring,North Dakota,6400,31,198400,0,0.1,0
+1986,Durum,North Dakota,2500,31,75950,0,0,0
+1986,Winter,Ohio,1050,46,48300,1,3,0
+1986,Winter,Oklahoma,5200,29,150800,0,5,0
+1986,Winter,Oregon,930,58,53940,0,0,0
+1986,Spring,Oregon,95,44,4465,0.1,0.5,0
+1986,Winter,Pennsylvania,220,44,9680,0,1,0
+1986,Winter,South Carolina,300,25,7500,0,0.5,0
+1986,Winter,South Dakota,1800,32,57600,0.5,12,0
+1986,Spring,South Dakota,1980,25,49500,0,3,0
+1986,Durum,South Dakota,60,26,1664,0,0,0
+1986,Winter,Tennessee,325,33,10725,0,1,0
+1986,Winter,Texas,4800,25,120000,1,5.5,0
+1986,Winter,Virginia,170,41,6970,0,0,0
+1986,Winter,Washington,2100,49,102900,0,0,0
+1986,Spring,Washington,310,43,13950,0,0,0
+1986,Winter,Wisconsin,130,57,7410,2,5,0
+1986,Spring,Wisconsin,18,35,630,0,0,0
+1986,Winter,Wyoming,250,30,7500,0.5,1,0
+1986,Spring,Wyoming,27,35,945,0,0,0
+1987,Winter,Alabama,170,31,5270,0,1,0
+1987,Durum,Arizona,45,85,3825,0,0,0
+1987,Winter,Arkansas,840,1,34440,0.5,2,2.5
+1987,Winter,California,480,76,36480,0,0.5,0.5
+1987,Durum,California,57,90,5130,0,0,0.5
+1987,Winter,Colorado,2500,37.5,93750,0,1,0
+1987,Spring,Colorado,55,66,3630,0,0,0
+1987,Winter,Florida,60,30,1800,0,4,0
+1987,Winter,Georgia,460,31,14260,0,0,0
+1987,Winter,Idaho,800,75,60000,0,0.5,1
+1987,Spring,Idaho,340,75,25500,0,0.5,0.5
+1987,Winter,Illinois,950,59,56050,0,3,0
+1987,Winter,Indiana,600,58,34800,0,2,0
+1987,Winter,Iowa,30,38,1140,0,0,0
+1987,Winter,Kansas,9900,37,366300,0.1,4,0
+1987,Winter,Kentucky,330,49,16170,0,2,0
+1987,Winter,Louisiana,170,31,5270,0,1,5
+1987,Winter,Michigan,400,48,19200,0,0,0
+1987,Winter,Minnesota,90,33,2970,0,1,0
+1987,Spring,Minnesota,2400,41,98400,0,0,0
+1987,Durum,Minnesota,29,42,1218,0,0,0
+1987,Winter,Mississippi,350,36,12600,0,1,2
+1987,Winter,Missouri,770,45,35420,0,2,0
+1987,Winter,Montana,2200,36,79200,0,0,0
+1987,Spring,Montana,2300,29,66700,0,0,0
+1987,Durum,Montana,190,28,5320,0,0,0
+1987,Winter,Nebraska,1950,44,85800,0,3,0
+1987,Winter,New Mexico,340,32,10880,0,0,0
+1987,Winter,New York,80,47,3760,0,1,0
+1987,Winter,North Carolina,440,41,18040,0,2,0
+1987,Winter,North Dakota,185,32,5920,0,0,0
+1987,Spring,North Dakota,6100,31,189100,0,0,0
+1987,Durum,North Dakota,2850,26,74100,0,0,0
+1987,Winter,Ohio,800,58,46400,0,0,0
+1987,Winter,Oklahoma,4800,27,129600,0,0.5,0
+1987,Winter,Oregon,750,66,49500,0,0.5,1
+1987,Spring,Oregon,60,57,3420,0,0.25,0.5
+1987,Winter,Pennsylvania,185,43,7955,0,1,0
+1987,Winter,South Carolina,275,38,10450,0,0,0
+1987,Winter,South Dakota,1620,34,55080,0,0,0
+1987,Spring,South Dakota,1800,27,48600,0,0,0
+1987,Durum,South Dakota,108,28,3024,0,0,0
+1987,Winter,Tennessee,350,41,14350,0,2,1
+1987,Winter,Texas,3600,28,100800,0,1,0.5
+1987,Spring,Utah,29,50,1653,0,0,0
+1987,Winter,Virginia,215,45,9675,0,0.5,0
+1987,Winter,Washington,1825,57,104025,0.1,1,5
+1987,Spring,Washington,190,54,10260,0.1,1,2
+1987,Winter,Wisconsin,60,54,3240,0.2,2,0
+1987,Spring,Wisconsin,28,33,924,0,0,0
+1987,Winter,Wyoming,270,31,8370,0,0,0
+1987,Spring,Wyoming,18,25,450,0,0,0
+1988,Winter,Alabama,200,43,8600,0,1,0
+1988,Durum,Arizona,50,86,4300,0,0,0
+1988,Winter,Arkansas,1070,53,56710,0,2,1
+1988,Winter,California,460,83,38180,0,1,0.5
+1988,Durum,California,59,95,5605,0,0,0
+1988,Winter,Colorado,2300,33,75900,0,1,0
+1988,Spring,Colorado,52,70,3640,0,0,0
+1988,Winter,Florida,55,37,2035,0,1,0
+1988,Winter,Georgia,500,43,21500,0,0,0
+1988,Winter,Idaho,770,66,50820,0.1,0.2,0.5
+1988,Spring,Idaho,380,65,24700,0,0.1,0.1
+1988,Winter,Illinois,1250,54,67500,0,0,0
+1988,Winter,Indiana,700,50,35000,0,0,0
+1988,Winter,Iowa,35,30,1050,0,0,0
+1988,Winter,Kansas,9500,34,323000,0,2.5,0
+1988,Winter,Kentucky,380,54,20520,0,0,0
+1988,Winter,Louisiana,270,41,11070,0,3,2
+1988,Winter,Michigan,620,42,26040,0,0,0
+1988,Winter,Minnesota,60,24,1440,0,0,0
+1988,Spring,Minnesota,2150,23,49450,0,0,0
+1988,Durum,Minnesota,40,21,840,0,0,0
+1988,Winter,Mississippi,450,46,20700,0,1,0
+1988,Winter,Missouri,1550,50,77500,0,1,0
+1988,Winter,Montana,2100,19,39900,0,0,0
+1988,Spring,Montana,1500,12,18000,0,0,0
+1988,Durum,Montana,230,9,2070,0,0,0
+1988,Winter,Nebraska,2000,36,72000,0,2,0
+1988,Winter,New Mexico,290,24,6960,0,1,0
+1988,Winter,New York,90,55,4950,0,0,0
+1988,Winter,North Carolina,480,50,24000,0,1,0
+1988,Winter,North Dakota,130,13,1690,0,0,0
+1988,Spring,North Dakota,4700,15,70500,0,0,0
+1988,Durum,North Dakota,2400,13,31200,0,0,0
+1988,Winter,Ohio,920,50,46000,0,0,0
+1988,Winter,Oklahoma,4800,36,172800,0,1,0
+1988,Winter,Oregon,660,71,46860,0.1,0.5,1
+1988,Spring,Oregon,95,52,4940,0.1,0.2,0.5
+1988,Winter,Pennsylvania,170,53,9010,0,1,0
+1988,Winter,South Carolina,305,46,14030,0,0,0
+1988,Winter,South Dakota,1270,17,21590,0,0,0
+1988,Spring,South Dakota,1300,12,15600,0,0,0
+1988,Durum,South Dakota,68,12,816,0,0,0
+1988,Winter,Tennessee,430,50,21500,0,0,0
+1988,Winter,Texas,3200,28,89000,0,0.5,0
+1988,Spring,Utah,22,54,1188,0,0,0
+1988,Winter,Virginia,200,52,10400,0,0,0
+1988,Winter,Washington,1750,62,108500,0.2,0.5,1
+1988,Spring,Washington,310,52,16120,0.1,0.2,0.5
+1988,Winter,West Virginia,9,46,414,0,1,0
+1988,Winter,Wisconsin,125,40,5000,0,0,0
+1988,Spring,Wisconsin,8,19,152,0,0,0
+1988,Winter,Wyoming,225,22,4950,0,0,0
+1988,Spring,Wyoming,13,30,390,0,0,0
+1989,Winter,Alabama,220,30,6600,0,3,0
+1989,Durum,Arizona,84,90,7560,0,0,0
+1989,Winter,Arkansas,1200,44,52800,0.1,1,0.1
+1989,Winter,California,570,77,43890,0,1,0.5
+1989,Durum,California,105,83,8715,0,0,0
+1989,Winter,Colorado,2200,26,57200,0,0,0
+1989,Spring,Colorado,70,70,4900,0,0,0
+1989,Winter,Florida,65,29,3108,0,3.5,0
+1989,Winter,Georgia,700,32,22400,0,5,0
+1989,Winter,Idaho,810,70,56700,0.1,0.1,0.5
+1989,Spring,Idaho,560,62,34720,0,0.1,0.5
+1989,Winter,Illinois,1780,59,105020,0,2,0
+1989,Winter,Indiana,880,59,51920,0,1,0
+1989,Winter,Iowa,70,47,3290,0,0,0
+1989,Winter,Kansas,8900,24,213600,0,0.8,0
+1989,Winter,Kentucky,450,50,22500,0.1,3,0
+1989,Winter,Louisiana,350,31,10850,1,5,0
+1989,Winter,Michigan,640,53,33920,1,1,0
+1989,Winter,Minnesota,120,38,4560,0,0,0
+1989,Spring,Minnesota,2553,38,96900,0,0,0
+1989,Durum,Minnesota,29,36,1044,0,0,0
+1989,Winter,Mississippi,450,34,15300,0,3,0.1
+1989,Winter,Missouri,1850,47,86950,0,0.5,0
+1989,Winter,Montana,1500,36,54000,0,0,0
+1989,Spring,Montana,3400,25,85000,0,0,0
+1989,Durum,Montana,335,18,6030,0,0,0
+1989,Winter,Nebraska,2050,27,55350,0,0,0
+1989,Winter,New Mexico,160,20,3200,0,0,0
+1989,Winter,New York,130,45,5850,0,1,0
+1989,Winter,North Carolina,630,34,21420,0,1,0
+1989,Winter,North Dakota,80,29,2320,0,1.5,0
+1989,Spring,North Dakota,7250,24,174000,0,0,0
+1989,Durum,North Dakota,3000,22,66000,0,0,0
+1989,Winter,Ohio,1320,51,62730,0.1,0.1,0
+1989,Winter,Oklahoma,5700,27,153900,0,0,0
+1989,Winter,Oregon,815,60,48900,0.3,0.7,1
+1989,Spring,Oregon,105,47,4935,0.1,0.5,1
+1989,Winter,Pennsylvania,215,37,7955,0,0,0
+1989,Winter,South Carolina,435,41,17835,0,1,0
+1989,Winter,South Dakota,1350,26,35100,0,0,0
+1989,Spring,South Dakota,2050,22,45100,0,0,0
+1989,Durum,South Dakota,120,24,2880,0,0,0
+1989,Winter,Tennessee,450,42,18900,0.1,5,0
+1989,Winter,Texas,3000,20,60000,0,0,0
+1989,Spring,Utah,22,45,990,0,0,0
+1989,Winter,Virginia,275,46,12650,0.5,0.5,0
+1989,Winter,Washington,1300,53,68900,0,2,1
+1989,Spring,Washington,970,43,41710,0,0.5,1
+1989,Winter,West Virginia,12,43,516,0.5,1,0
+1989,Winter,Wisconsin,170,53,9010,0.5,0.5,0
+1989,Spring,Wisconsin,10,31,310,0,0,0
+1989,Winter,Wyoming,193,22,4246,0,0,0
+1989,Spring,Wyoming,11,42,462,0,0,0
+1990,Winter,Alabama,190,35,6650,0,2,0
+1990,Durum,Arizona,44,94,4136,0,0,0
+1990,Winter,Arkansas,1400,35,49000,0,5,0
+1990,Winter,California,560,76,42560,0,1,0
+1990,Durum,California,54,99,5346,0,0,0
+1990,Winter,Colorado,2550,33,84150,0,0,0
+1990,Spring,Colorado,40,70,2800,0,0,0
+1990,Winter,Florida,55,33,1815,0,2,0
+1990,Winter,Georgia,590,35,20650,0,3,0
+1990,Winter,Idaho,920,75,69000,0.1,0.5,2
+1990,Spring,Idaho,450,68,30600,0.1,0.2,0.1
+1990,Winter,Illinois,1900,48,91200,0,3,0
+1990,Winter,Indiana,970,52,50440,0,1,0
+1990,Winter,Iowa,75,45,3375,0,0,0
+1990,Winter,Kansas,11800,40,472000,0.1,4,0
+1990,Winter,Kentucky,500,40,20000,0,5,0
+1990,Winter,Louisiana,390,33,12870,0.3,4.7,0.3
+1990,Winter,Michigan,750,55,41250,0,1,0
+1990,Winter,Minnesota,85,30,2550,0,1,0
+1990,Spring,Minnesota,2750,49,134750,0,0,0
+1990,Durum,Minnesota,30,44,1320,0,0,0
+1990,Winter,Mississippi,520,30,15600,0,2,0
+1990,Winter,Missouri,2000,38,76000,0,2,0
+1990,Winter,Montana,2500,35,87500,0,0,0
+1990,Spring,Montana,2450,22,53900,0,0,0
+1990,Durum,Montana,235,19,4465,0,0,0
+1990,Winter,Nebraska,2250,38,85500,0,4,0
+1990,Winter,New Mexico,325,25,8125,0,0,0
+1990,Winter,New York,145,49,7105,0,0,0
+1990,Winter,North Carolina,550,41,22550,0,3,0
+1990,Winter,North Dakota,160,27,4320,0,1.5,0
+1990,Spring,North Dakota,7700,36,277200,0,0,0
+1990,Durum,North Dakota,3050,34,103700,0,0,0
+1990,Winter,Ohio,1350,59,79650,0,0.1,0
+1990,Winter,Oklahoma,6300,32,201600,0,0,0
+1990,Winter,Oregon,910,60,54600,0.5,1,2
+1990,Spring,Oregon,58,52,3016,0.1,0.8,2.5
+1990,Winter,Pennsylvania,210,50,10500,0,0.5,0
+1990,Winter,South Carolina,380,38,14440,0,3,0
+1990,Winter,South Dakota,1600,36,57600,0,1,0
+1990,Spring,South Dakota,2100,32,67200,0,0,0
+1990,Durum,South Dakota,89,36,3204,0,0,0
+1990,Winter,Tennessee,490,36,17640,0,4,0
+1990,Winter,Texas,4200,31,130200,0,1,0
+1990,Spring,Utah,26,45,1170,0,0,0
+1990,Winter,Virginia,260,47,12220,0,1,0
+1990,Winter,Washington,2200,63,138600,0.5,3,5
+1990,Spring,Washington,280,41,11480,0.2,0.3,5
+1990,Winter,West Virginia,12,46,552,0,1,0
+1990,Winter,Wisconsin,185,53,9805,0.3,2.5,0
+1990,Spring,Wisconsin,7,40,280,0,0,0
+1990,Winter,Wyoming,205,29,5945,0,0,0
+1991,Winter,Alabama,110,25,2750,0.1,2.5,0
+1991,Durum,Arizona,39,95,3705,0,0,0
+1991,Winter,Arkansas,930,22,20460,0,3,0
+1991,Winter,California,410,80,32800,0,0,0
+1991,Durum,California,32,105,3360,0,0,0
+1991,Winter,Colorado,2300,31,71300,0,1,0
+1991,Spring,Colorado,36,75,2700,0,0,0
+1991,Winter,Florida,25,23,575,0,4,0
+1991,Winter,Georgia,425,33,14025,0,2.5,0
+1991,Winter,Idaho,700,70,49000,0.5,0.5,0.5
+1991,Spring,Idaho,460,71,32660,0.5,0.5,0.5
+1991,Winter,Illinois,1400,32,44800,0.1,1,0
+1991,Winter,Indiana,720,40,28800,0,2,0
+1991,Winter,Iowa,50,34,1700,0,0,0
+1991,Winter,Kansas,11000,33,363000,0.7,7.5,0
+1991,Winter,Kentucky,400,27,10800,0,2,0
+1991,Winter,Louisiana,190,20,3800,0.5,5,0
+1991,Winter,Michigan,560,43,24080,0,1,0
+1991,Winter,Minnesota,55,36,1980,0,0,0
+1991,Spring,Minnesota,2070,31,64170,0,1,0
+1991,Durum,Minnesota,30,32,960,0,0,0
+1991,Winter,Mississippi,250,18,4500,0.5,4,0
+1991,Winter,Missouri,1500,32,48000,0,1,0
+1991,Winter,Montana,1800,40,72000,0,0,0
+1991,Spring,Montana,2400,34,81600,0,0,0
+1991,Durum,Montana,179,33,5907,0,0,0
+1991,Winter,Nebraska,2100,32,67200,0.1,2.5,0
+1991,Winter,New Mexico,320,25,8000,0,0,0
+1991,Winter,New York,110,49,5390,0,0,0
+1991,Winter,North Carolina,480,40,19200,0,3,0
+1991,Winter,North Dakota,90,33,2970,0,0,0
+1991,Spring,North Dakota,6850,31,212350,0,0,0
+1991,Durum,North Dakota,2850,31,88350,0,0,0
+1991,Winter,Ohio,1080,49,52920,0,0.5,0
+1991,Winter,Oklahoma,5000,28,140000,1,1,0
+1991,Winter,Oregon,800,52,41600,0.1,0.7,0.6
+1991,Spring,Oregon,46,50,2300,0.1,0,0.5
+1991,Winter,Pennsylvania,175,44,7700,0,0.1,0
+1991,Winter,South Carolina,275,31,8525,0,2,0
+1991,Winter,South Dakota,1300,35,45500,0,5,0
+1991,Spring,South Dakota,1750,28,49000,0,1,0
+1991,Durum,South Dakota,67,25,1675,0,0,0
+1991,Winter,Tennessee,320,24,7680,0,2,0
+1991,Winter,Texas,2800,30,84000,0.1,1,0
+1991,Spring,Utah,23,49,1127,0,0,0
+1991,Winter,Virginia,250,49,12250,0,0.5,0
+1991,Winter,Washington,700,58,40600,0.5,2,2
+1991,Spring,Washington,1450,40,58000,0.1,2,2
+1991,Winter,West Virginia,10,45,450,0,0.2,0
+1991,Winter,Wisconsin,120,49,5880,0,1,0
+1991,Spring,Wisconsin,7,34,238,0,0,0
+1991,Winter,Wyoming,190,29,5510,0,0,0
+1991,Spring,Wyoming,4,30,120,0,0,0
+1992,Winter,Alabama,95,44,4180,0,1,0
+1992,Durum,Arizona,44,85,3740,0,0,0
+1992,Winter,Arkansas,850,46,39100,0,2,0
+1992,Winter,California,550,75,41250,0,5,0
+1992,Durum,California,55,93,5115,0,0,0
+1992,Winter,Colorado,2300,30,69100,0,0.5,0
+1992,Spring,Colorado,47,77,3619,0,0,0
+1992,Winter,Florida,20,42,840,0,1,0
+1992,Winter,Georgia,350,46,16100,0,0,0
+1992,Winter,Idaho,800,65,52000,0.1,0.5,0.2
+1992,Spring,Idaho,640,75,48000,0.1,0.5,0.2
+1992,Winter,Illinois,1150,54,62100,0,3,0
+1992,Winter,Indiana,450,50,22500,0,2,0
+1992,Winter,Iowa,40,39,1560,0,0,0
+1992,Winter,Kansas,10700,34,363800,0,11.3,0
+1992,Winter,Kentucky,420,55,23100,0,4,0
+1992,Winter,Louisiana,170,36,6120,0,2,0
+1992,Winter,Michigan,630,56,35280,0,1,0
+1992,Winter,Minnesota,45,42,1890,0,0,0
+1992,Spring,Minnesota,2750,50,137500,0,1,0
+1992,Durum,Minnesota,10,47,470,0,0,0
+1992,Winter,Mississippi,250,42,10500,0,1,0
+1992,Winter,Missouri,1350,48,64800,0,2,0
+1992,Winter,Montana,2100,29,60900,0,0,0
+1992,Spring,Montana,2450,42,73500,0,0,0
+1992,Durum,Montana,157,33,5181,0,0,0
+1992,Winter,Nebraska,1850,30,55500,0,2,0
+1992,Winter,New Mexico,330,34,11220,0,0,0
+1992,Winter,New York,110,56,6160,0,1,0
+1992,Winter,North Carolina,555,50,27750,0,1,0
+1992,Winter,North Dakota,170,35,5950,0,1,0
+1992,Spring,North Dakota,9100,42,382200,0,0,0
+1992,Durum,North Dakota,2150,38,81700,0,0,0
+1992,Winter,Ohio,1115,53,59095,0,0.5,0
+1992,Winter,Oklahoma,5900,29,171100,0,6,0
+1992,Winter,Oregon,825,52,42900,0.1,1,0.1
+1992,Spring,Oregon,100,49,4900,0.1,0.8,0.5
+1992,Winter,Pennsylvania,185,55,10175,0,0.8,0
+1992,Winter,South Carolina,275,47,12925,0,1,0
+1992,Winter,South Dakota,1200,28,33600,0,10,0
+1992,Spring,South Dakota,2500,34,85000,0,2,0
+1992,Durum,South Dakota,33,30,990,0,0,0
+1992,Winter,Tennessee,280,48,13440,0,1.5,0
+1992,Winter,Texas,3800,34,129200,0,2.5,0
+1992,Spring,Utah,22,48,1056,0,0,0
+1992,Winter,Virginia,265,57,15105,0,1,0
+1992,Winter,Washington,2000,51,102000,0.2,2,2
+1992,Spring,Washington,420,42,17640,0.2,2,2
+1992,Winter,West Virginia,11,49,539,0,0,0
+1992,Winter,Wisconsin,45,40,1800,0,0,0
+1992,Spring,Wisconsin,21,40,840,0,0,0
+1992,Winter,Wyoming,210,25,5250,0,0,0
+1992,Spring,Wyoming,10,47,470,0,0,0
+1993,Winter,Alabama,95,34,3230,0,1,0
+1993,Durum,Arizona,50,90,4500,0,0,0
+1993,Winter,Arkansas,1000,40,40000,2,3,0.5
+1993,Winter,California,500,80,40000,0,10,0
+1993,Durum,California,30,95,2850,0,0,0
+1993,Winter,Colorado,2550,37,94350,0,1,0
+1993,Spring,Colorado,33,80,2640,0,0,0
+1993,Winter,Florida,25,33,825,0,2,0
+1993,Winter,Georgia,360,38,13680,0,0,0
+1993,Winter,Idaho,850,79,67150,1,1,1
+1993,Spring,Idaho,540,80,43200,0.2,0.5,1
+1993,Winter,Illinois,1550,44,68200,1,2,0
+1993,Winter,Indiana,670,52,34840,0.5,6,0
+1993,Winter,Iowa,40,25,1000,0,0,0
+1993,Winter,Kansas,11100,35,388500,0.1,11,0
+1993,Winter,Kentucky,470,49,23030,0,1.5,0
+1993,Winter,Louisiana,95,25,2375,2,6,1
+1993,Winter,Michigan,540,41,22140,0,2,0
+1993,Winter,Minnesota,40,30,1200,0,0,0
+1993,Spring,Minnesota,2300,33,75900,0,0,0
+1993,Durum,Minnesota,8,30,240,0,0,0
+1993,Winter,Mississippi,210,33,6930,0,5,0
+1993,Winter,Missouri,1400,38,53200,0.1,2,0
+1993,Winter,Montana,2450,42,102900,0,0,1
+1993,Spring,Montana,2650,34,90100,0,0,1
+1993,Durum,Montana,114,33,3762,0,0,0
+1993,Winter,Nebraska,2100,35,73500,0,4,0
+1993,Winter,New Mexico,270,23,6210,0,0,0
+1993,Winter,New York,85,46,3910,0,0,0
+1993,Winter,North Carolina,560,42,23520,0,2,0
+1993,Winter,North Dakota,130,33,4290,0,1,0
+1993,Spring,North Dakota,9100,32,291200,0,0,0
+1993,Durum,North Dakota,1860,33,61380,0,0,0
+1993,Winter,Ohio,1010,52,52520,0,1.5,0
+1993,Winter,Oklahoma,5400,30,162000,0,4,0
+1993,Winter,Oregon,860,71,61060,0.5,0.5,1
+1993,Spring,Oregon,65,60,3900,0.5,0.5,0.5
+1993,Winter,Pennsylvania,165,45,7425,0,0,0
+1993,Winter,South Carolina,260,38,9880,0,1,0
+1993,Winter,South Dakota,1450,39,56550,0,10,0
+1993,Spring,South Dakota,2020,27,54540,0,2,0
+1993,Durum,South Dakota,18,24,432,0,0,0
+1993,Winter,Tennessee,340,41,13940,0.01,3,0
+1993,Winter,Texas,3700,32,118400,0,5,0
+1993,Spring,Utah,25,49,1225,0,0,0
+1993,Winter,Virginia,255,53,13515,0,0,0
+1993,Winter,Washington,2500,65,162500,1,1,2
+1993,Spring,Washington,290,52,15080,1,1,2
+1993,Winter,West Virginia,11,43,473,0,1,0
+1993,Winter,Wisconsin,115,38,4370,0,1,0
+1993,Spring,Wisconsin,10,29,290,0,0,0
+1993,Winter,Wyoming,205,30,6150,0,0,0
+1993,Spring,Wyoming,13,45,585,0,0,0
+1994,Winter,Alabama,95,48,4560,0,1,0
+1994,Durum,Arizona,94,91,8554,0,0,0
+1994,Winter,Arkansas,880,46,40480,0,0.5,0
+1994,Winter,California,510,80,40800,0,5,0
+1994,Durum,California,59,95,5605,0,0,0
+1994,Winter,Colorado,2550,30,76500,0,0,0
+1994,Spring,Colorado,42,77,3234,0,0,0
+1994,Winter,Florida,15,42,630,0,2,0
+1994,Winter,Georgia,400,51,20400,0,1,0
+1994,Winter,Idaho,790,72,56880,0,0.1,0.1
+1994,Spring,Idaho,620,70,43400,0,0,0
+1994,Winter,Illinois,900,56,50400,0,1,0
+1994,Winter,Indiana,630,61,38430,0,2,0
+1994,Winter,Iowa,45,47,2115,0,0,0
+1994,Winter,Kansas,11400,38,433200,0.001,1,0
+1994,Winter,Kentucky,450,60,27000,0,1,0
+1994,Winter,Louisiana,70,37,2590,0,2,0
+1994,Winter,Michigan,580,53,30740,0,1,0
+1994,Winter,Minnesota,37,29,1073,0,0,0
+1994,Spring,Minnesota,2500,28,70000,0,0,0
+1994,Durum,Minnesota,35,25,875,0,0,0
+1994,Winter,Mississippi,160,40,6400,0,2,0
+1994,Winter,Missouri,1100,45,49500,0,2,0
+1994,Winter,Montana,1850,35,64750,0,0,0.1
+1994,Spring,Montana,3300,55,99000,0,0,0
+1994,Durum,Montana,178,30,5340,0,0,0
+1994,Winter,Nebraska,2100,34,71400,0,0.5,0
+1994,Winter,New Mexico,230,24,5520,0,0,0
+1994,Winter,New York,115,53,6095,0,0,0
+1994,Winter,North Carolina,620,49,30380,0,2,0
+1994,Winter,North Dakota,38,33,1254,0,0,0
+1994,Spring,North Dakota,8850,31,278775,0,0,0
+1994,Durum,North Dakota,2250,32.5,73125,0,0,0
+1994,Winter,Ohio,1180,58,68440,0,0,0
+1994,Winter,Oklahoma,5300,27,143100,0,1,0
+1994,Winter,Oregon,870,64,55680,0,0.1,0.1
+1994,Spring,Oregon,58,50,2900,0,0.1,0
+1994,Winter,Pennsylvania,165,48,7920,0,0,0
+1994,Winter,South Carolina,360,50,18000,0,1,0
+1994,Winter,South Dakota,1350,32,43200,0,0,0
+1994,Spring,South Dakota,1980,26,51480,0,0,0
+1994,Durum,South Dakota,23,26,598,0,0,0
+1994,Winter,Tennessee,300,50,15000,0,1,0
+1994,Winter,Texas,2900,26,75400,0,0,0
+1994,Spring,Utah,22,46,1012,0,0,0
+1994,Winter,Virginia,250,56,14000,0,0,0
+1994,Winter,Washington,2300,54,124200,0,0.1,0.1
+1994,Spring,Washington,245,40,9800,0,0.1,0.1
+1994,Winter,West Virginia,10,55,550,0,0,0
+1994,Winter,Wisconsin,130,59,7670,0,0,0
+1994,Spring,Wisconsin,9,30,270,0,0,0
+1994,Winter,Wyoming,180,24,4320,0,0,0
+1994,Spring,Wyoming,17,37,629,0,0,0
+1995,Winter,Alabama,80,36,2880,0,2,0
+1995,Winter,Arizona,1000,47,47000,0,5,0
+1995,Durum,Arizona,99,86,8514,0,0,0
+1995,Winter,California,425,61,25925,0,5,0
+1995,Durum,California,68,100,6800,0,0,0
+1995,Winter,Colorado,2700,38,102600,0,4,0
+1995,Spring,Colorado,38,70,2660,0,0,0
+1995,Winter,Florida,12,32,384,0,5,0
+1995,Winter,Georgia,300,38,11400,0,3,0
+1995,Winter,Idaho,770,76,58520,0,0.1,0.1
+1995,Spring,Idaho,560,80,44800,0,0.1,0.1
+1995,Winter,Illinois,1390,49,68110,0,2,0
+1995,Winter,Indiana,660,60,39600,0,4,0
+1995,Winter,Iowa,35,35,1225,0,0,0
+1995,Winter,Kansas,11000,26,286000,0,5,0.01
+1995,Winter,Kentucky,460,53,24380,0,2,0
+1995,Winter,Louisiana,80,36,2880,0,4,0
+1995,Winter,Michigan,620,60,37200,0,2,0
+1995,Winter,Minnesota,33,33,1089,0,0,0
+1995,Spring,Minnesota,2200,32,70400,0,0.2,0
+1995,Durum,Minnesota,10,30,300,0,0,0
+1995,Winter,Mississippi,165,38,6270,0,2,0
+1995,Winter,Missouri,1230,39,47970,0,2,0
+1995,Winter,Montana,1450,40,58000,0,0,0
+1995,Spring,Montana,3650,35,127750,0,0.1,0
+1995,Durum,Montana,265,30,7950,0,0,0
+1995,Winter,Nebraska,2100,41,86100,0,1,0
+1995,Winter,New Mexico,150,22,3300,0,0,0
+1995,Winter,New York,125,55,6875,0,0,0
+1995,Winter,North Carolina,640,44,28160,0,3,0
+1995,Winter,North Dakota,34,27,918,0,1,0
+1995,Spring,North Dakota,8200,27,221400,0,0,0
+1995,Durum,North Dakota,2880,27,77760,0,0,0
+1995,Winter,Ohio,1210,61,73810,0,1.5,0
+1995,Winter,Oklahoma,5200,21,109200,0,1,0
+1995,Winter,Oregon,825,70,57750,0,0.5,0.5
+1995,Spring,Oregon,114,52,5928,0.1,0.5,0.2
+1995,Winter,Pennsylvania,185,55,10175,0,0,0
+1995,Winter,South Carolina,280,32,8960,0,1.5,0
+1995,Winter,South Dakota,1520,37,56240,0,1,0
+1995,Spring,South Dakota,1200,28,33600,0,0,0
+1995,Durum,South Dakota,32,28,896,0,0,0
+1995,Winter,Tennessee,340,47,15980,0,2,0
+1995,Winter,Texas,2800,27,75600,0,1,0
+1995,Spring,Utah,26,75,1950,0,0,0
+1995,Winter,Virginia,275,64,17600,0,0,0
+1995,Winter,Washington,2150,62,133300,0.1,1,1
+1995,Spring,Washington,445,46,20470,0.1,1,0.5
+1995,Winter,West Virginia,12,52,624,0,0,0
+1995,Winter,Wisconsin,135,58,7830,0,0,0
+1995,Spring,Wisconsin,8,30,240,0,0,0
+1995,Winter,Wyoming,190,36,6840,0,0,0
+1995,Spring,Wyoming,25,42,1050,0,0,0
+1996,Winter,Alabama,80,44,3520,0,1,0
+1996,Durum,Arizona,164,90,14760,0,0,0
+1996,Winter,Arkansas,1240,54,66960,0,0.1,0
+1996,Winter,California,550,69,37950,0,12,0
+1996,Winter,Colorado,2200,32,70400,0,0,0
+1996,Spring,Colorado,68,75,5100,0,0,0
+1996,Durum,Colorado,138,100,13800,0,0,0
+1996,Winter,Florida,10,38,380,0,2,0
+1996,Winter,Georgia,350,48,16800,0,0,0
+1996,Winter,Idaho,860,80,68800,0,0.1,0.1
+1996,Spring,Idaho,700,72,50400,0,0.1,0.1
+1996,Winter,Illinois,1100,38,41800,3,0.5,0
+1996,Winter,Indiana,720,38,27360,3,1,0
+1996,Winter,Iowa,45,35,1575,0,0,0
+1996,Winter,Kansas,8800,29,255200,0.1,0.1,0
+1996,Winter,Kentucky,530,53,28090,0.1,0.1,0
+1996,Winter,Louisiana,130,43,5590,0,2,0
+1996,Winter,Michigan,630,38,23940,2,0,0
+1996,Winter,Minnesota,32,36,1152,0,0,0
+1996,Spring,Minnesota,2400,42,100800,0,0,0
+1996,Durum,Minnesota,10,43,430,0,0,0
+1996,Winter,Mississippi,230,49,11270,0,1,0
+1996,Winter,Missouri,1250,39,48750,0,0,0
+1996,Winter,Montana,1980,32,63360,0,0,0
+1996,Spring,Montana,4100,26,106600,0,0,0
+1996,Durum,Montana,270,25,6750,0,0,0
+1996,Winter,Nebraska,2100,35,73500,0.1,0.5,0
+1996,Winter,New Mexico,110,37,4070,0,0,0
+1996,Winter,New York,150,43,6450,0,0,0
+1996,Winter,North Carolina,590,44,25960,0,1,0
+1996,Winter,North Dakota,75,30,2250,0,0,0
+1996,Spring,North Dakota,9500,33,313500,0,0,0
+1996,Durum,North Dakota,2940,27,79380,0,0,0
+1996,Winter,Ohio,1330,39,51870,0.2,0.5,0
+1996,Winter,Oklahoma,4900,19,93100,0,0,0
+1996,Winter,Oregon,850,72,61200,0.1,1,0.5
+1996,Spring,Oregon,105,61,6405,0.1,0.5,0.5
+1996,Winter,Pennsylvania,190,48,9120,0,0,0
+1996,Winter,South Carolina,270,45,12150,0,1,0
+1996,Winter,South Dakota,1580,35,55300,0,0,0
+1996,Spring,South Dakota,2250,37,83250,0,0,0
+1996,Durum,South Dakota,24,30,720,0,0,0
+1996,Winter,Tennessee,400,44,17600,0,0.5,0
+1996,Winter,Texas,2900,26,75400,0,0,0
+1996,Spring,Utah,28,60,1680,0,0,0
+1996,Winter,Virginia,275,53,14575,0,0,0
+1996,Winter,Washington,2350,70,164500,0.1,2,2
+1996,Spring,Washington,395,46,18170,0.1,0.5,1.5
+1996,Winter,West Virginia,11,45,495,0,0,0
+1996,Winter,Wisconsin,125,43,5375,2,0,0
+1996,Spring,Wisconsin,10,35,350,0,0,0
+1996,Winter,Wyoming,240,26,6240,0,0,0
+1996,Spring,Wyoming,29,30,870,0,0,0
+1997,Winter,Alabama,100,42,4200,0,1,0
+1997,Durum,Arizona,89,90,8010,0,0,0
+1997,Winter,Arkansas,820,48,39360,0,2.5,0
+1997,Winter,California,400,75,30000,0,5,0.5
+1997,Durum,California,144,95,13680,0,0,0
+1997,Winter,Colorado,2850,32,91200,0,0,0
+1997,Spring,Colorado,50,70,3500,0,0,0
+1997,Winter,Florida,15,39,585,0,0,0
+1997,Winter,Georgia,360,44,15840,0,1,0
+1997,Winter,Idaho,870,80,69600,0,0.1,0.1
+1997,Spring,Idaho,570,78,44460,0.1,0.1,0.1
+1997,Winter,Illinois,1150,61,70150,0,1,0
+1997,Winter,Indiana,660,58,38280,0,1,0
+1997,Winter,Iowa,27,42,1134,0,0,0
+1997,Winter,Kansas,11000,46,506000,0,3.7,0
+1997,Winter,Kentucky,530,54,28620,0,1,0
+1997,Winter,Louisiana,115,37,4255,0.5,5,0
+1997,Winter,Michigan,540,62,33480,0,1,0
+1997,Winter,Minnesota,60,32,1920,0,0,0
+1997,Spring,Minnesota,2400,32,76800,0,1,0
+1997,Durum,Minnesota,5,34,170,0,0,0
+1997,Winter,Mississippi,175,43,7525,0,2,0
+1997,Winter,Missouri,1040,55,57200,0,1,0
+1997,Winter,Montana,1450,39,56550,0,0,0
+1997,Spring,Montana,4200,29,121800,0,0,0
+1997,Durum,Montana,280,26,7280,0,0,0
+1997,Winter,Nebraska,1900,37,70300,0,1,0
+1997,Winter,New Mexico,285,35,9975,0,0,0
+1997,Winter,New York,135,56,7560,0,0,0
+1997,Winter,North Carolina,670,52,34840,0,1,0
+1997,Winter,North Dakota,55,21,1155,0,0,0
+1997,Spring,North Dakota,8400,25,210000,0,1.5,0
+1997,Durum,North Dakota,2570,22,56540,0,0,0
+1997,Winter,Ohio,1090,63,68670,0,0,0
+1997,Winter,Oklahoma,5400,33,178200,0,10,0
+1997,Winter,Oregon,840,67,56280,0.1,0.1,0.5
+1997,Spring,Oregon,130,55,7150,0.1,0.1,0.5
+1997,Winter,Pennsylvania,175,52,9100,0,0,0
+1997,Winter,South Carolina,300,50,15000,0,2,0
+1997,Winter,South Dakota,1050,30,31500,0,4,0
+1997,Spring,South Dakota,2400,28,67200,0,3,0
+1997,Durum,South Dakota,19,27,513,0,0,0
+1997,Winter,Tennessee,370,45,16650,0,0,0
+1997,Winter,Texas,4100,29,118900,0,5,0
+1997,Spring,Utah,29,46,1334,0,0,0
+1997,Winter,Virginia,250,68,17000,0,0,0
+1997,Winter,Washington,2150,67,144050,0.5,0.5,0.5
+1997,Spring,Washington,445,54,24030,0.2,0.5,0.5
+1997,Winter,West Virginia,9,54,486,0,0,0
+1997,Winter,Wisconsin,135,58,7830,0,0,0
+1997,Spring,Wisconsin,7,35,245,0,0,0
+1997,Winter,Wyoming,235,32,7520,0,0,0
+1997,Spring,Wyoming,21,36,756,0,0,0
+1998,Winter,Alabama,85,42,3570,0,0.5,0
+1998,Durum,Arizona,144,105,15120,0,0,0
+1998,Winter,Arkansas,900,51,45900,0,0.5,0.2
+1998,Winter,California,380,60,22800,0,1,2
+1998,Durum,California,175,90,15750,0,0,0
+1998,Winter,Colorado,2650,39,103350,0,0,0
+1998,Spring,Colorado,60,71,4260,0,0,0
+1998,Winter,Florida,13,43,559,0,0,0
+1998,Winter,Georgia,240,43,10320,0,0.5,0
+1998,Winter,Idaho,770,82,63140,0.5,1,1
+1998,Spring,Idaho,510,77,39270,0.1,1,1
+1998,Winter,Illinois,1200,48,57600,0,0.5,0
+1998,Winter,Indiana,650,55,35750,0,1,0
+1998,Winter,Iowa,32,40,1280,0,0,0
+1998,Winter,Kansas,10100,49,494900,0,2.5,0
+1998,Winter,Kentucky,550,46,25300,0,1,0
+1998,Winter,Louisiana,90,44,3960,0,1,0
+1998,Winter,Michigan,570,54,30780,0,0,0
+1998,Winter,Minnesota,57,27,1539,0,0,0
+1998,Spring,Minnesota,1920,41,78720,0,0.9,0
+1998,Durum,Minnesota,5,37,185,0,0,0
+1998,Winter,Mississippi,150,45,6750,0,1,0
+1998,Winter,Missouri,1250,46,57500,0,1.5,0
+1998,Winter,Montana,1250,39,48750,0,0,0
+1998,Spring,Montana,3600,30,108000,0,0,0
+1998,Durum,Montana,430,28,12040,0,0,0
+1998,Winter,Nebraska,1800,47,84600,0,1.5,0
+1998,Winter,New Mexico,265,30,7950,0,0,0
+1998,Winter,New York,130,54,7020,0,0,0
+1998,Winter,North Carolina,680,41,27880,0,0,0
+1998,Winter,North Dakota,60,35,2100,0,0.5,0
+1998,Spring,North Dakota,6600,32,211200,0,1,0
+1998,Durum,North Dakota,2950,33,97350,0,0,0
+1998,Winter,Ohio,1160,64,74240,0,1,0
+1998,Winter,Oklahoma,5100,39,198900,0,3,0
+1998,Winter,Oregon,790,68,53720,0.5,2,2
+1998,Spring,Oregon,95,48,4560,0.5,1,2
+1998,Winter,Pennsylvania,190,51,9690,0,0,0
+1998,Winter,South Carolina,240,32,7680,0,0.5,0
+1998,Winter,South Dakota,1420,43,61060,0,1.5,0
+1998,Spring,South Dakota,1850,32,59200,0,1.5,0
+1998,Durum,South Dakota,24,26,624,0,0,0
+1998,Winter,Tennessee,370,41,15171,0,0.8,0
+1998,Winter,Texas,3900,35,136500,0,1,0
+1998,Spring,Utah,27,62,1674,0,0,0
+1998,Winter,Virginia,245,45,11025,0,0,0
+1998,Winter,Washington,2100,65,136500,1,2,2
+1998,Spring,Washington,465,45,20925,0.5,1,2
+1998,Winter,West Virginia,8,57,456,0,0,0
+1998,Winter,Wisconsin,135,55,7425,0,0.5,0
+1998,Spring,Wisconsin,7,30,210,0,0,0
+1998,Winter,Wyoming,205,30,6150,0,0,0
+1998,Spring,Wyoming,11,34,374,0,0,0
+1999,Winter,Alabama,90,48,4320,0,2,0
+1999,Durum,Arizona,75,97,7275,0,0,0
+1999,Winter,Arkansas,920,56,51520,0,3,0
+1999,Winter,California,370,78,28860,0,1,7
+1999,Durum,California,85,105,8925,0,0,0
+1999,Winter,Colorado,2400,43,103200,0,0,0
+1999,Spring,Colorado,50,80,4000,0,0,0
+1999,Winter,Florida,9,40,360,0,1,0
+1999,Winter,Georgia,225,43,9675,0,1,0
+1999,Winter,Idaho,710,76,53960,0,0,0
+1999,Spring,Idaho,640,79,50560,0,0,0
+1999,Winter,Illinois,1010,60,60600,0,2,0
+1999,Winter,Indiana,510,66,33660,0,2,0
+1999,Winter,Iowa,31,43,1333,0,1,0
+1999,Winter,Kansas,9200,47,432400,0,3.4,0
+1999,Winter,Kentucky,410,60,24600,0,1,0
+1999,Winter,Louisiana,105,47,4935,0.1,1,0
+1999,Winter,Michigan,600,69,41400,0,0,0
+1999,Winter,Minnesota,35,30,1050,0,1,0
+1999,Spring,Minnesota,2100,40,84000,0,4,0
+1999,Durum,Minnesota,5,32,160,0,0,0
+1999,Winter,Mississippi,165,50,8250,0,1,0
+1999,Winter,Missouri,920,48,44160,0,2,0
+1999,Winter,Montana,970,38,36860,0,0,0
+1999,Spring,Montana,4000,27,108000,0,1.5,0
+1999,Durum,Montana,390,28,10920,0,0,0
+1999,Winter,Nebraska,1800,48,86400,0,2.5,0
+1999,Winter,New Mexico,270,38,10260,0,0,0
+1999,Winter,New York,125,65,8125,0,0,0
+1999,Winter,North Carolina,580,49,28420,0,2,0
+1999,Winter,North Dakota,57,37,2109,0,0,0
+1999,Spring,North Dakota,5600,30,168000,0,4,0
+1999,Durum,North Dakota,3250,25,81250,0,0,0
+1999,Winter,Ohio,1030,70,72100,0,2,0
+1999,Winter,Oklahoma,4300,35,150500,0,4,0
+1999,Winter,Oregon,630,47,29610,0,0,0
+1999,Spring,Oregon,153,33,5049,0,0,0
+1999,Winter,Pennsylvania,190,54,10260,0,0,0
+1999,Winter,South Carolina,220,43,9460,0,1,0
+1999,Winter,South Dakota,1260,47,59220,0,4,0
+1999,Spring,South Dakota,1710,35,59850,0,3,0
+1999,Durum,South Dakota,54,28,1512,0,0,0
+1999,Winter,Tennessee,310,54,16740,0,1,0
+1999,Winter,Texas,3400,36,122400,0,3,0
+1999,Spring,Utah,25,56,1400,0,0,0
+1999,Winter,Virginia,240,57,13680,0,1,0
+1999,Winter,Washington,1670,58,96860,0,0,0.1
+1999,Spring,Washington,620,44,27280,0,0,0
+1999,Winter,West Virginia,7,57,399,0,0,0
+1999,Winter,Wisconsin,120,60,7200,0,1,0
+1999,Spring,Wisconsin,7,40,280,0,1,0
+1999,Winter,Wyoming,185,33,6105,0,0,0
+1999,Spring,Wyoming,8,42,336,0,0,0
+2000,Winter,Alabama,90,54,4860,0,2,0
+2000,Durum,Arizona,85,95,8075,0,0,0
+2000,Winter,Arkansas,1100,54,59400,0,1,7
+2000,Winter,California,350,70,24500,0,1,3
+2000,Durum,California,97,100,9700,0,0,0
+2000,Winter,Colorado,2350,29,68150,0,0,0
+2000,Spring,Colorado,46,70,3220,0,0,0
+2000,Winter,Florida,9,49,441,0,0,0
+2000,Winter,Georgia,200,54,10800,0,1,0
+2000,Winter,Idaho,730,90,65700,0,0,0
+2000,Spring,Idaho,570,75,42750,0,0,0
+2000,Winter,Illinois,920,57,52440,0,1,0
+2000,Winter,Indiana,510,69,35190,0,1,0
+2000,Winter,Iowa,18,47,846,0,0,0
+2000,Winter,Kansas,9400,37,347800,0,2.9,0.05
+2000,Winter,Kentucky,420,57,23940,0,0,0
+2000,Winter,Louisiana,185,53,9805,0,0.5,0.5
+2000,Winter,Michigan,500,72,36000,0,0,0
+2000,Winter,Minnesota,19,46,874,0,1,0
+2000,Spring,Minnesota,1950,49,95550,0,1.5,0
+2000,Durum,Minnesota,2,51,102,0,0,0
+2000,Winter,Mississippi,235,55,12925,0,1,0
+2000,Winter,Missouri,950,52,49400,0,2,0
+2000,Winter,Montana,1350,33,44550,0,0,0
+2000,Spring,Montana,3100,25,77500,0,0,0
+2000,Durum,Montana,470,28,13160,0,0,0
+2000,Winter,Nebraska,1650,36,59400,0,1,0
+2000,Winter,New Mexico,175,24,4200,0,0,0
+2000,Winter,New York,140,53,7420,0,0,0
+2000,Winter,North Carolina,550,50,27500,0,1.5,0
+2000,Winter,North Dakota,113,45,5085,0,0,0
+2000,Spring,North Dakota,6500,37,240500,0,2,0
+2000,Durum,North Dakota,3000,28,84000,0,0,0
+2000,Winter,Ohio,1110,72,79920,0,1.5,0
+2000,Winter,Oklahoma,4200,34,142800,0,2,1
+2000,Winter,Oregon,730,62,45260,0,0,0
+2000,Spring,Oregon,125,46,5750,0,0.75,1.5
+2000,Winter,Pennsylvania,195,53,10335,0,0,0
+2000,Winter,South Carolina,185,49,9065,0,1,0
+2000,Winter,South Dakota,1280,42,53760,0,4,0
+2000,Spring,South Dakota,1580,38,60040,0,3,0
+2000,Durum,South Dakota,18,26,468,0,0,0
+2000,Winter,Tennessee,380,55,20900,0,0.1,0
+2000,Winter,Texas,2200,30,66000,0,1,0.5
+2000,Spring,Utah,21,50,1050,0,0,0
+2000,Winter,Virginia,205,63,12915,0,0,0
+2000,Winter,Washington,1800,73,131400,0,0.1,1
+2000,Spring,Washington,620,54,33480,0,0.1,1
+2000,Winter,West Virginia,9,61,549,0,0,0
+2000,Winter,Wisconsin,135,62,8370,0,1,0
+2000,Spring,Wisconsin,8,45,360,0,1,0
+2000,Winter,Wyoming,170,24,4080,0,0,0
+2000,Spring,Wyoming,8,29,232,0,0,0
+2001,Winter,Alabama,70,48,3360,0,0,0
+2001,Durum,Arizona,87,91,7917,0,0,0
+2001,Winter,Arkansas,970,52,50440,0,0,0
+2001,Winter,California,380,70,26600,0,3,2
+2001,Durum,California,81,105,8505,0,0,0
+2001,Winter,Colorado,2000,33,66000,0,0,8
+2001,Spring,Colorado,44,72,3168,0,0,0
+2001,Winter,Florida,9,41,369,0,0,0
+2001,Winter,Georgia,200,53,10600,0,0,0
+2001,Winter,Idaho,710,73,51830,0,0,0
+2001,Spring,Idaho,490,68,33320,0,0,0
+2001,Winter,Illinois,720,61,43920,0,0,0
+2001,Winter,Indiana,380,66,25080,0,0,0
+2001,Winter,Iowa,18,54,972,0,0,0
+2001,Winter,Kansas,8200,40,328000,0,0.4,7.3
+2001,Winter,Kentucky,360,66,23760,0,1,0
+2001,Winter,Louisiana,160,50,8000,0,0.5,0.5
+2001,Winter,Michigan,560,64,35840,0,0,0
+2001,Winter,Minnesota,13,29,377,0,0,0
+2001,Spring,Minnesota,1800,44,79200,0,1,0
+2001,Durum,Minnesota,2,39,78,0,0,0
+2001,Winter,Mississippi,225,52,11700,0,1,0
+2001,Winter,Missouri,760,54,41040,0,1,0
+2001,Winter,Montana,870,22,19140,0,0,0
+2001,Spring,Montana,2850,23,65550,0,0,0
+2001,Durum,Montana,495,24,11880,0,0,0
+2001,Winter,Nebraska,1600,37,59200,0,0,0.5
+2001,Winter,New Mexico,240,34,8160,0,0,0
+2001,Winter,New York,120,53,6360,0,0,0
+2001,Winter,North Carolina,470,39,18330,0,0,0
+2001,Winter,North Dakota,80,40,3200,0,0,0
+2001,Spring,North Dakota,6900,34,234600,0,2,0
+2001,Durum,North Dakota,2100,26,54600,0,0,0
+2001,Winter,Ohio,900,67,60300,0,0.1,0
+2001,Winter,Oklahoma,3700,33,122100,0,0,3
+2001,Winter,Oregon,700,40,28000,0,0.1,0
+2001,Spring,Oregon,175,30,5250,0,0.1,0.2
+2001,Winter,Pennsylvania,160,52,8320,0,0,0
+2001,Winter,South Carolina,210,43,9030,0,0,0
+2001,Winter,South Dakota,370,32,11840,0,2,1
+2001,Spring,South Dakota,1650,39,64350,0,3,0
+2001,Durum,South Dakota,24,24,576,0,0,0
+2001,Winter,Tennessee,340,54,18360,0,0.5,0
+2001,Winter,Texas,3200,34,108800,0,0,1.5
+2001,Spring,Utah,16,49,784,0,0,0
+2001,Winter,Virginia,170,60,10200,0,0,0
+2001,Winter,Washington,1750,61,106750,0,0.2,1
+2001,Spring,Washington,630,41,25830,0,0.2,2
+2001,Winter,West Virginia,8,58,464,0,0,0
+2001,Winter,Wisconsin,160,65,10400,0,0,0
+2001,Spring,Wisconsin,7,44,308,0,0,0
+2001,Winter,Wyoming,120,24,2880,0,0,0
+2001,Spring,Wyoming,6,28,168,0,0,0
+2002,Winter,Alabama,60,40,2400,0,2,0
+2002,Durum,Arizona,89,95,8455,0,0,0
+2002,Winter,Arkansas,840,46,38640,0,0,5
+2002,Winter,California,300,75,22500,0,3,6
+2002,Durum,California,90,100,9000,0,0,0
+2002,Winter,Colorado,1650,22,36300,0,0,0
+2002,Spring,Colorado,24,100,2400,0,0,0
+2002,Winter,Delaware,58,70,4060,0,0,0
+2002,Winter,Florida,7,43,301,0,0,0
+2002,Winter,Georgia,200,41,8200,0,1,0
+2002,Winter,Idaho,690,79,54510,0.1,0.2,0.5
+2002,Spring,Idaho,510,65,33150,0,0.2,0.5
+2002,Winter,Illinois,650,49,31850,0,0,0
+2002,Winter,Indiana,330,53,17490,0,0,0
+2002,Winter,Iowa,16,50,800,0,0,0
+2002,Winter,Kansas,8100,33,267300,0,1,0
+2002,Winter,Kentucky,340,53,18020,0,0,0
+2002,Winter,Louisiana,220,40,8800,0,3.5,3
+2002,Winter,Maryland,180,66,11880,0,0,0
+2002,Winter,Michigan,490,67,32830,0,0,0
+2002,Winter,Minnesota,30,30,900,0,0,0
+2002,Spring,Minnesota,1800,34,61200,0,2,0
+2002,Durum,Minnesota,4,35,140,0,0,0
+2002,Winter,Mississippi,205,44,9020,0,2,0
+2002,Winter,Missouri,760,45,34200,0,1,0.5
+2002,Winter,Montana,750,28,21000,0,0,0
+2002,Spring,Montana,3500,23,80500,0,0,0
+2002,Durum,Montana,570,22,12540,0,0,0
+2002,Winter,Nebraska,1520,32,48640,0,0,0
+2002,Spring,Nevada,2,75,150,0,0,0
+2002,Winter,New Jersey,32,58,1856,0,0,0
+2002,Winter,New Mexico,170,22,3740,0,0,0
+2002,Winter,New York,128,58,7424,0,0,0
+2002,Winter,North Carolina,480,42,20160,0,0,0
+2002,Winter,North Dakota,70,38,2660,0,0,0
+2002,Spring,North Dakota,6000,28,168000,0,3,0
+2002,Durum,North Dakota,2000,25,50000,0,0,0
+2002,Winter,Ohio,810,62,50220,0,0,0
+2002,Winter,Oklahoma,3500,28,98000,0,2,0
+2002,Winter,Oregon,710,41,29110,0.1,0.2,0.5
+2002,Spring,Oregon,140,35,4900,0,0.1,1
+2002,Winter,Pennsylvania,185,54,9990,0,0,0
+2002,Winter,South Carolina,190,37,7030,0,0,0
+2002,Winter,South Dakota,625,29,18125,0,1,0
+2002,Spring,South Dakota,1000,24,24000,0,2,0
+2002,Durum,South Dakota,5,22,110,0,0,0
+2002,Winter,Tennessee,300,46,13800,0,0,0
+2002,Winter,Texas,2700,29,78300,0,2,1
+2002,Winter,Utah,125,35,4375,0,0,0
+2002,Spring,Utah,11,47,517,0,0,0
+2002,Winter,Virginia,170,63,10710,0,0,0
+2002,Winter,Washington,1750,59,103250,0.2,0.5,1
+2002,Spring,Washington,615,43,26445,0.2,0.5,6
+2002,Winter,West Virginia,7,48,336,0,0,0
+2002,Winter,Wisconsin,170,62,10540,0,0,0
+2002,Spring,Wisconsin,7,33,231,0,0,0
+2002,Winter,Wyoming,120,19,2280,0,0,0
+2002,Spring,Wyoming,4,24,96,0,0,0
+2003,Winter,Alabama,75,42,3150,0,0.5,0.5
+2003,Durum,Arizona,115,100,11500,0,0,0
+2003,Winter,Arkansas,570,50,28500,0,0,3
+2003,Winter,California,370,61,22570,0,2,25
+2003,Durum,California,115,100,11500,0,1,10
+2003,Winter,Colorado,2200,35,77000,0,0,1
+2003,Spring,Colorado,29,40,1160,0,0,0
+2003,Winter,Delaware,47,41,1927,0,0,0
+2003,Winter,Florida,12,41,492,0,1,0
+2003,Winter,Georgia,230,46,10580,0,1,0
+2003,Winter,Idaho,720,80,57600,0,0,0.4
+2003,Spring,Idaho,450,66,29700,0,0,0.7
+2003,Winter,Illinois,810,65,52650,0,0,0
+2003,Winter,Indiana,430,69,29670,0,0,0
+2003,Winter,Iowa,19,61,1159,0,0,0
+2003,Winter,Kansas,10000,48,480000,0,1.3,10.6
+2003,Winter,Kentucky,330,62,20460,0,0,0
+2003,Winter,Louisiana,140,41,5740,0,1,5
+2003,Winter,Maryland,145,37,5365,0,0,0
+2003,Winter,Michigan,660,68,44880,0,0,0
+2003,Winter,Minnesota,23,42,966,0,1,0
+2003,Spring,Minnesota,1800,58,104400,0,1,0
+2003,Durum,Minnesota,2,58,116,0,0,0
+2003,Winter,Mississippi,125,49,6125,0,1,3
+2003,Winter,Missouri,870,61,53070,0,0,2.5
+2003,Winter,Montana,1720,37,63640,0,1,0
+2003,Spring,Montana,2700,22,59400,0,0,0
+2003,Durum,Montana,630,23,14490,0,0,0
+2003,Winter,Nebraska,1820,46,83720,0,1,10
+2003,Spring,Nevada,4,75,300,0,0,0
+2003,Winter,New Jersey,26,42,1092,0,0,0
+2003,Winter,New Mexico,140,30,4200,0,0,0
+2003,Winter,New York,120,53,6360,0,0,0
+2003,Winter,North Carolina,410,36,14760,0,1,0
+2003,Winter,North Dakota,120,49,5880,0,3,0
+2003,Spring,North Dakota,6400,39.5,252800,0,1,0
+2003,Durum,North Dakota,1980,29.5,58410,0,0,0
+2003,Winter,Ohio,1000,68,68000,0,0.1,0
+2003,Winter,Oklahoma,4600,39,179400,0,0,1
+2003,Winter,Oregon,940,51,47940,0,0,0.1
+2003,Spring,Oregon,140,40,5600,0,0.1,0.3
+2003,Winter,Pennsylvania,165,43,7095,0,0,0
+2003,Winter,South Carolina,185,39,7215,0,0,0
+2003,Winter,South Dakota,1380,43,59340,0,2,2
+2003,Spring,South Dakota,1340,42,56280,0,1,0
+2003,Durum,South Dakota,27,23,621,0,0,0
+2003,Winter,Tennessee,270,50,13500,0,0,0
+2003,Winter,Texas,3450,28,96600,0,1,3
+2003,Winter,Utah,125,41,5125,0,0,0
+2003,Spring,Utah,10,46,460,0,0,0
+2003,Winter,Virginia,160,46,7360,0,0,0
+2003,Winter,Washington,1800,65,117000,0,0.1,1.5
+2003,Spring,Washington,545,41,22345,0,0.1,3.5
+2003,Winter,West Virginia,7,41,287,0,0,0
+2003,Winter,Wisconsin,175,69,12075,0,0,0
+2003,Spring,Wisconsin,5,45,225,0,0,0
+2003,Winter,Wyoming,145,27,3915,0,0,0
+2003,Spring,Wyoming,6,25,150,0,0,0
+2004,Winter,Alabama,60,48,2880,0,1,0
+2004,Durum,Arizona,100,97,9603,0,0,0
+2004,Winter,Arkansas,620,53,32860,0,0,2
+2004,Winter,California,320,85,27200,0,0,5
+2004,Durum,California,120,90,9000,0,0,5
+2004,Winter,Colorado,1700,27,45900,0,0,0
+2004,Spring,Colorado,14,70,980,0,0,0
+2004,Winter,Delaware,47,58,2726,0,0,0
+2004,Winter,Florida,15,45,675,0,1,0
+2004,Winter,Georgia,190,45,8550,0,1,0
+2004,Winter,Idaho,700,90,63000,0,0,0
+2004,Spring,Idaho,490,79,38710,0,0.2,0.5
+2004,Winter,Illinois,900,59,53100,0,1,0
+2004,Winter,Indiana,440,62,27280,0,1,0
+2004,Winter,Iowa,24,55,1320,0,0,0
+2004,Winter,Kansas,8500,37,314500,0,1.4,0.1
+2004,Winter,Kentucky,380,54,20520,0,0,0
+2004,Winter,Louisiana,165,50,8250,0,1.5,4.5
+2004,Winter,Maryland,145,59,8555,0,0,0
+2004,Winter,Michigan,640,64,40960,0,1,0
+2004,Winter,Minnesota,25,40,1000,0,1,0
+2004,Spring,Minnesota,1610,55,88550,0,10,0
+2004,Durum,Minnesota,1,55,55,0,0,0
+2004,Winter,Mississippi,135,53,7155,0,1,2
+2004,Winter,Missouri,930,52,48360,0,1,0
+2004,Winter,Montana,1630,41,66830,0,0,1
+2004,Spring,Montana,2850,31,88350,0,0,0
+2004,Durum,Montana,545,33,17985,0,0,0
+2004,Winter,Nebraska,1650,37,61050,0,3,0
+2004,Spring,Nevada,6,105,630,0,0,0
+2004,Winter,New Jersey,24,47,1128,0,0,0
+2004,Winter,New Mexico,300,26,7800,0,0,0
+2004,Winter,New York,100,53,5300,0,0,0
+2004,Winter,North Carolina,460,50,23000,0,0,0
+2004,Winter,North Dakota,225,44,9900,0,1,0
+2004,Spring,North Dakota,5950,41,243950,0,3,0
+2004,Durum,North Dakota,1600,33,52800,0,0,0
+2004,Winter,Ohio,890,62,55180,0,1,0
+2004,Winter,Oklahoma,4700,35,164500,0,1.5,0.5
+2004,Winter,Oregon,780,61,47580,0,0.2,3
+2004,Spring,Oregon,175,48,8400,0,1,5
+2004,Winter,Pennsylvania,135,49,6615,0,0,0
+2004,Winter,South Carolina,180,44,7920,0,0.5,0
+2004,Winter,South Dakota,1250,45,56250,0,1,0
+2004,Spring,South Dakota,1530,47,71910,0,2,0
+2004,Durum,South Dakota,18,25,450,0,0,0
+2004,Winter,Tennessee,280,49,13720,0,0,0
+2004,Winter,Texas,3500,31,108500,0,4.7,2.2
+2004,Winter,Utah,120,43,5160,0,0,0
+2004,Spring,Utah,12,58,696,0,0,0
+2004,Winter,Virginia,180,55,9900,0,0.1,0
+2004,Winter,Washington,1750,67,117250,0,0,1.5
+2004,Spring,Washington,525,50,26250,0,0,3
+2004,Winter,West Virginia,5,52,260,0,0,0
+2004,Winter,Wisconsin,225,56,12600,0,1,0
+2004,Spring,Wisconsin,6,42,252,0,0,0
+2004,Winter,Wyoming,135,26,3510,0,0,0
+2004,Spring,Wyoming,6,40,240,0,0,0
+2005,Winter,Alabama,45,50,2250,0,0,0
+2005,Durum,Arizona,79,100,7900,0,0,0
+2005,Winter,Arkansas,160,52,8320,0,0,5
+2005,Winter,California,300,72,21600,0,2,5
+2005,Durum,California,69,95,6555,0,0,5
+2005,Winter,Colorado,2200,24,52800,0,0,1
+2005,Spring,Colorado,19,65,1235,0,0,0
+2005,Winter,Delaware,51,70,3570,0,0,0
+2005,Winter,Florida,8,45,360,0,0,0
+2005,Winter,Georgia,140,53,7280,0,0,1
+2005,Winter,Idaho,730,91,66430,0,0.1,3
+2005,Spring,Idaho,450,72,32400,0,0.1,2
+2005,Durum,Idaho,20,88,1760,0,0,0
+2005,Winter,Illinois,600,61,36600,0,0,0
+2005,Winter,Indiana,340,72,24480,0,1,0
+2005,Winter,Iowa,15,50,750,0,0,0
+2005,Winter,Kansas,9500,40,380000,0,2,8
+2005,Winter,Kentucky,300,68,20400,0,0.1,0.2
+2005,Winter,Louisiana,100,48,4800,0,1,5
+2005,Winter,Maryland,140,66,9240,0,0,0
+2005,Winter,Michigan,590,66,38940,0,0,0
+2005,Winter,Minnesota,15,36,540,0,1,0
+2005,Spring,Minnesota,1730,41,70930,0,4,0
+2005,Winter,Mississippi,65,50,3250,0,1,1
+2005,Winter,Missouri,540,54,29160,0,1,2
+2005,Winter,Montana,2100,45,94500,0,0,0
+2005,Spring,Montana,2550,32,81600,0,0,0
+2005,Durum,Montana,585,28,16380,0,0,0
+2005,Winter,Nebraska,1760,39,68640,0,1,4
+2005,Spring,Nevada,3,85,255,0,0,0
+2005,Winter,New Jersey,23,53,1219,0,0,0
+2005,Winter,New Mexico,270,36,9720,0,0,0
+2005,Winter,New York,95,54,5130,0,0,0
+2005,Winter,North Carolina,435,57,24795,0,0,0
+2005,Winter,North Dakota,285,39,11115,0,2,0
+2005,Spring,North Dakota,6600,34,224000,0,2,0
+2005,Durum,North Dakota,1950,35,68250,0,0,0
+2005,Winter,Ohio,830,71,58930,0,1,0
+2005,Winter,Oklahoma,4000,32,128000,0,1,5
+2005,Winter,Oregon,780,61,47580,0,0.1,4
+2005,Spring,Oregon,115,52,5980,0,0,8
+2005,Winter,Pennsylvania,145,54,7830,0,0,0
+2005,Winter,South Carolina,165,52,8580,0,0,0
+2005,Winter,South Dakota,1490,44,65560,0,2,0
+2005,Spring,South Dakota,1690,40,67600,0,2,0
+2005,Durum,South Dakota,13,20,260,0,0,0
+2005,Winter,Tennessee,150,56,8400,0,0,0.5
+2005,Winter,Texas,3000,32,96000,0,3.7,15.2
+2005,Winter,Utah,135,47,6345,0,0,5
+2005,Spring,Utah,13,58,754,0,0,5
+2005,Winter,Virginia,160,63,10080,0,0,0
+2005,Winter,Washington,1800,67,120600,0,0.1,2
+2005,Spring,Washington,425,44,18700,0,0.1,4
+2005,Winter,West Virginia,5,60,300,0,0,0
+2005,Winter,Wisconsin,175,57,9975,0,1,0
+2005,Spring,Wisconsin,7,41,287,0,0,0
+2005,Winter,Wyoming,145,30,4350,0,0,0
+2005,Spring,Wyoming,7,45,315,0,0,0
+2006,Winter,Alabama,45,58,2610,0,1,0
+2006,Durum,Arizona,74,100,7400,0,0,0
+2006,Winter,Arkansas,305,61,18605,0,1,1
+2006,Winter,California,250,58,14500,0,1,15
+2006,Durum,California,65,99,6435,0,0,3
+2006,Winter,Colorado,1900,21,39900,0,0,0
+2006,Spring,Colorado,19,85,1615,0,0,0
+2006,Winter,Delaware,45,67,3015,0,0,0
+2006,Winter,Florida,5,42,210,0,0,0
+2006,Winter,Georgia,120,49,5880,0,0,0
+2006,Winter,Idaho,710,77,54670,0,0,0.3
+2006,Spring,Idaho,470,73,34310,0,0,0.5
+2006,Durum,Idaho,15,89,1335,0,0,0
+2006,Winter,Illinois,910,67,60970,0,0,0
+2006,Winter,Indiana,460,69,31740,0,0,0
+2006,Winter,Iowa,18,66,1188,0,0,0
+2006,Winter,Kansas,9100,32,291200,0,0.1,0
+2006,Winter,Kentucky,320,71,22720,0,1,0
+2006,Winter,Louisiana,105,53,5565,0,1,2
+2006,Winter,Maryland,125,68,8500,0,0,0
+2006,Winter,Michigan,650,73,47450,0,1,0
+2006,Winter,Minnesota,45,62,2790,0,1,0
+2006,Spring,Minnesota,1650,47,77550,0,1,0
+2006,Winter,Mississippi,73,59,4307,0,1,0
+2006,Winter,Missouri,910,54,49140,0,1,0
+2006,Winter,Montana,1920,43,82560,0,0,0.6
+2006,Spring,Montana,2900,22,63800,0,0,0.1
+2006,Durum,Montana,395,17,6715,0,0,0
+2006,Winter,Nebraska,1700,36,61200,0,0.1,0
+2006,Spring,Nevada,2,88,176,0,0,0
+2006,Winter,New Jersey,22,60,1320,0,0,0
+2006,Winter,New Mexico,120,32,3840,0,0,0
+2006,Winter,New York,95,61,5795,0,1,0
+2006,Winter,North Carolina,420,59,24780,0,0,0
+2006,Winter,North Dakota,180,44,7920,0,2,0
+2006,Spring,North Dakota,6850,31,212350,0,0.5,0
+2006,Durum,North Dakota,1260,25,31500,0,0,0
+2006,Winter,Ohio,960,68,65280,0,0,0
+2006,Winter,Oklahoma,3400,24,81600,0,0,0
+2006,Winter,Oregon,730,53,38690,0,0,0.2
+2006,Spring,Oregon,115,50,5750,0,0,0.5
+2006,Winter,Pennsylvania,150,59,8850,0,0,0
+2006,Winter,South Carolina,123,50,6150,0,0,0
+2006,Winter,South Dakota,1150,36,41400,0,1,0
+2006,Spring,South Dakota,1420,30,42600,0,0.5,0
+2006,Durum,South Dakota,6,15,90,0,0,0
+2006,Winter,Tennessee,190,64,12160,0,1,0
+2006,Winter,Texas,1400,24,33600,0,0,0
+2006,Winter,Utah,125,45,5625,0,0,0
+2006,Spring,Utah,11,45,495,0,0,0
+2006,Winter,Virginia,155,68,10540,0,0,0
+2006,Winter,Washington,1800,66,118800,0,0,0.2
+2006,Spring,Washington,425,50,21250,0,0,0.5
+2006,Winter,West Virginia,6,61,366,0,0,0
+2006,Winter,Wisconsin,230,78,17940,0,1,0
+2006,Spring,Wisconsin,10,35,350,0,0,0
+2006,Winter,Wyoming,135,27,3645,0,0,0
+2006,Spring,Wyoming,6,39,234,0,0,0
+2007,Winter,Alabama,80,43,3440,0,0,0
+2007,Durum,Arizona,79,100,7900,0,0,0
+2007,Winter,Arkansas,700,41,28700,0,0,0
+2007,Winter,California,240,80,19200,0,0,2
+2007,Durum,California,75,95,7125,0,0,0
+2007,Winter,Colorado,2350,40,94000,0,1,0
+2007,Spring,Colorado,19,80,1520,0,0,0
+2007,Winter,Delaware,55,68,2740,0,0,0
+2007,Winter,Florida,9,57,513,0,0,0
+2007,Winter,Georgia,230,40,9200,0,0,0
+2007,Winter,Idaho,710,73,51830,0,0,0.5
+2007,Spring,Idaho,450,68,30600,0,0,0
+2007,Durum,Idaho,15,83,1245,0,0,0
+2007,Winter,Illinois,890,57,50730,0,0.5,0
+2007,Winter,Indiana,370,57,21090,0,1,0
+2007,Winter,Iowa,28,50,1400,0,0,0
+2007,Winter,Kansas,8600,33,283800,0,13.9,0.2
+2007,Winter,Kentucky,250,49,12250,0,0.1,0
+2007,Winter,Louisiana,220,54,11880,0,1,1
+2007,Winter,Maryland,170,68,11560,0,0,0
+2007,Winter,Michigan,540,65,35100,0,0,0
+2007,Winter,Minnesota,60,48,2880,0,3,0
+2007,Spring,Minnesota,1650,47,77550,0,5,0
+2007,Winter,Mississippi,330,56,18480,0,0.5,0
+2007,Winter,Missouri,880,43,37840,0,2,0
+2007,Winter,Montana,2190,38,83220,0,0,0.2
+2007,Spring,Montana,2400,23,55200,0,0,0
+2007,Durum,Montana,475,24,11400,0,0,0
+2007,Winter,Nebraska,1960,43,84280,0,7,0.2
+2007,Spring,Nevada,1,100,100,0,0,0
+2007,Winter,New Jersey,28,51,1428,0,0,0
+2007,Winter,New Mexico,300,26,7800,0,0,0
+2007,Winter,New York,85,52,4420,0,0.5,0
+2007,Winter,North Carolina,500,40,20000,0,0.5,0
+2007,Winter,North Dakota,445,50,22250,0,5,0
+2007,Spring,North Dakota,6500,36,234000,0,2,0
+2007,Durum,North Dakota,1460,30,43800,0,0,0
+2007,Winter,Ohio,730,63,45990,0,1,0
+2007,Winter,Oklahoma,3500,28,98000,0,4,1
+2007,Winter,Oregon,735,55,40425,0,0,0.5
+2007,Spring,Oregon,120,53,6360,0,0,0.5
+2007,Winter,Pennsylvania,155,58,8990,0,1,0
+2007,Winter,South Carolina,135,31,4185,0,0.5,0
+2007,Winter,South Dakota,1980,48,95040,0,4,0
+2007,Spring,South Dakota,1340,39,52260,0,2,0
+2007,Durum,South Dakota,8,27,216,0,0,0
+2007,Winter,Tennessee,260,41,10660,0,0,0
+2007,Winter,Texas,3800,37,140600,0,6.7,4.5
+2007,Winter,Utah,125,48,6000,0,0,0
+2007,Spring,Utah,7,60,420,0,0,0
+2007,Winter,Virginia,205,64,13120,0,0,0
+2007,Winter,Washington,1690,64,108160,0,0,0.5
+2007,Spring,Washington,447,46,20562,0,0,1
+2007,Winter,West Virginia,6,58,348,0,0,0
+2007,Winter,Wisconsin,270,69,18630,0,1,0
+2007,Spring,Wisconsin,8,35,280,0,1,0
+2007,Winter,Wyoming,125,26,3250,0,0,0
+2007,Spring,Wyoming,5,39,195,0,0,0
+2008,Winter,Alabama,200,71,14200,0,1,0
+2008,Durum,Arizona,149,98,14602,0,0,0
+2008,Winter,Arkansas,980,57,55860,0,0.5,0
+2008,Winter,California,400,85,34000,0,0,2
+2008,Durum,California,155,105,16275,0,0,0
+2008,Winter,Colorado,1900,30,57000,0,1,0
+2008,Spring,Colorado,36,75,2700,0,0,0
+2008,Winter,Delaware,79,77,6083,0,0,0
+2008,Winter,Florida,23,55,1265,0,1,0
+2008,Winter,Georgia,400,56,22400,0,1,0
+2008,Winter,Idaho,800,75,60000,0,0,0
+2008,Spring,Idaho,520,72,37440,0,0,0
+2008,Durum,Idaho,10,73,730,0,0,0
+2008,Winter,Illinois,1150,64,73600,0,3,0
+2008,Winter,Indiana,560,69,38640,0,1,0
+2008,Winter,Iowa,35,48,1680,0,0,0
+2008,Winter,Kansas,8900,40,356000,0,4.7,0
+2008,Winter,Kentucky,460,71,32660,0,0.1,0.1
+2008,Winter,Louisiana,385,57,21945,0,1,1.5
+2008,Winter,Maryland,180,73,13140,0,0.5,0
+2008,Winter,Michigan,710,69,48990,0,2,0
+2008,Winter,Minnesota,70,52,3640,0,2,0
+2008,Spring,Minnesota,1800,56,100800,0,0,0
+2008,Winter,Mississippi,485,62,30070,0,1,0
+2008,Winter,Missouri,1160,48,55680,0,2,0
+2008,Winter,Montana,2420,39,94380,0,0,0
+2008,Spring,Montana,2480,24,59520,0,0,0
+2008,Durum,Montana,570,19,10830,0,0,0
+2008,Winter,Nebraska,1670,44,73480,0,1,0
+2008,Spring,Nevada,4,95,380,0,0,0
+2008,Winter,New Jersey,33,61,2013,0,0,0
+2008,Winter,New Mexico,140,30,4200,0,0,0
+2008,Winter,New York,122,63,7686,0,1,0
+2008,Winter,North Carolina,720,60,43200,0,0.5,0
+2008,Winter,North Dakota,550,41,22550,0,2,0
+2008,Spring,North Dakota,6400,38.5,246400,0,0,0
+2008,Durum,North Dakota,1690,25,42250,0,0,0
+2008,Winter,Ohio,1090,68,74120,0,1,0
+2008,Winter,Oklahoma,4500,37,166500,0,5,0
+2008,Winter,Oregon,775,58,44950,0,0,0
+2008,Spring,Oregon,170,45,7650,0,0,0
+2008,Winter,Pennsylvania,185,64,11840,0,0.5,0
+2008,Winter,South Carolina,205,54,11070,0,0.5,0
+2008,Winter,South Dakota,1890,55,103950,0,1,0
+2008,Spring,South Dakota,1520,45,68400,0,1,0
+2008,Durum,South Dakota,10,19.9,190,0,0,0
+2008,Winter,Tennessee,520,63,32760,0,0,0
+2008,Winter,Texas,3300,30,99000,0,1.8,0.4
+2008,Winter,Utah,120,41,4920,0,0,0
+2008,Spring,Utah,19,44,836,0,0,0
+2008,Winter,Virginia,280,71,19880,0,0.5,0
+2008,Winter,Washington,1720,56,96320,0,0,0.3
+2008,Spring,Washington,505,42,21210,0,0,1.5
+2008,Winter,West Virginia,8,60,480,0,0,0
+2008,Winter,Wisconsin,335,66,22110,0,2,0
+2008,Spring,Wisconsin,22,41,902,0,0,0
+2008,Winter,Wyoming,135,28,3780,0,0,0
+2008,Spring,Wyoming,11,46,506,0,0,0
+2009,Winter,Alabama,180,55,9900,0,1,0
+2009,Durum,Arizona,124,100,12400,0,0,0
+2009,Winter,Arkansas,390,44,17160,0,0,0
+2009,Winter,California,315,80,25200,0,0,1
+2009,Durum,California,170,100,17000,0,0,0
+2009,Winter,Colorado,2450,40,98000,0,0,0
+2009,Spring,Colorado,29,90,2610,0,0,0
+2009,Winter,Delaware,67,62,4154,0,0,0
+2009,Winter,Florida,14,43,602,0,0,0
+2009,Winter,Georgia,250,42,10500,0,1,0
+2009,Winter,Idaho,700,81,56700,0,0,0
+2009,Spring,Idaho,530,77,40810,0,0,0
+2009,Durum,Idaho,20,81,1620,0,0,0
+2009,Winter,Illinois,820,56,45920,0,1,0
+2009,Winter,Indiana,450,67,30150,0,1,0
+2009,Winter,Iowa,22,45,990,0,0,0
+2009,Winter,Kansas,8800,42,369600,0,1.37,0
+2009,Winter,Kentucky,390,57,22230,0,0,0
+2009,Winter,Louisiana,175,56,9800,0,0.75,1
+2009,Winter,Maryland,195,60,11700,0,0,0
+2009,Winter,Michigan,560,69,38640,0,1,0
+2009,Winter,Minnesota,45,45,2025,0,1,0
+2009,Spring,Minnesota,1550,53,82150,0,0,0
+2009,Winter,Mississippi,165,50,8250,0,0.5,0
+2009,Winter,Missouri,730,47,34310,0,1.5,0
+2009,Winter,Montana,2420,37,89540,0,0,0
+2009,Spring,Montana,2350,30,70500,0,0.5,0
+2009,Durum,Montana,535,31,16585,0,0,0
+2009,Winter,Nebraska,1600,48,76800,0,0.7,0
+2009,Spring,Nevada,2,75,150,0,0,0
+2009,Winter,New Jersey,29,51,1479,0,0,0
+2009,Winter,New Mexico,140,25,3500,0,0,0
+2009,Winter,New York,105,65,6825,0,1,0
+2009,Winter,North Carolina,600,49,29400,0,0,0
+2009,Winter,North Dakota,545,48,26160,0,2,0
+2009,Spring,North Dakota,6300,46,289800,0,1,0
+2009,Durum,North Dakota,1570,39,61230,0,0,0
+2009,Winter,Ohio,980,72,70560,0,1,0
+2009,Winter,Oklahoma,3500,22,77000,0,6,0
+2009,Winter,Oregon,750,56,42000,0,0,0
+2009,Spring,Oregon,127,54,6858,0,0,0
+2009,Winter,Pennsylvania,175,56,9800,0,0,0
+2009,Winter,South Carolina,150,47,7050,0,0,0
+2009,Winter,South Dakota,1530,42,64260,0,1,0
+2009,Spring,South Dakota,1470,44,64680,0,0,0
+2009,Durum,South Dakota,9,23,207,0,0,0
+2009,Winter,Tennessee,340,51,17340,0,0,0
+2009,Winter,Texas,2450,25,61250,0,1.1,0
+2009,Winter,Utah,135,50,6750,0,0,0
+2009,Spring,Utah,12,44,528,0,0,0
+2009,Winter,Virginia,210,58,12180,0,0,0
+2009,Winter,Washington,1640,59,96760,0,0,0.5
+2009,Spring,Washington,585,45,26325,0,0,1
+2009,Winter,West Virginia,5,50,240,0,0,0
+2009,Winter,Wisconsin,315,68,21420,0,1,0
+2009,Winter,Wyoming,132,38,5016,0,0,0
+2010,Winter,Alabama,115,55,6325,0,0.5,0
+2010,Durum,Arizona,79,115,9085,0,0,0
+2010,Winter,Arkansas,150,44,8100,0,0,0.5
+2010,Winter,California,360,80,28800,0,0,3
+2010,Durum,California,105,110,11550,0,0,0
+2010,Winter,Colorado,2350,40,105750,0,0,2
+2010,Spring,Colorado,27,92,2484,0,0,0
+2010,Winter,Delaware,45,62,2610,0,0,0
+2010,Winter,Florida,7,43,280,0,0,0
+2010,Winter,Georgia,125,42,5000,0,1,0
+2010,Winter,Idaho,710,81,58220,0,0,3
+2010,Spring,Idaho,615,78,47970,0,0,3
+2010,Durum,Idaho,20,61,1220,0,0,0
+2010,Winter,Illinois,295,56,16520,0,1,0.3
+2010,Winter,Indiana,230,67,13800,0,1,0
+2010,Winter,Iowa,10,45,460,0,0,0
+2010,Winter,Kansas,8000,42,360000,0,1,10.3
+2010,Winter,Kentucky,250,57,16500,0,1,1
+2010,Winter,Louisiana,110,56,5500,0,0,4
+2010,Winter,Michigan,510,69,35700,0,1,0
+2010,Winter,Minnesota,60,45,2820,0,1,1
+2010,Spring,Minnesota,1550,55,85250,0,0,0
+2010,Winter,Mississippi,100,50,4700,0,0,0
+2010,Winter,Missouri,280,47,12600,0,1,1
+2010,Winter,Montana,1950,37,93600,0,2,4
+2010,Spring,Montana,2730,38,103740,0,0,5
+2010,Durum,Montana,530,34,18020,0,0,0
+2010,Winter,Nebraska,1490,48,64070,0,0.1,7
+2010,Winter,New Mexico,290,25,8120,0,0,0
+2010,Winter,New York,100,65,6700,0,1,0
+2010,Winter,North Carolina,380,49,14060,0,1,0
+2010,Winter,North Dakota,320,48,17600,0,1,3
+2010,Spring,North Dakota,6300,44,277200,0,0,0
+2010,Durum,North Dakota,1780,37.5,66750,0,0,0
+2010,Winter,Ohio,750,72,45750,0,1,0
+2010,Winter,Oklahoma,3900,22,120900,0,4,5
+2010,Winter,Oregon,810,56,54270,0,0,10
+2010,Spring,Oregon,137,68,9316,0,0,10
+2010,Winter,Pennsylvania,150,56,8850,0,0,0
+2010,Winter,South Carolina,130,47,4680,0,1,0
+2010,Winter,South Dakota,1300,42,63700,0,1,1
+2010,Spring,South Dakota,1410,42,59220,0,0,0
+2010,Durum,South Dakota,15,37,555,0,0,0
+2010,Winter,Tennessee,180,51,9540,0,0,0
+2010,Winter,Texas,3750,25,127500,0,2.6,9.9
+2010,Winter,Utah,118,50,5664,0,0,0
+2010,Winter,Virginia,160,58,8160,0,1,0
+2010,Winter,Washington,1710,59,117990,0,0,3
+2010,Spring,Washington,575,52,29900,0,0,3
+2010,Winter,West Virginia,5,50,270,0,0,0
+2010,Winter,Wisconsin,230,68,14720,0,1,0.5
+2010,Winter,Wyoming,145,38,4640,0,0,0
+2011,Winter,Alabama,195,73,14235,0,0,0
+2011,Winter,Arizona,6,70,420,0,0,0
+2011,Winter,Arkansas,520,58,30160,0,0,0
+2011,Winter,California,420,85,35700,0,0,6
+2011,Winter,Colorado,2000,39,78000,0,0,0
+2011,Winter,Delaware,75,69,5175,0,0,0
+2011,Winter,Florida,8,45,360,0,0,0
+2011,Winter,Georgia,200,55,11000,0,0,0
+2011,Winter,Idaho,770,82,63140,0,0,7
+2011,Winter,Illinois,765,61,46665,0,0,0
+2011,Winter,Indiana,400,62,24800,0,1,0
+2011,Winter,Iowa,16,45,720,0,0,0
+2011,Winter,Kansas,7900,35,276500,0,0,0
+2011,Winter,Kentucky,440,70,30800,0,0,0
+2011,Winter,Louisiana,235,63,14805,0,0,0
+2011,Winter,Maryland,190,66,12540,0,0,0
+2011,Winter,Michigan,680,75,51000,0,0,0
+2011,Winter,Minnesota,26,56,1456,0,0,0
+2011,Winter,Mississippi,335,64,21440,0,0,0
+2011,Winter,Missouri,680,50,34000,0,2,0
+2011,Winter,Montana,2190,41,89790,0,0,10
+2011,Winter,Nebraska,1450,45,65250,0,0,0
+2011,Winter,Nevada,9,115,1035,0,0,0
+2011,Winter,New Jersey,31,49,1519,0,0,0
+2011,Winter,New Mexico,95,22,2090,0,0,0
+2011,Winter,New York,93,56,5208,0,0,0
+2011,Winter,North Carolina,610,68,41480,0,0,0
+2011,Winter,North Dakota,375,37,13875,0,1,1
+2011,Winter,Ohio,850,58,49300,0,0,0
+2011,Winter,Oklahoma,3200,22,70400,0,1,0
+2011,Winter,Oregon,825,77,63525,0,0,7
+2011,Winter,Pennsylvania,170,51,8670,0,0,0
+2011,Winter,South Carolina,180,60,10800,0,1,0
+2011,Winter,South Dakota,1590,42,66780,0,0,0
+2011,Winter,Tennessee,310,69,21390,0,0,0
+2011,Winter,Texas,1900,26,49400,0,1,0
+2011,Winter,Utah,124,50,6200,0,0,0
+2011,Winter,Virginia,250,71,17750,0,1,0
+2011,Winter,Washington,1730,75,129750,0,0,3.5
+2011,Winter,West Virginia,6,59,354,0,0,0
+2011,Winter,Wisconsin,335,65,21775,0,0,0
+2011,Winter,Wyoming,130,34,4420,0,0,0
+2011,Spring,California,0,0,0,0,0,1
+2011,Spring,Colorado,44,87,3828,0,0,0
+2011,Spring,Idaho,620,84,52080,0,0,4
+2011,Spring,Minnesota,1500,46,69000,0,0,0
+2011,Spring,Montana,2400,32,76800,0,0,5
+2011,Spring,Nevada,3,90,270,0,0,0
+2011,Spring,New York,0,0,0,0,0,0
+2011,Spring,North Dakota,5500,31.5,173250,0,0,0
+2011,Spring,Oregon,157,70,10990,0,0,7
+2011,Spring,Utah,1220,31,37820,0,0,0
+2011,Spring,South Dakota,20,46,920,0,0,0
+2011,Spring,Texas,0,0,0,0,1,0
+2011,Spring,Washington,615,61,37515,0,0,2.5
+2011,Durum,Arizona,79,101,7979,0,0,0
+2011,Durum,California,115,109,12535,0,0,0
+2011,Durum,Idaho,11,69,759,0,0,0
+2011,Durum,Montana,390,30,11700,0,0,5
+2011,Durum,North Dakota,720,26,18720,0,0,0
+2011,Durum,Oregon,0,0,0,0,0,0
+2011,Durum,South Dakota,7,28,196,0,0,0
+2012,Winter,Alabama,190,59,11210,0,1,2
+2012,Winter,Arizona,8,80,640,0,0,0
+2012,Winter,Arkansas,450,55,24750,0,0,0
+2012,Winter,California,310,85,26350,0,0,4
+2012,Winter,Colorado,2170,34,73780,0,0,4
+2012,Winter,Delaware,80,74,5920,0,0,0
+2012,Winter,Florida,15,41,615,0,0,0
+2012,Winter,Georgia,230,49,11270,0,0,0
+2012,Winter,Idaho,740,80,59200,0,0,2
+2012,Winter,Illinois,645,63,40635,0,0,0
+2012,Winter,Indiana,300,67,20100,0,2,1
+2012,Winter,Iowa,13,53,689,0,0,0
+2012,Winter,Kansas,9100,42,382200,0,1,5.7
+2012,Winter,Kentucky,470,62,29140,0,1,0
+2012,Winter,Louisiana,275,49,13475,0,2,0
+2012,Winter,Maryland,210,68,14280,0,0,0
+2012,Winter,Michigan,540,76,41040,0,0,1
+2012,Winter,Minnesota,37,55,2035,0,0,2
+2012,Winter,Mississippi,345,57,19665,0,2,5
+2012,Winter,Missouri,690,57,39330,0,2,0
+2012,Winter,Montana,2170,39,84630,0,0,1
+2012,Winter,Nebraska,1300,41,53300,0,0,2
+2012,Winter,Nevada,11,77,847,0,0,0
+2012,Winter,New Jersey,27,56,1512,0,0,0
+2012,Winter,New Mexico,90,24,2160,0,0,0
+2012,Winter,New York,85,63,5355,0,1,0
+2012,Winter,North Carolina,750,57,42750,0,5,0
+2012,Winter,North Dakota,730,55,40150,0,0,2
+2012,Winter,Ohio,450,69,31050,0,0,0
+2012,Winter,Oklahoma,4300,36,154800,0,1,5
+2012,Winter,Oregon,785,66,51810,0,0,2.5
+2012,Winter,Pennsylvania,145,65,9425,0,0,0
+2012,Winter,South Carolina,220,53,11660,0,1,0
+2012,Winter,South Dakota,1210,50,60500,0,0,0
+2012,Winter,Tennessee,340,63,21420,0,0,0
+2012,Winter,Texas,3000,32,96000,0,0,1
+2012,Winter,Utah,124,46,5704,0,0,0
+2012,Winter,Virginia,240,65,15600,0,0,0
+2012,Winter,Washington,1670,71,118570,0,0,1
+2012,Winter,West Virginia,4,65,260,0,0,0
+2012,Winter,Wisconsin,245,75,18375,0,0,0
+2012,Winter,Wyoming,120,25,3000,0,0,0
+2012,Spring,California,0,0,0,0,0,2
+2012,Spring,Colorado,12,89,1068,0,0,0
+2012,Spring,Idaho,500,76,38000,0,0,4
+2012,Spring,Minnesota,1310,57,74670,0,0,2
+2012,Spring,Montana,2900,33,95700,0,1,1
+2012,Spring,Nevada,2,70,140,0,0,0
+2012,Spring,New York,0,0,0,0,1,0
+2012,Spring,North Dakota,5700,45,256500,0,0,2
+2012,Spring,Oregon,93,62,5766,0,0,2.5
+2012,Spring,South Dakota,1020,41,41820,0,0,0
+2012,Spring,Utah,13,40,520,0,0,0
+2012,Spring,Washington,505,55,27775,1,0,1.5
+2012,Durum,Arizona,104,95,9880,0,0,0
+2012,Durum,California,135,105,14175,0,0,0
+2012,Durum,Idaho,13,62,806,0,0,0
+2012,Durum,Montana,515,28,14420,0,0,1
+2012,Durum,North Dakota,1330,32,42560,0,0,0
+2012,Durum,South Dakota,5,23,115,0,0,0
+2013,Winter,Alabama,270,69,18630,0,0,2
+2013,Winter,Arizona,10,99.5,800,0,0,0
+2013,Winter,Arkansas,615,62,38130,0,0,0
+2013,Winter,California,340,83.3,27200,0,0,2
+2013,Winter,Colorado,1640,27.3,44280,0,0,0
+2013,Winter,Delaware,78,68,5304,0,0,0
+2013,Winter,Florida,19,59,1121,0,0,0
+2013,Winter,Georgia,350,60,21000,0,0,3
+2013,Winter,Idaho,720,82.1,61920,0,0,1
+2013,Winter,Illinois,830,67,55610,0,1,3
+2013,Winter,Indiana,440,73,32120,0,1,1
+2013,Winter,Iowa,21,52,1092,0,0,0
+2013,Winter,Kansas,8400,38,319200,0,0,0
+2013,Winter,Kentucky,610,75,45750,0,0,0
+2013,Winter,Louisiana,250,58,14500,0,1,3
+2013,Winter,Maryland,260,67,17420,0,0,0
+2013,Winter,Michigan,600,75,45000,0,0,0
+2013,Winter,Minnesota,27,56.7,1161,0,0,0
+2013,Winter,Mississippi,385,58,22330,0,1,3
+2013,Winter,Missouri,1000,56,56000,0,2,0
+2013,Winter,Montana,1900,38.9,81700,0,0,3
+2013,Winter,Nebraska,1130,35,39550,0,0,0
+2013,Winter,Nevada,11,86.8,990,0,0,0
+2013,Winter,New Jersey,29,54,1566,0,0,0
+2013,Winter,New Mexico,70,44,3080,0,0,0
+2013,Winter,New York,115,68,7820,0,0,0
+2013,Winter,North Carolina,920,57,52440,0,2,0
+2013,Winter,North Dakota,205,44.9,8815,0,0,0
+2013,Winter,Ohio,665,70,46550,0,0,0
+2013,Winter,Oklahoma,3400,31,105400,0,0,0
+2013,Winter,Oregon,780,62.1,48360,0,0,2
+2013,Winter,Pennsylvania,160,68,10880,0,0,0
+2013,Winter,South Carolina,255,54,13770,0,1,0
+2013,Winter,South Dakota,670,42.2,26130,0,0,0
+2013,Winter,Tennessee,540,71,38340,0,0,2
+2013,Winter,Texas,2250,29,65250,0,0,0
+2013,Winter,Utah,110,44.5,4840,0,0,0
+2013,Winter,Virginia,275,62,17050,0,0,0
+2013,Winter,Washington,1660,66.9,114540,0,0,1
+2013,Winter,West Virginia,7,52,364,0,0,0
+2013,Winter,Wisconsin,265,58,15370,0,2,2
+2013,Winter,Wyoming,120,24,2880,0,0,0
+2013,Spring,Colorado,9,82,738,0,0,0
+2013,Spring,Idaho,510,77,39270,0,0,5
+2013,Spring,Minnesota,1160,57,66120,0,0,0
+2013,Spring,Montana,2850,37,105450,0,0,3
+2013,Spring,Nevada,3,75,225,0,0,0
+2013,Spring,North Dakota,5060,46,232760,0,0,0
+2013,Spring,Oregon,88,63,5544,0,0,2
+2013,Spring,South Dakota,1165,44,51260,0,0,0
+2013,Spring,Utah,14,48,672,0,0,0
+2013,Spring,Washington,495,60,29700,0,0,0
+2013,Durum,Arizona,79,102,8058,0,0,0
+2013,Durum,California,67,100,6700,0,0,0
+2013,Durum,Idaho,11,62,682,0,0,0
+2013,Durum,Montana,490,34,16660,0,0,0
+2013,Durum,North Dakota,770,38,29260,0,0,0
+2013,Durum,South Dakota,4,42,168,0,0,0
+2014,Winter,Alabama,225,69,15525,0,0,0
+2014,Winter,Arizona,7,100,700,0,0,0
+2014,Winter,Arkansas,395,63,24885,0,0,0
+2014,Winter,California,180,80,14400,0,0,1
+2014,Winter,Colorado,2350,38,89300,0,0,0
+2014,Winter,Delaware,75,72,5400,0,0,0
+2014,Winter,Florida,10,39,390,0,0,0
+2014,Winter,Georgia,230,49,11270,0,0,0
+2014,Winter,Idaho,730,80,58400,0,0,3
+2014,Winter,Illinois,670,67,44890,0,0,0
+2014,Winter,Indiana,335,76,25460,0,1,1
+2014,Winter,Iowa,15,49,735,0,0,0
+2014,Winter,Kansas,8800,28,246400,0,0,0
+2014,Winter,Kentucky,510,71,36210,0,0,0
+2014,Winter,Louisiana,150,62,9300,0,1,0
+2014,Winter,Maryland,250,70,17500,0,0,0
+2014,Winter,Michigan,485,74,35890,0,2,0
+2014,Winter,Minnesota,32,49,1568,0,0,0
+2014,Winter,Mississippi,215,58,12470,0,0,2
+2014,Winter,Missouri,740,58,42920,0,0,0
+2014,Winter,Montana,2240,41,91840,0,0,0
+2014,Winter,Nebraska,1450,49,71050,0,0,0
+2014,Winter,Nevada,9,110,990,0,0,0
+2014,Winter,New Jersey,25,53,1325,0,0,0
+2014,Winter,New Mexico,105,28,2940,0,0,0
+2014,Winter,New York,95,63,5985,0,0,0
+2014,Winter,North Carolina,770,58,44660,0,1,0
+2014,Winter,North Dakota,555,49,27195,0,0,0
+2014,Winter,Ohio,545,74,40330,0,0,0
+2014,Winter,Oklahoma,2800,17,47600,0,0,0
+2014,Winter,Oregon,740,55,40700,0,0,0
+2014,Winter,Pennsylvania,150,65,9750,0,0,0
+2014,Winter,South Carolina,220,52,11440,0,0,0
+2014,Winter,South Dakota,1080,55,59400,0,0,0
+2014,Winter,Tennessee,475,66,31350,0,0,0
+2014,Winter,Texas,2250,30,67500,0,0,0
+2014,Winter,Utah,109,50,5450,0,0,0
+2014,Winter,Virginia,260,68,17680,0,0,0
+2014,Winter,Washington,1640,52,85280,0,0,0
+2014,Winter,West Virginia,7,64,448,0,0,0
+2014,Winter,Wisconsin,250,65,16250,0,1,0
+2014,Winter,Wyoming,125,38,4750,0,0,0
+2014,Spring,California,0,0,0,0,0,0
+2014,Spring,Colorado,8,64,512,0,0,0
+2014,Spring,Idaho,455,76,34580,0,0,6
+2014,Spring,Minnesota,1180,55,64900,0,0,0
+2014,Spring,Montana,2990,36,107640,0,0,0
+2014,Spring,Nevada,1,60,60,0,0,0
+2014,Spring,New York,0,0,0,0,0,0
+2014,Spring,North Dakota,6190,48,294025,0,1,0
+2014,Spring,Oregon,78,48,3744,0,0,0
+2014,Spring,South Dakota,1280,56,71680,0,0,0
+2014,Spring,Utah,8,54,432,0,0,0
+2014,Spring,Washington,610,38,23180,0,0,0
+2014,Durum,Arizona,72,111,7992,0,0,0
+2014,Durum,California,35,105,3675,0,0,0
+2014,Durum,Idaho,11,67,737,0,0,3
+2014,Durum,Montana,430,32,13760,0,0,0
+2014,Durum,North Dakota,820,38,30750,0,0,0
+2014,Durum,South Dakota,4,45,180,0,0,0
+2015,Winter,Alabama,220,68,14960,0,0,0
+2015,Winter,Arizona,2,103,206,0,0,0
+2015,Winter,Arkansas,240,56,13440,0,0,0
+2015,Winter,California,150,70,10500,0,0,2.5
+2015,Winter,Colorado,2140,37,79180,0,0,25
+2015,Winter,Delaware,65,65,4225,0,0,0
+2015,Winter,Florida,15,43,645,0,0,0
+2015,Winter,Georgia,145,43,6235,0,0.75,0
+2015,Winter,Idaho,700,82,57400,0,0,3
+2015,Winter,Illinois,520,65,33800,0,0,0
+2015,Winter,Indiana,260,68,17680,0,1,1.5
+2015,Winter,Iowa,15,52,780,0,0,0
+2015,Winter,Kansas,8700,37,321900,0,0,15.4
+2015,Winter,Kentucky,440,73,32120,0,0,0
+2015,Winter,Louisiana,92,39,3588,0,0,0
+2015,Winter,Maryland,270,64,17280,0,0,0
+2015,Winter,Michigan,475,81,38475,0,1,0
+2015,Winter,Minnesota,43,58,2494,0,0,15
+2015,Winter,Mississippi,120,48,5760,0,0,0
+2015,Winter,Missouri,610,53,32330,0,0,1.5
+2015,Winter,Montana,2220,41,91020,0,0,2
+2015,Winter,Nebraska,1210,38,45980,0,0,12
+2015,Winter,Nevada,6,90,540,0,0,0
+2015,Winter,New Jersey,20,50,1000,0,0,0
+2015,Winter,New Mexico,190,25,4750,0,0,0
+2015,Winter,New York,110,63,6930,0,0,0
+2015,Winter,North Carolina,570,53,30210,0,0,0
+2015,Winter,North Dakota,190,44,8360,0,0,0
+2015,Winter,Ohio,480,67,32160,0,0,0
+2015,Winter,Oklahoma,3800,26,98800,0,4,25
+2015,Winter,Oregon,735,47,34545,0,0,0
+2015,Winter,Pennsylvania,175,65,11375,0,0,0
+2015,Winter,South Carolina,160,46,7360,0,0,0
+2015,Winter,South Dakota,970,44,42680,0,0,15
+2015,Winter,Tennessee,395,68,26860,0,0,0
+2015,Winter,Texas,3550,30,106500,0,4,25
+2015,Winter,Utah,110,48,5280,0,0,0
+2015,Winter,Virginia,210,66,13860,0,0,0
+2015,Winter,Washington,1590,56,89040,0,0,1
+2015,Winter,West Virginia,4,60,240,0,0,0
+2015,Winter,Wisconsin,210,74,15540,0,1,2
+2015,Winter,Wyoming,130,32,4160,0,0,0
+2015,Spring,Colorado,7,65,455,0,0,25
+2015,Spring,Idaho,425,70,29750,0,0,6
+2015,Spring,Minnesota,1430,60,85800,0,0,15
+2015,Spring,Montana,2440,31,75640,0,1,1
+2015,Spring,Nevada,2,55,110,0,0,0
+2015,Spring,North Dakota,6650,48,319200,0,0,5
+2015,Spring,Oregon,93,50,4650,0,0,0
+2015,Spring,South Dakota,1260,48,60480,0,0,12
+2015,Spring,Utah,9,55,495,0,0,0
+2015,Spring,Washington,625,36,22500,0,0,0
+2015,Durum,Arizona,140,101,14140,0,0,0
+2015,Durum,California,60,103,6180,0,0,1
+2015,Durum,Idaho,10,70,700,0,0,0
+2015,Durum,Montana,605,31,18755,0,0,1
+2015,Durum,North Dakota,1075,39.5,42463,0,0,0
+2015,Durum,South Dakota,6,41,246,0,0,0
+2016,Winter,Alabama,170,70,11900,0,0,0
+2016,Winter,Arizona,7,95,665,0,0,0
+2016,Winter,Arkansas,115,54,6210,0,0,1
+2016,Winter,California,170,78,13260,0,0,0
+2016,Winter,Colorado,2190,48,105120,0,0,5
+2016,Winter,Delaware,65,67,4355,0,0,1
+2016,Winter,Florida,17,30,510,0,0,0
+2016,Winter,Georgia,110,46,5060,0,1,0
+2016,Winter,Idaho,710,94,66740,0,0,6
+2016,Winter,Illinois,470,74,34780,0,0,0
+2016,Winter,Indiana,280,81,22680,0,1,3
+2016,Winter,Iowa,17,63,1071,0,0,0
+2016,Winter,Kansas,8200,57,467400,0,1,9
+2016,Winter,Kentucky,400,80,32000,0,0,5
+2016,Winter,Louisiana,20,45,900,0,1,0
+2016,Winter,Maryland,260,64,16640,0,0,0
+2016,Winter,Michigan,570,89,50730,0,0,3
+2016,Winter,Minnesota,8,61,488,0,1,3
+2016,Winter,Mississippi,50,48,2400,0,0,0
+2016,Winter,Missouri,570,70,39900,0,0,0
+2016,Winter,Montana,2150,49,105350,0,0,3
+2016,Winter,Nebraska,1310,54,70740,0,0,7
+2016,Winter,Nevada,6,75,450,0,0,0
+2016,Winter,New Jersey,21,64,1344,0,0,0
+2016,Winter,New Mexico,205,22,4510,0,0,0
+2016,Winter,New York,115,74,8510,0,0,0
+2016,Winter,North Carolina,355,41,14555,0,1,1
+2016,Winter,North Dakota,120,48,5760,0,0,1
+2016,Winter,Ohio,560,80,44800,0,0,0
+2016,Winter,Oklahoma,3500,39,136500,0,5,18
+2016,Winter,Oregon,710,50,35500,0,0,0
+2016,Winter,Pennsylvania,150,68,10200,0,0,0
+2016,Winter,South Carolina,50,43,2150,0,0,0
+2016,Winter,South Dakota,1100,58,63800,0,0,7
+2016,Winter,Tennessee,335,73,24455,0,0,0
+2016,Winter,Texas,2800,32,89600,0,2,12
+2016,Winter,Utah,112,60,6720,0,0,0
+2016,Winter,Virginia,175,53,9275,0,3,0
+2016,Winter,Washington,1670,78,130260,0,0,2
+2016,Winter,West Virginia,4,61,244,0,0,0
+2016,Winter,Wisconsin,250,79,19750,0,2,8
+2016,Winter,Wyoming,125,34,4250,0,0,0
+2016,Spring,Colorado,10,88,880,0,0,0
+2016,Spring,Idaho,395,87,34365,0,0,4
+2016,Spring,Minnesota,1260,59,74340,0,1,2
+2016,Spring,Montana,2110,36,75960,0,0,1
+2016,Spring,Nevada,3,67,201,0,0,0
+2016,Spring,North Dakota,5850,46,269100,0,0,1
+2016,Spring,Oregon,87,51,4437,0,0,0
+2016,Spring,South Dakota,1050,45,47250,0,0,5
+2016,Spring,Utah,8,58,464,0,0,0
+2016,Spring,Washington,530,51,27030,0,0,2
+2016,Durum,Arizona,96,98,9408,0,0,0
+2016,Durum,California,47,86,4042,0,0,0
+2016,Durum,Idaho,10,75,750,0,0,0
+2016,Durum,Montana,765,41,31365,0,0,1
+2016,Durum,North Dakota,1440,40.5,58320,0,0,0
+2016,Durum,South Dakota,7,33,231,0,0,0
